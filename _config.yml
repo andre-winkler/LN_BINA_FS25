@@ -1,0 +1,7 @@
+# Titel und Beschreibung
+title: BINA
+description: TODO
+
+# Einstellungen
+markdown: kramdown
+theme: minima
