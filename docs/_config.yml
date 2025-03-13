@@ -5,4 +5,4 @@ description: "TODO"
 # Einstellungen
 layout: page
 markdown: kramdown
-theme: slate
+theme: jekyll-theme-slate
