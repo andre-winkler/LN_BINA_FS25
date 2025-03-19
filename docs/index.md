@@ -1,7 +1,7 @@
 
 ![FH Logos](images/FH_Logos.png)
 
-<div class="table-name-value">
+
 
 | | |
 | --- | --- |
@@ -9,7 +9,6 @@
 | **Modul** | BINA - Business Intelligence & Analytics (Sa+, FS25) |
 | **Dozent** | Dr. Alen Doko, FFHS |
 
-</div>
 
 {% include_relative einleitung.md %}
 
