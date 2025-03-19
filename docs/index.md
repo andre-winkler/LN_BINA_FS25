@@ -1,5 +1,5 @@
 
-![FH Logos](images/FH_Logos.png)
+![FH Logos](assets/images/FH_Logos.png)
 
 
 <div class="table-name-value" markdown="1">
