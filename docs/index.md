@@ -9,7 +9,8 @@
 
 </div>
 
-{% include_relative einleitung.md %}
+{% include_relative 1_management_summary.md %}
+{% include_relative 2_einleitung.md %}
 
 
 <iframe src="sunhours_per_month.html"></iframe>
