@@ -11,7 +11,7 @@
 
 </div>
 
-{% include einleitung.md %}
+{% include_relative einleitung.md %}
 
 
 <iframe src="sunhours_per_month.html" width="100%" height="600"></iframe>
