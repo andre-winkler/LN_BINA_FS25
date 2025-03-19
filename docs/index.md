@@ -16,6 +16,3 @@
 {% include_relative 5_daten_sammeln.md %}
 {% include_relative 6_daten_analysieren.md %}
 {% include_relative 7_zusammenfassung.md %}
-
-
-<iframe src="sunhours_per_month.html"></iframe>
