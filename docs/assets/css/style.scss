@@ -6,7 +6,15 @@
 .inner {
     max-width: 1024px;
 }
- 
+
+#footer_wrap {
+    background: #dbdbdb;
+}
+
+footer p {
+    color: #272727;
+}
+
 .table-name-value { 
     thead {
         display: none;
