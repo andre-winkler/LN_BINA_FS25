@@ -1,0 +1,7 @@
+ 
+.table-name-value th {
+    display: none;
+}
+.table-name-value td {
+    border: none;
+}

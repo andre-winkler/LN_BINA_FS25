@@ -1,14 +1,6 @@
 
 ![FH Logos](images/FH_Logos.png)
 
-<style>
-    .table-name-value th {
-        display: none;
-    }
-    .table-name-value td {
-        border: none;
-    }
-</style>
 <div class="table-name-value">
 
 | | |
@@ -18,5 +10,8 @@
 | **Dozent** | Dr. Alen Doko, FFHS |
 
 </div>
+
+{% include sunhours_per_month.md %}
+
 
 <iframe src="sunhours_per_month.html" width="100%" height="600"></iframe>
