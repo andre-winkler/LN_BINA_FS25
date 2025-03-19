@@ -11,13 +11,9 @@
 
 {% include_relative 1_management_summary.md %}
 {% include_relative 2_einleitung.md %}
+{% include_relative 3_vorgehen.md %}
+{% include_relative 4_ziele.md %}
+{% include_relative 5_daten_sammeln.md %}
 
 
-<iframe src="sunhours_per_month.html"
-WIDTH=100% HEIGHT=99% 
-     SCROLLING=NO
-     frameborder=0
-     marginheight=0
-     marginwidth=0
-     hspace=0
-     vspace=0></iframe>
+<iframe src="sunhours_per_month.html"></iframe>
