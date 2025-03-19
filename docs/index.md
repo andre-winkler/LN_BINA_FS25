@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="de">
 <head>
     <meta charset="UTF-8">
@@ -13,7 +12,7 @@
     <main>
         <p>Dies ist ein Beispieltext.</p>
 
-        <div class="tip" markdown="1">Have **fun!**</div>
+        Have **fun!**
 
         <iframe src="sunhours_per_month.html" width="100%" height="600"></iframe>
 
