@@ -5,4 +5,5 @@ description: "Analyse der letzten 10 Jahre & eine Prognose"
 # Einstellungen
 layout: page
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
+show_downloads: false
