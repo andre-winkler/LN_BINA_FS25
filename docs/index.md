@@ -2,13 +2,13 @@
 ![FH Logos](images/FH_Logos.png)
 
 
-
-| | |
-| --- | --- |
-| **Verfasser** | Fabienne Ghirardin, Amel Kujovic und André Winkler |
-| **Modul** | BINA - Business Intelligence & Analytics (Sa+, FS25) |
-| **Dozent** | Dr. Alen Doko, FFHS |
-
+<div class="table-name-value">
+    | | |
+    | --- | --- |
+    | **Verfasser** | Fabienne Ghirardin, Amel Kujovic und André Winkler |
+    | **Modul** | BINA - Business Intelligence & Analytics (Sa+, FS25) |
+    | **Dozent** | Dr. Alen Doko, FFHS |
+</div>
 
 {% include_relative einleitung.md %}
 
