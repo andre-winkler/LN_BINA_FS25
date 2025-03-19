@@ -8,11 +8,11 @@
 }
  
 .table-name-value { 
-    table thead {
+    thead {
         display: none;
     }
     
-    td {
+    table, td {
         border: none;
     }
 }
