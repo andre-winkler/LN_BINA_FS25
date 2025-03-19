@@ -15,6 +15,8 @@
 
         <div class="tip" markdown="1">Have **fun!**</div>
 
+        <iframe src="sunhours_per_month.html" width="100%" height="600"></iframe>
+
     </main>
     <footer>
         <p>&copy; 2025 Dein Name</p>
