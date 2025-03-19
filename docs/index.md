@@ -13,4 +13,11 @@
 {% include_relative 2_einleitung.md %}
 
 
-<iframe src="sunhours_per_month.html"></iframe>
+<iframe src="sunhours_per_month.html"
+WIDTH=100% HEIGHT=99% 
+     SCROLLING=NO
+     frameborder=0
+     marginheight=0
+     marginwidth=0
+     hspace=0
+     vspace=0></iframe>
