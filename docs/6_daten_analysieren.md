@@ -14,4 +14,6 @@ TODO Feststellung hier beschreiben
 TODO versuche noch eine Schweizer Map zu machen!
 
 
+<iframe src="assets/diagramme/swiss_stations_map.html"></iframe>
+
 <iframe src="assets/diagramme/swiss_sunhours_map.html"></iframe>
