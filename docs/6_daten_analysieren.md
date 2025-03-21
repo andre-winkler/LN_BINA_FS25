@@ -27,3 +27,9 @@ Für die Auswertungen der Sonnenstunden pro Kanton und der Darstellung auf einer
 <iframe src="assets/diagramme/swiss_sunhours_map.html"></iframe>
 
 TODO Feststellungen hier beschreiben
+
+### Solar Energie im Vergleich zu den anderen Stromquellen
+
+<iframe src="assets/diagramme/solar_vs_other_energy_sources.html"></iframe>
+
+TODO Feststellungen hier beschreiben
