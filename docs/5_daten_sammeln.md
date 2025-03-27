@@ -5,24 +5,16 @@ Neben den wirtschaftlichen und technischen Aspekten ist die Sonneneinstrahlung d
 
 Die gesammelten Daten wurden nach ihrer Bereinigung in ein einheitliches Format überführt. Um eine präzisere Analyse zu ermöglichen, erfolgte die Aggregation auf Stundenbasis. Dies erlaubt eine genauere Untersuchung von Trends und Schwankungen im Tagesverlauf sowie eine präzisere Modellierung der Solarstromproduktion. Die Kombination dieser umfangreichen Datensätze bildet die Grundlage für die Untersuchung der Vergangenheit und ermöglicht es, Prognosen für die zukünftige Entwicklung der Solarenergie in der Schweiz abzuleiten.
 
-### MeteoSchweiz
-#### Datenquelle
-#### Datenqualität
-#### Messmethoden und Annahmen
-
-### Bundesamt für Enegerie (BFE)
-#### Datenquelle
-#### Datenqualität
-#### Messmethoden und Annahmen
-
-### Verband unabängiger Energieerzeuger
-#### Datenquelle
-#### Datenqualität
-#### Messmethoden und Annahmen
+### Daten Quellen
+TODO
 
 ### Datenmodellierung
-TODO 
-Amel: Ich verstehe nicht was in dieses Kapitel soll...
+TODO
 
+### MeteoSchweiz Wetterdaten
+#### Datenquelle
+TODO Amel
 
+#### Datenqualität
+-> fehlende Daten
 
