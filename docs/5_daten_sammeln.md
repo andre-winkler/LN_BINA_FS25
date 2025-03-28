@@ -48,8 +48,7 @@ Der Datensatz enthält Angaben zur installierten Leistung (in kW), zum Inbetrieb
 ### Verband unabängiger Energieerzeuger
 #### Datenquelle
 
-
-![Bundesamt für Energie Logo](assets/images/vese.logo.png)
+![VESE Logo](assets/images/vese_logo.png)
 https://www.sses.ch/de/regional-und-fachgruppen/vese/
 
 
