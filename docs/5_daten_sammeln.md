@@ -7,6 +7,12 @@ Die gesammelten Daten wurden nach ihrer Bereinigung in ein einheitliches Format 
 
 ### MeteoSchweiz
 #### Datenquelle
+
+
+
+
+![Meteo Schweiz Logo](assets/images/meteoschweiz_logo.png)
+
 #### Datenqualität
 #### Messmethoden und Annahmen
 
