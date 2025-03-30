@@ -33,3 +33,6 @@ TODO Feststellungen hier beschreiben
 <iframe src="assets/diagramme/solar_vs_other_energy_sources.html"></iframe>
 
 TODO Feststellungen hier beschreiben
+
+<iframe src="assets/diagramme/stromproduktion_kuchendiagramm_2015_2024.html" 
+        width="100%" height="600px" style="border:none;"></iframe>
