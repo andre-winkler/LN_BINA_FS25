@@ -3,7 +3,7 @@ In den letzten Jahren hat die Solarenergie weltweit an Bedeutung gewonnen, und a
 
 Solarenergie basiert auf der Nutzung der Sonnenstrahlung zur Erzeugung von elektrischem Strom. Dies geschieht durch Photovoltaikanlagen, die Sonnenlicht direkt in elektrische Energie umwandeln. Die Solarzellen, meist aus Silizium, nutzen den photovoltaischen Effekt, bei dem Licht Elektronen freisetzt und somit eine elektrische Spannung erzeugt. Diese Technologie hat sich in den letzten Jahren stark weiterentwickelt und bietet heute hohe Wirkungsgrade und wirtschaftliche Vorteile.
 
-TODO Bild einfügen
+![Aufbau einer Solarzelle](assets/images/solarzelle-aufbau.png)
 
 Die Schweiz, mit ihren zahlreichen Sonnenstunden und der zunehmenden Notwendigkeit, fossile Brennstoffe zu ersetzen, bietet ideale Bedingungen für die Nutzung von Solarenergie. Die Vorteile sind vielfältig: Solarenergie ist umweltfreundlich, reduziert die Abhängigkeit von importierten Energieträgern und trägt zur Stabilisierung der Strompreise bei. Zudem unterstützt die Schweizer Regierung den Ausbau erneuerbarer Energien durch verschiedene Förderprogramme und steuerliche Anreize.
 
