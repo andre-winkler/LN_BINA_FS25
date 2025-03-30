@@ -1,7 +1,7 @@
-## Daten analysieren
+## Datenanalyse und Erkenntnisse
 Hinweis: folgende Unterkapitel beziehen sich auf einen Zeitraum von den letzten 10 Jahren (01.01.2014 - 31.12.2024).
 
-### Wetterenticklung in der Schweiz
+### Wetterentwicklung in der Schweiz
 Die in diesem Kapitel präsentierten Daten stammen von MeteoSwiss, der offiziellen Wetter- und Klimainstitution der Schweiz. Die Messwerte werden von verschiedenen meteorologischen Stationen erfasst, die strategisch über das gesamte Land verteilt sind. Diese breite Streuung der Messpunkte stellt sicher, dass die erfassten Wetter- und Klimadaten eine repräsentative Abdeckung für die gesamte Schweiz bieten.
 
 Die nachfolgende Karte gibt einen Überblick über die Standorte der jeweiligen Messstationen und verdeutlicht die flächendeckende Erfassung der Daten.
@@ -33,3 +33,6 @@ TODO Feststellungen hier beschreiben
 <iframe src="assets/diagramme/solar_vs_other_energy_sources.html"></iframe>
 
 TODO Feststellungen hier beschreiben
+
+<iframe src="assets/diagramme/stromproduktion_kuchendiagramm_2015_2024.html" 
+        width="100%" height="600px" style="border:none;"></iframe>
