@@ -1,7 +1,7 @@
 ## Einleitung
 
-<div class="float-right-image">
-    <img style="width: 250px" src="assets/images/solarenergie.png">
+<div class="float-right-image" style="width: 250px">
+    <img src="assets/images/solarenergie.png">
     <div class="image-label">"Erstellt mit ChatGPT"</div>
 </div>
 
