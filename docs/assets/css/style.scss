@@ -33,9 +33,18 @@ iframe {
     }
 }
 
+
+.float-right-image {
+    margin-left: 20px;
+    float: right;
+
+    img {
+        margin: 0px;
+        padding: 0px;
+    }
+}
+
 .image-label {
-    display: flex;
-    align-items: center;
-    margin-top: 10px;
+    text-align: center;
     font-style: italic;
 }
