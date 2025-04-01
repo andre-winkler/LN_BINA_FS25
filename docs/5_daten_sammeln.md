@@ -13,8 +13,10 @@ Für die vorliegende Analyse wurde der Zeitraum vom 01.01.2015 bis zum 31.12.202
 
 Der Zugriff auf die Daten erforderte eine offizielle Registrierung bei MeteoSchweiz. Zu diesem Zweck wurde ein entsprechendes Formular unterzeichnet und eingereicht. Die Daten dürfen ausschliesslich für Lehre und Forschung verwendet werden.
 
-![Meteo Schweiz Logo](assets/images/meteoschweiz_logo.png)
-https://x.com/meteoschweiz
+<div class="float-right-image">
+    <img style="width: 250px" src="assets/images/meteoschweiz_logo.png">
+    <div class="image-label">https://x.com/meteoschweiz</div>
+</div>
 
 #### Datenqualität
 Die Messdaten von MeteoSchweiz gelten als sehr zuverlässig, da sie vom nationalen Wetterdienst kontinuierlich erhoben, validiert und überwacht werden. Gemäss Rückmeldung von MeteoSchweiz wurden zwischen 2020 und 2023 sämtliche relevanten Wetterstationen auf direkte Messung der Sonnenscheindauer umgerüstet. Seit dem 4. August 2023 liegen daher ausschliesslich gemessene Daten vor. Frühere Werte basieren teilweise auf berechneten Modellen.
@@ -35,9 +37,10 @@ Die Datengrundlage dieses Abschnitts basiert auf einem CSV-Datensatz, der über 
 
 Für diese Analyse wurde die Datei gefiltert, sodass ausschliesslich Photovoltaikanlagen berücksichtigt wurden, deren Inbetriebnahmedatum zwischen dem 01.01.2015 und dem 31.12.2024 liegt. Die Datei enthält Angaben zur installierten Leistung (in kW), zum Standort (Kanton, Gemeinde), zur Kategorie der Anlage sowie zum Zeitpunkt der Inbetriebnahme.
 
-![Bundesamt für Energie Logo](assets/images/bfe_logo.jpg)
-https://www.iwf.ch/web-solutions/showcase/web-applikation-fuer-das-bundesamt-fuer-energie
-
+<div class="float-right-image">
+    <img style="width: 250px" src="assets/images/bfe_logo.jpg">
+    <div class="image-label">https://www.iwf.ch/web-solutions/showcase/web-applikation-fuer-das-bundesamt-fuer-energie</div>
+</div>
 
 #### Datenqualität
 Die Daten basieren auf Einträgen im offiziellen Produktionsanlagenregister und gelten als konsistent sowie gut strukturiert. Da es sich um Primärdaten handelt, wurden sie nicht verändert oder ergänzt. Es fanden weder Aggregationen noch Schätzungen statt. Die Inbetriebnahmedaten erlauben zeitlich präzise Auswertungen pro Jahr, während die Standortinformationen eine regionale Analyse ermöglichen.
@@ -48,8 +51,10 @@ Der Datensatz enthält Angaben zur installierten Leistung (in kW), zum Inbetrieb
 ### Verband unabängiger Energieerzeuger
 #### Datenquelle
 
-![VESE Logo](assets/images/vese_logo.png)
-https://www.sses.ch/de/regional-und-fachgruppen/vese/
+<div class="float-right-image">
+    <img style="width: 250px" src="assets/images/vese_logo.png">
+    <div class="image-label">https://www.sses.ch/de/regional-und-fachgruppen/vese/</div>
+</div>
 
 
 #### Datenqualität
