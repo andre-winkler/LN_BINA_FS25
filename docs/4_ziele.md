@@ -1,4 +1,4 @@
-## Ziele und Informationsbedürfnisse definieren
+## Ziele und Informationsbedarf definieren
 Letzten 10 Jahren (01.01.2015 - 31.12.2024)
     • Wetterentwicklung in der Schweiz
         ○ Entwicklung der Sonnenstunden in der Schweiz
