@@ -7,7 +7,7 @@ Die gesammelten Daten wurden nach ihrer Bereinigung in ein einheitliches Format 
 
 ### MeteoSchweiz
 #### Datenquelle
-Die meteorologischen Daten stammen von MeteoSchweiz und wurden über die Plattform IDAWeb bezogen. Die Datengrundlage basiert auf einem Netz von 132 automatisierten Wetterstationen, die flächendeckend in der ganzen Schweiz verteilt sind. Eine Ausnahme bilden die Kantone Appenzell Ausserrhoden (AR) und Nidwalden (NW), in denen derzeit keine eigene Wetterstation betrieben wird, siehe Kapitel "Wetterentwicklung in der Schweiz".
+Die meteorologischen Daten stammen von MeteoSchweiz und wurden über die Plattform IDAWeb bezogen. Die Datengrundlage basiert auf einem Netz von 132 automatisierten Wetterstationen, die flächendeckend in der ganzen Schweiz verteilt sind. Eine Ausnahme bildet der Kanton Appenzell Ausserrhoden (AR), in dem derzeit keine Wetterstation betrieben wird, siehe Kapitel "Wetterentwicklung in der Schweiz".
 
 Für die vorliegende Analyse wurde der Zeitraum vom 01.01.2015 bis zum 31.12.2024 ausgewertet. In IDAWeb wurde gezielt nach dem Parameter «Sonnenstunden» gefiltert. Zusätzlich wurde ein Stationsfilter angewendet, um ausschliesslich Wetterstationen innerhalb der Schweiz auszuwählen. Die so extrahierten Daten bilden die Grundlage für die Analyse der saisonalen und regionalen Unterschiede in der Sonneneinstrahlung.
 
@@ -18,7 +18,7 @@ Der Zugriff auf die Daten erforderte eine offizielle Registrierung bei MeteoSchw
     <div class="image-label">https://x.com/meteoschweiz</div>
 </div>
 
-#### Datenqualität
+#### Datenqualität und Bereinigung
 Die Messdaten von MeteoSchweiz gelten als sehr zuverlässig, da sie vom nationalen Wetterdienst kontinuierlich erhoben, validiert und überwacht werden. Gemäss Rückmeldung von MeteoSchweiz wurden zwischen 2020 und 2023 sämtliche relevanten Wetterstationen auf direkte Messung der Sonnenscheindauer umgerüstet. Seit dem 4. August 2023 liegen daher ausschliesslich gemessene Daten vor. Frühere Werte basieren teilweise auf berechneten Modellen.
 
 In der Datenaufbereitung zeigte sich, dass nicht für alle Stationen in allen Jahren vollständige Werte vorlagen – sei es, weil eine Station noch nicht in Betrieb war, oder weil sie temporär ausser Betrieb war (z. B. durch Wartungen oder technische Störungen). Für diese Fälle wurden jährliche Durchschnittswerte anderer Stationen desselben Kantons als Näherung verwendet. Insgesamt waren davon 2'561 von 15'960 Datensätzen betroffen, was einem Anteil von 16.05 % entspricht. Diese Verrechnungen wurden bei der Interpretation entsprechend berücksichtigt.
@@ -42,7 +42,7 @@ Für diese Analyse wurde die Datei gefiltert, sodass ausschliesslich Photovoltai
     <div class="image-label">https://www.iwf.ch/web-solutions/showcase/web-applikation-fuer-das-bundesamt-fuer-energie</div>
 </div>
 
-#### Datenqualität
+#### Datenqualität und Bereinigung
 Die Daten basieren auf Einträgen im offiziellen Produktionsanlagenregister und gelten als konsistent sowie gut strukturiert. Da es sich um Primärdaten handelt, wurden sie nicht verändert oder ergänzt. Es fanden weder Aggregationen noch Schätzungen statt. Die Inbetriebnahmedaten erlauben zeitlich präzise Auswertungen pro Jahr, während die Standortinformationen eine regionale Analyse ermöglichen.
 
 #### Messmethoden und Annahmen
@@ -57,7 +57,7 @@ Der Datensatz enthält Angaben zur installierten Leistung (in kW), zum Inbetrieb
 </div>
 
 
-#### Datenqualität
+#### Datenqualität und Bereinigung
 #### Messmethoden und Annahmen
 
 ### Datenmodellierung
