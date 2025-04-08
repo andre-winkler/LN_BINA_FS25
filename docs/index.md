@@ -11,6 +11,8 @@
 
 * TOC {:toc}
 
+* Placeholder for Table of Content (Must not be removed) <newline> {:toc}
+
 {% include_relative 1_management_summary.md %}
 {% include_relative 2_einleitung.md %}
 {% include_relative 3_vorgehen.md %}
