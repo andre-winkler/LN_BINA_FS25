@@ -50,3 +50,31 @@ Hinweis: Die Programme können sich laufend ändern. Für aktuelle Informationen
 | **Thurgau** |         | 15 % der Investitionskosten (bis 22 kW)           | 2000 CHF Prämie für Neuwagen   | Unklar / evtl. kommunale Steuerreduktion      |
 | **Uri**     | EIV + Bonus für vertikale Winteranlagen (≥75°), Förderung in Kombination mit Ladepunkten | Förderung im Rahmen PV-Programms| Keine direkte Prämie, Förderung über Infrastruktur | Unklar / keine spezielle Regelung             |
 | **Waadt**   | EIV + kommunale Programme möglich         | Beiträge für Ladeinfrastruktur (Details unklar)   | Prämien je nach Gemeinde möglich                | Unklar / teils kommunale Steuererleichterung  |
+
+
+### Glossar zur Fallstudie: Solarenergie in der Schweiz
+| Begriff / Abkürzung         | Definition / Erklärung |
+|----------------------------|-------------------------|
+| **Agri-PV**                | Kombination von Photovoltaikanlagen mit landwirtschaftlicher Nutzung (z. B. über Feldern oder Weiden). |
+| **BFE (Bundesamt für Energie)** | Bundesbehörde der Schweiz zur Energiepolitik, Datenerhebung und Koordination von Förderprogrammen. |
+| **Bidirektionales Ladesystem** | Technologie, bei der Elektrofahrzeuge sowohl geladen als auch als Energiespeicher genutzt werden können (z. B. für Rückspeisung ins Netz). |
+| **Boxplot**                | Statistisches Diagramm zur Darstellung der Spannweite, Quartile, Medianwerte und möglicher Ausreißer eines Datensatzes. |
+| **CPA Framework**          | Datenanalytisches Vorgehensmodell mit vier Schritten: Ziele definieren, Daten sammeln, analysieren und präsentieren. |
+| **DSGVO**                  | Datenschutz-Grundverordnung der EU, regelt den Umgang mit personenbezogenen Daten – relevant bei der Datenerhebung und -speicherung. |
+| **EIV (Einmalvergütung)** | Bundesförderung in der Schweiz für PV-Anlagen, einmalige Auszahlung pro kW installierter Leistung. |
+| **Einspeisevergütung**     | Vergütung pro eingespeister Kilowattstunde Solarstrom ins öffentliche Netz, je nach Programm variabel. |
+| **Globalstrahlung**        | Summe der direkten und diffusen Sonnenstrahlung, die auf eine horizontale Fläche trifft (Einheit: W/m²). |
+| **IDAWeb**                 | Online-Datenportal von MeteoSchweiz, über das meteorologische Rohdaten wie Sonnenstunden heruntergeladen werden können. |
+| **Installierte Leistung (kW)** | Die maximale elektrische Leistung, die eine Photovoltaikanlage unter Standardbedingungen liefern kann. |
+| **KAQ (Key Analytics Question)** | Zentrale analytische Fragestellung, die mit Daten beantwortet werden soll – dient der strategischen Entscheidungsfindung. |
+| **KEV (Kostendeckende Einspeisevergütung)** | Ehemaliges Förderinstrument des Bundes zur Unterstützung von Solarstrom; durch EIV abgelöst. |
+| **Median**                 | Der mittlere Wert eines geordneten Datensatzes – teilt die Datenmenge in zwei gleich große Hälften. |
+| **MeteoSchweiz**           | Nationale Wetter- und Klimainstitution der Schweiz – zentrale Quelle für meteorologische Langzeitdaten. |
+| **opendata.swiss**         | Offizielle Schweizer Plattform für offene Behördendaten – auch Quelle für Energiedaten des BFE. |
+| **Photovoltaik (PV)**      | Technologie zur direkten Umwandlung von Sonnenlicht in elektrischen Strom mittels Solarzellen. |
+| **Photovoltaikanlage (PV-Anlage)** | Komplettes System aus Solarmodulen, Wechselrichtern und Installation zur Stromgewinnung aus Sonnenlicht. |
+| **Solarzelle**             | Elektronisches Bauteil, meist aus Silizium, das Licht in elektrischen Strom umwandelt (basierend auf dem photovoltaischen Effekt). |
+| **Sonnenstunden**          | Zeitspanne, während der die Globalstrahlung einen bestimmten Schwellenwert überschreitet (Schweiz: 200 W/m²). |
+| **Subvention / Förderung** | Finanzielle Anreize durch Bund, Kantone oder Gemeinden zur Förderung nachhaltiger Energieprojekte. |
+| **VESE**                   | Verband unabhängiger Energieerzeuger Schweiz – unterstützt Kleinproduzenten und Prosumenten. |
+| **Wirkungsgrad**           | Verhältnis zwischen eingestrahlter Sonnenenergie und tatsächlich erzeugter elektrischer Energie einer PV-Anlage. |
