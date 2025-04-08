@@ -34,16 +34,18 @@ Aus diesem Diagramm kann man folgende Feststellungen ableiten:
 * **Regionale Unterschiede:** In den südlichen Teilen der Schweiz (z.B. Tessin) gibt es mehr Sonnenstunden als in den nördlicheren Regionen (z.B. Zürich oder Basel).
 
 <br>
-TODO Amel - Code von Diagramm fehlt
+TODO Amel - Python Code von Diagramm fehlt
 <iframe src="assets/diagramme/sonnenstunden_3d_final_extrem_flach.html" width="100%" height="600px"></iframe>
 
 TODO Amel - Feststellungen
 
-### Solar Energie im Vergleich zu den anderen Stromquellen
+### Solarenergie-Entwicklung in der Schweiz
+
+Folgende zwei Grafiken präsentieren die Energie-Entwicklung in der Schweiz der letzten 10 Jahre. Einmal als Flächenchart und für detailliertere Auswertung als Pie-Chart.
 
 <iframe src="assets/diagramme/solar_vs_other_energy_sources.html"></iframe>
 
-TODO Feststellungen hier beschreiben
-
 <iframe src="assets/diagramme/stromproduktion_kuchendiagramm_2015_2024.html" 
         width="100%" height="600px" style="border:none;"></iframe>
+
+TODO Feststellungen hier beschreiben
