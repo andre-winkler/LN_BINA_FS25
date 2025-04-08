@@ -9,9 +9,7 @@
 
 </div>
 
-[[_TOC_]]
-or
-[TOC]
+* TOC {:toc}
 
 {% include_relative 1_management_summary.md %}
 {% include_relative 2_einleitung.md %}
