@@ -1,10 +1,4 @@
 ## Anhang
-test von Amel
-
-
-
-
-
 ### Subventionen und Förderung
 
 🔗 Hinweis zu den Förderinformationen

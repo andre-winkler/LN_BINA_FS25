@@ -46,7 +46,7 @@ Die Datengrundlage dieses Abschnitts basiert auf einem CSV-Datensatz, der über 
 Für diese Analyse wurde die Datei gefiltert, sodass ausschliesslich Photovoltaikanlagen berücksichtigt wurden, deren Inbetriebnahmedatum zwischen dem 01.01.2015 und dem 31.12.2024 liegt. Die Datei enthält Angaben zur installierten Leistung (in kW), zum Standort (Kanton, Gemeinde), zur Kategorie der Anlage sowie zum Zeitpunkt der Inbetriebnahme.
 
 <div class="float-right-image" style="width: 250px">
-    <img src="assets/images/bfe_logo.jpg">
+    <img src="assets/images/bfe_logo.png">
     <div class="image-label">https://www.iwf.ch/web-solutions/showcase/web-applikation-fuer-das-bundesamt-fuer-energie</div>
 </div>
 
