@@ -9,6 +9,10 @@
 
 </div>
 
+[[_TOC_]]
+or
+[TOC]
+
 {% include_relative 1_management_summary.md %}
 {% include_relative 2_einleitung.md %}
 {% include_relative 3_vorgehen.md %}

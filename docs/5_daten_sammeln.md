@@ -23,6 +23,14 @@ Die Messdaten von MeteoSchweiz gelten als sehr zuverlässig, da sie vom national
 
 In der Datenaufbereitung zeigte sich, dass nicht für alle Stationen in allen Jahren vollständige Werte vorlagen – sei es, weil eine Station noch nicht in Betrieb war, oder weil sie temporär ausser Betrieb war (z. B. durch Wartungen oder technische Störungen). Für diese Fälle wurden jährliche Durchschnittswerte anderer Stationen desselben Kantons als Näherung verwendet. Insgesamt waren davon 2'561 von 15'960 Datensätzen betroffen, was einem Anteil von 16.05 % entspricht. Diese Verrechnungen wurden bei der Interpretation entsprechend berücksichtigt.
 
+Technisch mussten folgende Daten-Bereinigungen und - Anpassungen vorgenommen werden (siehe ipynb\meteo_swiss_data.ipynb):
+* Die Datensets der Wetterdaten und Wetterstationen zusammenführen
+* Lichtenstein filtern
+* Konvertieren in Datumsformat zum zusätzlichen filtern
+* Konvertieren in Zahlenformate
+* Gruppieren von Daten
+* ...
+
 
 #### Messmethoden und Annahmen
 Die Bestimmung der Sonnenscheindauer erfolgt bei MeteoSchweiz auf Basis eines festgelegten Schwellenwerts für die Globalstrahlung. Überschreitet die Strahlung einen Wert von 200 W/m², gilt der entsprechende Zeitraum als sonnig. Dieser Schwellenwert ist im internationalen Vergleich relativ hoch – in vielen anderen Ländern wird ein Wert von nur 120 W/m² verwendet. Dies hat Einfluss auf die ausgewiesene Anzahl an Sonnenstunden und muss bei internationalen Vergleichen entsprechend berücksichtigt werden.

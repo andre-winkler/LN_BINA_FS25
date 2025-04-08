@@ -1,5 +1,5 @@
 ## Datenanalyse und Erkenntnisse
-Hinweis: folgende Unterkapitel beziehen sich auf einen Zeitraum von den letzten 10 Jahren (01.01.2014 - 31.12.2024).
+Hinweis: folgende Unterkapitel beziehen sich grundsätzlich auf einen Zeitraum von den letzten 10 Jahren (01.01.2015 - 31.12.2024).
 
 ### Wetterentwicklung in der Schweiz
 Die in diesem Kapitel präsentierten Daten stammen von MeteoSwiss, der offiziellen Wetter- und Klimainstitution der Schweiz. Die Messwerte werden von verschiedenen meteorologischen Stationen erfasst, die strategisch über das gesamte Land verteilt sind. Diese breite Streuung der Messpunkte stellt sicher, dass die erfassten Wetter- und Klimadaten eine repräsentative Abdeckung für die gesamte Schweiz bieten.
@@ -16,23 +16,27 @@ Das Liniendiagramm stellt die Entwicklung der monatlichen Sonnenstunden im Verla
 <iframe src="assets/diagramme/sunhours_per_month.html"></iframe>
 
 
-
 Die folgende Grafik stellt die Verteilung der Sonnenstunden in einer alternativen Darstellungsform als Boxplot dar. Diese Visualisierung ermöglicht eine präzisere Analyse der Spannweite, Medianwerte und möglicher Ausreisser innerhalb der Daten.
 
 <iframe src="assets/diagramme/sunhours_distribution_per_month.html"></iframe>
 
-TODO Feststellungen hier beschreiben
+Aus diesen zwei Diagrammen kann man folgende Feststellungen ableiten:
+* **Hohe Sonnenstunden im Sommer, niedrige im Winter:** Die Sonnenstunden pro Monat erreichen ihren Höhepunkt in den Sommermonaten (Mai bis August), mit einem deutlichen Rückgang in den Wintermonaten (November bis Februar).
+* **Eindeutiger Trend zu mehr Sonnenstunden im Frühling und Herbst:** Frühling und Herbst weisen eine moderate Anzahl an Sonnenstunden auf, was für die Solarproduktion außerhalb der Sommermonate von Bedeutung ist.
+* **Schwankende Jahreswerte:** In den dargestellten Jahren gibt es Schwankungen bei der Gesamtzahl der Sonnenstunden, was auf jahreszeitlich bedingte Variationen hinweist, aber auch auf mögliche langfristige klimatische Veränderungen.
 
-
+<br>
 Für die Auswertungen der Sonnenstunden pro Kanton und der Darstellung auf einer Karte mussten die Wetterdaten (Sonnenstunden) mit den  Wettermessstationen-Daten kombiniert werden. Ausserdem mussten die Daten angereichert werden, z.B. mit den Kantonen anhand der Orte der Messstationen.
 
 <iframe src="assets/diagramme/swiss_sunhours_map.html"></iframe>
 
-TODO Feststellungen hier beschreiben
+* **Regionale Unterschiede:** In den südlichen Teilen der Schweiz (z.B. Tessin) gibt es mehr Sonnenstunden als in den nördlicheren Regionen (z.B. Zürich oder Basel).
 
+<br>
+TODO Amel - Code von Diagramm fehlt
 <iframe src="assets/diagramme/sonnenstunden_3d_final_extrem_flach.html" width="100%" height="600px"></iframe>
 
-TODO
+TODO Amel - Feststellungen
 
 ### Solar Energie im Vergleich zu den anderen Stromquellen
 

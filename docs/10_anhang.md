@@ -59,7 +59,7 @@ Hinweis: Die Programme können sich laufend ändern. Für aktuelle Informationen
 | **Agri-PV** | Kombination von Photovoltaikanlagen mit landwirtschaftlicher Nutzung (z. B. über Feldern oder Weiden). |
 | **BFE (Bundesamt für Energie)** | Bundesbehörde der Schweiz zur Energiepolitik, Datenerhebung und Koordination von Förderprogrammen. |
 | **Bidirektionales Ladesystem** | Technologie, bei der Elektrofahrzeuge sowohl geladen als auch als Energiespeicher genutzt werden können (z. B. für Rückspeisung ins Netz). |
-| **Boxplot** | Statistisches Diagramm zur Darstellung der Spannweite, Quartile, Medianwerte und möglicher Ausreißer eines Datensatzes. |
+| **Boxplot** | Statistisches Diagramm zur Darstellung der Spannweite, Quartile, Medianwerte und möglicher Ausreisser eines Datensatzes. |
 | **CPA Framework** | Datenanalytisches Vorgehensmodell mit vier Schritten: Ziele definieren, Daten sammeln, analysieren und präsentieren. |
 | **DSGVO** | Datenschutz-Grundverordnung der EU, regelt den Umgang mit personenbezogenen Daten – relevant bei der Datenerhebung und -speicherung. |
 | **EIV (Einmalvergütung)** | Bundesförderung in der Schweiz für PV-Anlagen, einmalige Auszahlung pro kW installierter Leistung. |
@@ -69,7 +69,7 @@ Hinweis: Die Programme können sich laufend ändern. Für aktuelle Informationen
 | **Installierte Leistung (kW)** | Die maximale elektrische Leistung, die eine Photovoltaikanlage unter Standardbedingungen liefern kann. |
 | **KAQ (Key Analytics Question)** | Zentrale analytische Fragestellung, die mit Daten beantwortet werden soll – dient der strategischen Entscheidungsfindung. |
 | **KEV (Kostendeckende Einspeisevergütung)** | Ehemaliges Förderinstrument des Bundes zur Unterstützung von Solarstrom; durch EIV abgelöst. |
-| **Median** | Der mittlere Wert eines geordneten Datensatzes – teilt die Datenmenge in zwei gleich große Hälften. |
+| **Median** | Der mittlere Wert eines geordneten Datensatzes – teilt die Datenmenge in zwei gleich grosse Hälften. |
 | **MeteoSchweiz** | Nationale Wetter- und Klimainstitution der Schweiz – zentrale Quelle für meteorologische Langzeitdaten. |
 | **opendata.swiss** | Offizielle Schweizer Plattform für offene Behördendaten – auch Quelle für Energiedaten des BFE. |
 | **Photovoltaik (PV)** | Technologie zur direkten Umwandlung von Sonnenlicht in elektrischen Strom mittels Solarzellen. |
