@@ -53,6 +53,7 @@ Hinweis: Die Programme können sich laufend ändern. Für aktuelle Informationen
 
 
 ### Glossar zur Fallstudie: Solarenergie in der Schweiz
+
 | Begriff / Abkürzung         | Definition / Erklärung |
 |----------------------------|-------------------------|
 | **Agri-PV** | Kombination von Photovoltaikanlagen mit landwirtschaftlicher Nutzung (z. B. über Feldern oder Weiden). |
