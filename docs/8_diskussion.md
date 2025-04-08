@@ -1,2 +1,8 @@
 ## Diskussion
 TODO
+
+
+
+
+## Entscheidungsempfehlung
+TODO
