@@ -1,7 +1,7 @@
 ## Vorgehen
 In diesem Kapitel wird das Vorgehen für diese Fallstudie beschrieben. Zunächst werden die vier ersten Schritte aus dem Framework der CPA Management Accounting Guideline beschrieben.
 
-<div class="float-right-image" style="width: 250px">
+<div class="center-image">
     <img src="assets/images/CPA - Steps.png">
     <div class="image-label">Die vier ersten Schritte aus dem Framework der CPA | selbst erstellt</div>
 </div>
