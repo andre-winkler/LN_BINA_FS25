@@ -11,7 +11,7 @@
 🔗 Hinweis zu den Förderinformationen
 Die in dieser Arbeit dargestellten kantonalen und nationalen Förderprogramme für Photovoltaikanlagen, Ladeinfrastruktur und Elektromobilität basieren auf öffentlich zugänglichen Quellen (Stand: April 2025). Zur Erhebung wurden insbesondere folgende Informationsplattformen herangezogen:
 
-Bundesförderung (Einmalvergütung, Steuervergünstigungen):
+Bundesförderung (Einmalvergütung):
 pronovo.ch – Photovoltaik-Förderung
 energieschweiz.ch – Einmalvergütungen
 swissolar.ch – Stromgesetz & Vergütungssätze
