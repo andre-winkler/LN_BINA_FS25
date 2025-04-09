@@ -37,7 +37,11 @@ Aus diesem Diagramm kann man folgende Feststellungen ableiten:
 TODO Amel - Python Code von Diagramm fehlt
 <iframe src="assets/diagramme/sonnenstunden_3d_final_extrem_flach.html" width="100%" height="600px"></iframe>
 
-TODO Amel - Feststellungen
+Die Auswertung der kumulierten Sonnenstunden über alle berücksichtigten Wetterstationen in der Schweiz zeigt moderate regionale Unterschiede. Stationen im südlichen Teil des Landes, insbesondere im Tessin (z. B. Lugano, Magadino, Cimetta), weisen tendenziell höhere Summen auf als viele Stationen im Mittelland oder in der Nordschweiz. Auch einzelne hochgelegene Stationen wie der Gornergrat oder Piz Corvatsch verzeichnen vergleichsweise hohe Werte über den gesamten Analysezeitraum hinweg.
+
+Die Differenz zwischen der Wetterstation mit dem höchsten und jener mit dem niedrigsten kumulierten Wert liegt bei etwa 20 bis 25 %. Diese Unterschiede lassen sich vermutlich durch eine Kombination aus klimatischen, topografischen und meteorologischen Faktoren erklären.
+
+Die Visualisierung der Werte – beispielsweise in Form einer Karte oder eines Balkendiagramms – ermöglicht eine erste räumliche Einordnung der Sonnenscheindauer. Eine genauere Betrachtung einzelner Stationen zeigt zudem, dass lokale Effekte (z. B. Nebelhäufigkeit, Tal- oder Höhenlage, städtische Umgebung) eine wesentliche Rolle spielen können. Für eine umfassende Bewertung der Ursachen wären jedoch weiterführende meteorologische Analysen notwendig.
 
 ### Solarenergie-Entwicklung in der Schweiz
 
