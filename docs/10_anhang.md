@@ -29,7 +29,7 @@ ge.ch – Ladeinfrastruktur Genf
 
 Hinweis: Die Programme können sich laufend ändern. Für aktuelle Informationen empfehlen wir die direkte Recherche über die jeweiligen kantonalen Websites oder über energiefranken.ch.
 
-| Kantone/Bund              | Kantonale PV-Förderung                                                         | Ladeinfrastruktur                                                  | E-Auto-Prämie                                                 | Steuervorteil                                               |
+| Kantone/Bund              | Kantonale PV-Förderung                                                         | Ladeinfrastruktur                                                  | E-Auto-Prämie                                                 | Steuervorteil für E-Autos                                                |
 |--------------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------------|
 | **Bund**                 | EIV + Bonus für Parkplatzüberdachung (250 CHF/kWp ab 100 kWp)                  | Nationale CO₂-Abgabe-Vergünstigung für Importeure                 | Keine nationale Kaufprämie                                    | Keine Steuerbefreiung ab 2024, 4 % MWST auf Autos            |
 | **Aargau**               | Förderung für Agri-PV, Parkplätze mit Solardach etc.                            | Keine kantonale Förderung bekannt                                  | Keine kantonale Prämie                                        | Keine Steuererleichterung                                   |
