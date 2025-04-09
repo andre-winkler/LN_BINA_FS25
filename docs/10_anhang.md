@@ -1,4 +1,12 @@
 ## Anhang
+### Projektplan - Solarenergie Schweiz
+
+<div class="full-width-image" style="width: 100%; text-align: center;">
+    <img src="assets/images/Projektplan - Solarenergie Schweiz.png" style="width: 100%; height: auto;">
+    <div class="image-label">Eigendarstellung mit Excel</div>
+</div>
+
+
 ### Subventionen und Förderung
 
 🔗 Hinweis zu den Förderinformationen
