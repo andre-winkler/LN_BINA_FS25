@@ -75,7 +75,7 @@ Die Einspeisevergütung wird von den Energieversorgern individuell festgelegt. V
 
 Die Aggregation in der Analyse erfolgte auf Jahressicht. Monatliche oder saisonale Vergütungsschwankungen sind in den VESE-Daten nicht enthalten. Für die Einbindung in die Prognosemodelle wurde angenommen, dass sich die durchschnittliche Einspeisevergütung bei gleichbleibender regulatorischer Lage stabil entwickelt.
 
------Monats oder Jahressicht, bitte klären!!!!!!-----
+-----Monats oder Jahressicht, bitte klären!!!!!!----- (Notiz an mich selbst - Amel)
 
 ### Datenmodellierung
 #### Ziel der Datenmodellierung
