@@ -56,7 +56,7 @@ Die Daten basieren auf Einträgen im offiziellen Produktionsanlagenregister und 
 #### Messmethoden und Annahmen
 Der Datensatz enthält Angaben zur installierten Leistung (in kW), zum Inbetriebnahmedatum sowie zu Standortangaben. Er enthält keine Informationen zur effektiven Stromproduktion, zu Einspeisewerten oder zu technischen Details wie Ausrichtung oder Verschattung. Die Analyse beschränkt sich entsprechend auf die zeitliche und geografische Verteilung der installierten PV-Leistung.
 
-### Verband unabhängiger Energieerzeuger
+### Verband unabhängiger Energieerzeuger (VESE)
 #### Datenquelle
 
 <div class="float-right-image" style="width: 250px">

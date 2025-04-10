@@ -1,10 +1,17 @@
 ## Anhang
+### Projektplan - Solarenergie Schweiz
+
+<div style="width: 800px; margin: 0 auto; text-align: center;">
+    <img src="assets/images/Projektplan - Solarenergie Schweiz.png" style="width: 100%; height: auto;">
+    <div class="image-label">Eigendarstellung mit Excel</div>
+</div>
+
 ### Subventionen und Förderung
 
 🔗 Hinweis zu den Förderinformationen
 Die in dieser Arbeit dargestellten kantonalen und nationalen Förderprogramme für Photovoltaikanlagen, Ladeinfrastruktur und Elektromobilität basieren auf öffentlich zugänglichen Quellen (Stand: April 2025). Zur Erhebung wurden insbesondere folgende Informationsplattformen herangezogen:
 
-Bundesförderung (Einmalvergütung, Steuervergünstigungen):
+Bundesförderung (Einmalvergütung):
 pronovo.ch – Photovoltaik-Förderung
 energieschweiz.ch – Einmalvergütungen
 swissolar.ch – Stromgesetz & Vergütungssätze
@@ -22,28 +29,36 @@ ge.ch – Ladeinfrastruktur Genf
 
 Hinweis: Die Programme können sich laufend ändern. Für aktuelle Informationen empfehlen wir die direkte Recherche über die jeweiligen kantonalen Websites oder über energiefranken.ch.
 
+| Kantone/Bund              | Kantonale PV-Förderung                                                         | Ladeinfrastruktur                                                  | E-Auto-Prämie                                                       |
+|--------------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------------|
+| **Bund**                 | EIV + Bonus für Parkplatzüberdachung (250 CHF/kWp ab 100 kWp)                  | Nationale CO₂-Abgabe-Vergünstigung für Importeure                 | Keine nationale Kaufprämie                                    | 
+| **Aargau**               | Förderung für Agri-PV, Parkplätze mit Solardach etc.                            | Keine kantonale Förderung bekannt                                  | Keine kantonale Prämie                                        | 
+| **Appenzell Ausserrhoden** | EIV: 360–400 CHF/kW + ggf. kommunale Förderung                                | Gemeindeabhängige Förderung                                        | Teilweise kommunale Programme                                 | 
+| **Appenzell Innerrhoden** | Keine kantonale PV-Förderung bekannt                                            | Keine Förderung bekannt                                            | Keine kantonale Prämie                                        |
+| **Basel-Landschaft**     | Keine kantonale PV-Förderung bekannt                                            | Keine Förderung bekannt                                            | Keine kantonale Prämie                                        | 
+| **Basel-Stadt**          | EIV: 360–400 CHF/kW + kommunale Förderung möglich                               | Kantonales Förderprogramm für private Ladestationen               | Keine kantonale Prämie bekannt                                | 
+| **Bern**                 | EIV + Bonus für vertikale Anlagen + kommunal möglich                            | 3000 CHF Zuschuss für bidirektionale Ladegeräte                   | Förderung für bidirektionale Systeme                          | 
+| **Freiburg**             | Keine kantonale PV-Förderung bekannt                                            | Keine Förderung bekannt                                            | Keine kantonale Prämie bekannt                                | 
+| **Genf**                 | Bonus für Fassadenanlagen, kommunale Programme möglich                          | 500–2000 CHF je nach Nutzung                                       | Bis 2000 CHF Umweltprämie                                     | 
+| **Glarus**               | EIV + Bonus für winteroptimierte Anlagen (≥75° Neigung)                         | Keine Förderung bekannt                                            | Keine kantonale Prämie bekannt                                | 
+| **Graubünden**           | EIV + Bonus für winteroptimierte Anlagen (≥75° Neigung)                         | Keine Förderung bekannt                                            | Keine kantonale Prämie bekannt                                |
+| **Jura**                 | Keine kantonale PV-Förderung bekannt                                            | Keine Förderung bekannt                                            | Keine kantonale Prämie bekannt                                |
+| **Luzern**               | EIV + ggf. kommunale Förderung                                                  | Infrastruktur-Förderung, v. a. in Mehrfamilienhäusern             | Keine kantonale Prämie bekannt                                | 
+| **Neuenburg**            | EIV + evtl. kantonale Ergänzungen                                               | Förderung für private Ladepunkte (Details unklar)                 | Keine kantonale Prämie bekannt                                | 
+| **Nidwalden**            | Keine kantonale PV-Förderung bekannt                                            | Keine Förderung bekannt                                            | Keine kantonale Prämie bekannt                                | 
+| **Obwalden**             | EIV + Zuschüsse für MFH & Winteranlagen                                         | Infrastrukturförderung für MFH (seit 2025)                         | Indirekte Förderung durch Ladeinfrastruktur                   | 
+| **Schaffhausen**         | Keine kantonale PV-Förderung bekannt                                            | Unterstützung für private Ladestationen (Umweltprämie)            | Direkte Umweltprämie bis 2000 CHF                             | 
+| **Schwyz**               | Keine kantonale PV-Förderung bekannt                                            | Keine Förderung bekannt                                            | Keine kantonale Prämie bekannt                                | 
+| **Solothurn**            | Keine kantonale PV-Förderung bekannt                                            | Keine Förderung bekannt                                            | Steuervergünstigung statt Prämie                              | 
+| **St. Gallen**           | Keine kantonale PV-Förderung bekannt                                            | Kommunale Beiträge möglich                                        | Teilweise kommunale Förderung                                 | 
+| **Tessin**               | Bonus für Fassadenanlagen, kommunale Programme                                  | 500–2000 CHF für private/gemeinsame Nutzung                       | Pauschalprämie 2000 CHF + 500 CHF für Ladestation             | 
+| **Thurgau**              | Förderung für Solaranlagen und Effizienz                                        | 15 % der Investitionskosten für Ladeinfrastruktur (bis 22 kW)     | 2000 CHF Prämie für Neuwagen                                  | 
+| **Uri**                  | EIV + Bonus für ≥75° Neigung + Kombination mit Ladepunkten                      | Förderung im Rahmen des PV-Programms                               | Keine direkte Prämie, Infrastruktur wird gefördert            | 
+| **Waadt**                | EIV + kommunale Programme möglich                                               | Beiträge je nach Gemeinde                                          | Prämien je nach Gemeinde möglich                              | 
+| **Wallis**               | Keine kantonale PV-Förderung bekannt                                            | Keine Förderung bekannt                                            | Keine kantonale Prämie bekannt                                | 
+| **Zug**                  | Kommunale Programme möglich                                                     | Gefördert über Gemeinden                                           | Keine kantonale Prämie bekannt                                | 
+| **Zürich**               | Kommunale Programme möglich                                                     | Gefördert über Gemeinden                                           | Keine kantonale Prämie bekannt                                | 
 
-| Kantone/Bund | Kantonale PV-Förderung    | Ladeinfrastruktur | E-Auto-Prämie   | Steuervorteil |
-|-------------------------------|------------------------------------------------------------|---------------------------------------------------|-------------------------------------------------|------------------------------------------------|
-| **Bund**    | Indirekt über Programme & Normierung, z. B. KEV-Übergang, Förderung von Pilotprojekten | Keine direkte Prämie; nationale Förderung über CO2-Abgabe-Reduktion für Importeure | Investitionen in PV sind von Einkommenssteuer abziehbar |              |
-| **Appenzell Innerrhoden, Basel-Landschaft, Freiburg, Jura, Schwyz, Wallis** | Keine kantonalen Programme bekannt| Keine kantonalen Programme bekannt               | Keine kantonalen Programme bekannt             | Keine kantonalen Programme bekannt             |
-| **Zug, Zürich**              | Ggf. kommunale Ergänzungen                | Gefördert über kommunale Programme                | Keine direkte Prämie           | Steuerbefreiung oder stark reduziert           |
-| **Genf, Tessin**             | Bonus für Fassadenanlagen / kommunale Programme            | 500–2000 CHF für private oder gemeinsame Nutzung  | Bis 2000 CHF Umweltprämie      | Teilweise Steuerreduktion     |
-| **Aargau**  |         | Steuerreduktion auf 300 CHF jährlich              | Reduzierte Motorfahrzeugsteuer (300 CHF/Jahr)   |              |
-| **Appenzell Ausserrhoden**   | EIV: 360-400 CHF/kW + ggf. kommunale/kantonale Zusatzförderung | Förderung für Ladeinfrastruktur (Details je nach Gemeinde) | Teilweise Förderprogramme auf Gemeindeebene     | Unklar / keine kantonale Regelung             |
-| **Basel-Stadt**              | EIV: 360-400 CHF/kW + kommunale Förderung möglich          | Kantonales Programm zur Förderung privater Ladestationen | Keine kantonale Prämie bekannt | Keine kantonale Steuerbefreiung bekannt        |
-| **Bern**    | EIV + Bonus für vertikale Anlagen möglich; kommunale Förderung je nach Gemeinde | 3000 CHF Zuschuss für bidirektionale Ladestationen | Keine direkte Prämie, aber Förderung bidirektionaler Systeme | Standardregelung, keine Sondervergünstigung    |
-| **Glarus & Graubünden**      | EIV + Kanton zahlt Bonus für winteroptimierte Anlagen (≥75° Neigung) || Keine kantonale Prämie bekannt | Unklar / keine kantonale Regelung             |
-| **Luzern**  | EIV + Förderung teils kommunal, abhängig von Gemeinde      | Förderung für Ladeinfrastruktur, Höhe variiert    | Keine kantonale Prämie bekannt | Keine spezielle Steuererleichterung           |
-| **Neuenburg**                | EIV + evtl. Ergänzungen durch Kanton oder Gemeinden        | Förderung für private Ladestationen (Details unklar) | Keine kantonale Prämie bekannt | Unklar / keine Steuererleichterung            |
-| **Nidwalden**                |         || Keine kantonale Prämie bekannt | Keine spezielle Steuerregelung bekannt         |
-| **Obwalden**| EIV + Kanton zahlt Zuschuss für winteroptimierte & MFH-Lösungen | Förderung für Ladeinfrastruktur in MFH (seit 2025) | Förderung indirekt durch Ladeinfrastruktur      | Keine spezifische Steuervergünstigung         |
-| **Schaffhausen**             |         | Unterstützung für private Ladestationen (Umweltprämie) | Direkte Umweltprämie (bis 2000 CHF)             | Keine Steuer auf E-Autos (komplett befreit)   |
-| **Solothurn**                |         || Keine Prämie, aber Steuervergünstigung          | Keine Steuer auf E-Autos     |
-| **St. Gallen**               |         | Beiträge für Ladestationen möglich (kommunal geregelt) | Keine direkte Prämie, evtl. kommunale Förderung | Standardregelung, abhängig von Gemeinde       |
-| **Thurgau** |         | 15 % der Investitionskosten (bis 22 kW)           | 2000 CHF Prämie für Neuwagen   | Unklar / evtl. kommunale Steuerreduktion      |
-| **Uri**     | EIV + Bonus für vertikale Winteranlagen (≥75°), Förderung in Kombination mit Ladepunkten | Förderung im Rahmen PV-Programms| Keine direkte Prämie, Förderung über Infrastruktur | Unklar / keine spezielle Regelung             |
-| **Waadt**   | EIV + kommunale Programme möglich         | Beiträge für Ladeinfrastruktur (Details unklar)   | Prämien je nach Gemeinde möglich                | Unklar / teils kommunale Steuererleichterung  |
 
 
 ### Glossar zur Fallstudie: Solarenergie in der Schweiz
