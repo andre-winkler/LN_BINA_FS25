@@ -63,10 +63,19 @@ Der Datensatz enthält Angaben zur installierten Leistung (in kW), zum Inbetrieb
     <img src="assets/images/vese_logo.png">
     <div class="image-label">https://www.sses.ch/de/regional-und-fachgruppen/vese/</div>
 </div>
+Für die Analyse der wirtschaftlichen Rahmenbedingungen im Bereich der Solarenergie wurde ergänzend auf Daten des VESE – Verband unabhängiger Energieerzeuger zurückgegriffen. Der VESE ist eine Fachgruppe der Schweizerischen Vereinigung für Sonnenenergie (SSES) und unterstützt insbesondere Kleinproduzenten und Prosumenten bei regulatorischen, technischen und wirtschaftlichen Fragestellungen rund um die Stromproduktion aus erneuerbaren Energien.
 
+Die von VESE bereitgestellten Daten beziehen sich auf die Einspeisevergütungen für Photovoltaik-Anlagen in der Schweiz. Die Vergütungen werden dabei pro Energieversorgungsunternehmen (EVU) und pro Jahr angegeben und ermöglichen eine präzise wirtschaftliche Analyse auf regionaler Ebene.
+
+Der Zugang zu den vollständigen historischen Rohdaten wurde über eine API-Schnittstelle realisiert, welche durch eine individuelle Lizenzvereinbarung zur Verfügung gestellt wurde. Die API enthält Daten ab dem Jahr 2015 bis mindestens Anfang 2025. Alternativ wurde vom VESE auch ein Excel-Datensatz angeboten, der jedoch mit Kosten verbunden war (CHF 75 für akademische Nutzung), weshalb die API-Variante bevorzugt wurde.
 
 #### Datenqualität und Bereinigung
 #### Messmethoden und Annahmen
+Die Einspeisevergütung wird von den Energieversorgern individuell festgelegt. VESE erhebt jährlich die Tarife und aggregiert diese nach Regionen und Netzbetreibern. Die gelieferten Daten geben daher einen realitätsnahen Überblick über die wirtschaftlichen Anreize für die Einspeisung von Solarstrom ins Netz. Da es sich bei den meisten Werten um gemeldete Durchschnittswerte handelt, können lokale Sondertarife, Eigenverbrauchsmodelle oder zeitlich gestaffelte Tarife in Einzelfällen abweichen.
+
+Die Aggregation in der Analyse erfolgte auf Jahressicht. Monatliche oder saisonale Vergütungsschwankungen sind in den VESE-Daten nicht enthalten. Für die Einbindung in die Prognosemodelle wurde angenommen, dass sich die durchschnittliche Einspeisevergütung bei gleichbleibender regulatorischer Lage stabil entwickelt.
+
+-----Monats oder Jahressicht, bitte klären!!!!!!-----
 
 ### Datenmodellierung
 TODO 
