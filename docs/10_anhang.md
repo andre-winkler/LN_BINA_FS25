@@ -1,8 +1,8 @@
 ## Anhang
 ### Projektplan - Solarenergie Schweiz
 
-<div style="width: 800px; margin: 0 auto; text-align: center;">
-    <img src="assets/images/Projektplan - Solarenergie Schweiz.png" style="width: 100%; height: auto;max-width: 100%;">
+<div style="margin: 0 auto; text-align: center;">
+    <img src="assets/images/Projektplan - Solarenergie Schweiz.jpg" style="width: 100%; height: auto;max-width: 100%;">
     <div class="image-label">Eigendarstellung mit Excel</div>
 </div>
 
