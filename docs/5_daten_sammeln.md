@@ -78,8 +78,29 @@ Die Aggregation in der Analyse erfolgte auf Jahressicht. Monatliche oder saisona
 -----Monats oder Jahressicht, bitte klären!!!!!!-----
 
 ### Datenmodellierung
-TODO 
-Amel: Ich verstehe nicht was in dieses Kapitel soll...
+#### Ziel der Datenmodellierung
+Die Datenmodellierung hatte zum Ziel, die verschiedenen Datenquellen dieser Fallstudie – MeteoSchweiz, Bundesamt für Energie (BFE) und der Verband VESE – in eine einheitliche Struktur zu überführen. Nur so war es möglich, die Daten sinnvoll miteinander zu verknüpfen, zu analysieren und Prognosen zu erstellen. Ein besonderer Fokus lag auf der zeitlichen und regionalen Vergleichbarkeit der Werte.
+
+#### Vorgehen bei der Modellierung
+Die Modellierung erfolgte auf Basis der bereits bereinigten Datensätze (siehe Kapitel "Datenqualität und Bereinigung"). Dabei wurden folgende Schritte durchgeführt:
+
+- Standardisierung der Zeitdimension:
+    Alle Datensätze wurden auf Monats- oder Jahreswerte aggregiert, abhängig von der Datenverfügbarkeit (z. B. MeteoSchweiz: monatlich, VESE: jährlich).
+
+- Geografische Zuordnung:
+    Die Daten wurden soweit möglich kantonal oder kommunal aufbereitet. Wetterstationen wurden Gemeinden bzw. Kantonen zugewiesen, Einspeisevergütungen den Netzbetreibern und damit ebenfalls geografischen Regionen.
+
+- Einheitliche Formate und Einheiten:
+    Die Werte wurden vereinheitlicht (z. B. kW → MW, CHF/kWh), um eine konsistente Darstellung in den Visualisierungen zu ermöglichen.
+
+- Verknüpfung der Datenquellen:
+    Die bereinigten und standardisierten Datensätze wurden in einem gemeinsamen Datenmodell zusammengeführt. Dies ermöglichte z. B. die Kombination von meteorologischen Daten mit installierter Solarleistung oder Einspeisevergütungen auf regionaler Ebene.
+
+- Strukturierung für Prognosen:
+    Für die Erstellung der Prognose wurde eine geeignete Datenbasis mit Zeitreihe aufgebaut, um diese später modellgestützt fortzuschreiben. Dabei wurden auch externe Faktoren wie Förderung oder Stromverbrauch berücksichtigt.
+
+#### Tools und Umsetzung
+Die technische Umsetzung der Modellierung erfolgte mit Python in einem Google-Colab-Notebook. Die Daten wurden überwiegend im CSV-Format verarbeitet und mit Pandas sowie weiteren Bibliotheken transformiert. Für die Visualisierung kamen Plotly und Matplotlib zum Einsatz. Die Prognose-Modelle befinden sich derzeit in Bearbeitung und werden im Kapitel „Prognosen und Szenarien“ dokumentiert.
 
 
 
