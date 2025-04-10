@@ -8,7 +8,7 @@ Die nachfolgende Karte gibt einen Überblick über die Standorte der jeweiligen 
 
 <iframe src="assets/diagramme/swiss_stations_map.html"></iframe>
 
-Zur besseren Einordnung der Wetterstationen, folgend eine Tabelle zur Höhenverteilung. Daraus kann man ableiten, 
+Zur besseren Einordnung der Wetterstationen, folgend eine Tabelle zur Höhenverteilung. Daraus kann man ableiten, dass ein Grossteil der Wetterstationen unter 500 Höhenmeter liegen und der andere Grossteil zwischen 500 und 1'500 Meter.
 
 {% include_relative md/hoehenverteilung_stationen.md %}
 
