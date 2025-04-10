@@ -10,7 +10,7 @@ Die nachfolgende Karte gibt einen Überblick über die Standorte der jeweiligen 
 
 Zur besseren Einordnung der Wetterstationen, folgend eine Tabelle zur Höhenverteilung. Daraus kann man ableiten, dass ein Grossteil der Wetterstationen unter 500 Höhenmeter liegen und der andere Grossteil zwischen 500 und 1'500 Meter.
 
-{% include_relative md/hoehenverteilung_stationen.md %}
+{% include_relative /md/hoehenverteilung_stationen.md %}
 
 Die folgenden zwei interaktiven Grafiken veranschaulichen die Anzahl der Sonnenstunden pro Monat in der Schweiz über die vergangenen zehn Jahre.
 
