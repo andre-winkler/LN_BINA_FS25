@@ -5,7 +5,7 @@ Neben den wirtschaftlichen und technischen Aspekten ist die Sonneneinstrahlung d
 
 Die gesammelten Daten wurden nach ihrer Bereinigung in ein einheitliches Format überführt. Um eine präzisere Analyse zu ermöglichen, erfolgte die Aggregation auf Stundenbasis. Dies erlaubt eine genauere Untersuchung von Trends und Schwankungen im Tagesverlauf sowie eine präzisere Modellierung der Solarstromproduktion. Die Kombination dieser umfangreichen Datensätze bildet die Grundlage für die Untersuchung der Vergangenheit und ermöglicht es, Prognosen für die zukünftige Entwicklung der Solarenergie in der Schweiz abzuleiten.
 
-### MeteoSchweiz
+### MeteoSchweiz - Sonnenstunden je Wetterstation
 #### Datenquelle
 Die meteorologischen Daten stammen von MeteoSchweiz und wurden über die Plattform IDAWeb bezogen. Die Datengrundlage basiert auf einem Netz von 132 automatisierten Wetterstationen, die flächendeckend in der ganzen Schweiz verteilt sind. Eine Ausnahme bildet der Kanton Appenzell Ausserrhoden (AR), in dem derzeit keine Wetterstation betrieben wird, siehe Kapitel "Wetterentwicklung in der Schweiz".
 
@@ -39,7 +39,7 @@ Ein weiterer relevanter Punkt betrifft die Messgeometrie: Die Globalstrahlung wi
 
 Für detaillierte Modellierungen und physikalisch fundierte Abschätzungen stehen ergänzend Messwerte zur diffusen und teilweise auch zur direkten Strahlung zur Verfügung – alle in der Einheit Watt pro Quadratmeter (W/m²). Diese ermöglichen eine differenziertere Betrachtung der lokalen Einstrahlungsverhältnisse.
 
-### Bundesamt für Enegerie (BFE)
+### Bundesamt für Enegerie (BFE) - Elektrische Produktionsanlagen 
 #### Datenquelle
 Die Datengrundlage dieses Abschnitts basiert auf einem CSV-Datensatz, der über die Plattform opendata.swiss bezogen wurde. Dieser Datensatz wird vom Bundesamt für Energie (BFE) zur Verfügung gestellt und enthält Informationen zu elektrischen Produktionsanlagen in der Schweiz.
 
@@ -56,21 +56,51 @@ Die Daten basieren auf Einträgen im offiziellen Produktionsanlagenregister und 
 #### Messmethoden und Annahmen
 Der Datensatz enthält Angaben zur installierten Leistung (in kW), zum Inbetriebnahmedatum sowie zu Standortangaben. Er enthält keine Informationen zur effektiven Stromproduktion, zu Einspeisewerten oder zu technischen Details wie Ausrichtung oder Verschattung. Die Analyse beschränkt sich entsprechend auf die zeitliche und geografische Verteilung der installierten PV-Leistung.
 
-### Verband unabhängiger Energieerzeuger (VESE)
+### Verband unabhängiger Energieerzeuger (VESE) - Einspeisevergütung
 #### Datenquelle
 
 <div class="float-right-image" style="width: 250px">
     <img src="assets/images/vese_logo.png">
     <div class="image-label">https://www.sses.ch/de/regional-und-fachgruppen/vese/</div>
 </div>
+Für die Analyse der wirtschaftlichen Rahmenbedingungen im Bereich der Solarenergie wurde ergänzend auf Daten des VESE – Verband unabhängiger Energieerzeuger zurückgegriffen. Der VESE ist eine Fachgruppe der Schweizerischen Vereinigung für Sonnenenergie (SSES) und unterstützt insbesondere Kleinproduzenten und Prosumenten bei regulatorischen, technischen und wirtschaftlichen Fragestellungen rund um die Stromproduktion aus erneuerbaren Energien.
 
+Die von VESE bereitgestellten Daten beziehen sich auf die Einspeisevergütungen für Photovoltaik-Anlagen in der Schweiz. Die Vergütungen werden dabei pro Energieversorgungsunternehmen (EVU) und pro Jahr angegeben und ermöglichen eine präzise wirtschaftliche Analyse auf regionaler Ebene.
+
+Der Zugang zu den vollständigen historischen Rohdaten wurde über eine API-Schnittstelle realisiert, welche durch eine individuelle Lizenzvereinbarung zur Verfügung gestellt wurde. Die API enthält Daten ab dem Jahr 2015 bis mindestens Anfang 2025. Alternativ wurde vom VESE auch ein Excel-Datensatz angeboten, der jedoch mit Kosten verbunden war (CHF 75 für akademische Nutzung), weshalb die API-Variante bevorzugt wurde.
 
 #### Datenqualität und Bereinigung
 #### Messmethoden und Annahmen
+Die Einspeisevergütung wird von den Energieversorgern individuell festgelegt. VESE erhebt jährlich die Tarife und aggregiert diese nach Regionen und Netzbetreibern. Die gelieferten Daten geben daher einen realitätsnahen Überblick über die wirtschaftlichen Anreize für die Einspeisung von Solarstrom ins Netz. Da es sich bei den meisten Werten um gemeldete Durchschnittswerte handelt, können lokale Sondertarife, Eigenverbrauchsmodelle oder zeitlich gestaffelte Tarife in Einzelfällen abweichen.
+
+Die Aggregation in der Analyse erfolgte auf Jahressicht. Monatliche oder saisonale Vergütungsschwankungen sind in den VESE-Daten nicht enthalten. Für die Einbindung in die Prognosemodelle wurde angenommen, dass sich die durchschnittliche Einspeisevergütung bei gleichbleibender regulatorischer Lage stabil entwickelt.
+
+-----Monats oder Jahressicht, bitte klären!!!!!!----- (Notiz an mich selbst - Amel)
 
 ### Datenmodellierung
-TODO 
-Amel: Ich verstehe nicht was in dieses Kapitel soll...
+#### Ziel der Datenmodellierung
+Die Datenmodellierung hatte zum Ziel, die verschiedenen Datenquellen dieser Fallstudie – MeteoSchweiz, Bundesamt für Energie (BFE) und der Verband VESE – in eine einheitliche Struktur zu überführen. Nur so war es möglich, die Daten sinnvoll miteinander zu verknüpfen, zu analysieren und Prognosen zu erstellen. Ein besonderer Fokus lag auf der zeitlichen und regionalen Vergleichbarkeit der Werte.
+
+#### Vorgehen bei der Modellierung
+Die Modellierung erfolgte auf Basis der bereits bereinigten Datensätze (siehe Kapitel "Datenqualität und Bereinigung"). Dabei wurden folgende Schritte durchgeführt:
+
+- Standardisierung der Zeitdimension:
+    Alle Datensätze wurden auf Monats- oder Jahreswerte aggregiert, abhängig von der Datenverfügbarkeit (z. B. MeteoSchweiz: monatlich, VESE: jährlich).
+
+- Geografische Zuordnung:
+    Die Daten wurden soweit möglich kantonal oder kommunal aufbereitet. Wetterstationen wurden Gemeinden bzw. Kantonen zugewiesen, Einspeisevergütungen den Netzbetreibern und damit ebenfalls geografischen Regionen.
+
+- Einheitliche Formate und Einheiten:
+    Die Werte wurden vereinheitlicht (z. B. kW → MW, CHF/kWh), um eine konsistente Darstellung in den Visualisierungen zu ermöglichen.
+
+- Verknüpfung der Datenquellen:
+    Die bereinigten und standardisierten Datensätze wurden in einem gemeinsamen Datenmodell zusammengeführt. Dies ermöglichte z. B. die Kombination von meteorologischen Daten mit installierter Solarleistung oder Einspeisevergütungen auf regionaler Ebene.
+
+- Strukturierung für Prognosen:
+    Für die Erstellung der Prognose wurde eine geeignete Datenbasis mit Zeitreihe aufgebaut, um diese später modellgestützt fortzuschreiben. Dabei wurden auch externe Faktoren wie Förderung oder Stromverbrauch berücksichtigt.
+
+#### Tools und Umsetzung
+Die technische Umsetzung der Modellierung erfolgte mit Python in einem Google-Colab-Notebook. Die Daten wurden überwiegend im CSV-Format verarbeitet und mit Pandas sowie weiteren Bibliotheken transformiert. Für die Visualisierung kamen Plotly und Matplotlib zum Einsatz. Die Prognose-Modelle befinden sich derzeit in Bearbeitung und werden im Kapitel „Prognosen und Szenarien“ dokumentiert.
 
 
 
