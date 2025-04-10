@@ -8,6 +8,9 @@ Die nachfolgende Karte gibt einen Überblick über die Standorte der jeweiligen 
 
 <iframe src="assets/diagramme/swiss_stations_map.html"></iframe>
 
+Zur besseren Einordnung der Wetterstationen, folgend eine Tabelle zur Höhenverteilung. Daraus kann man ableiten, 
+
+{% include_relative md/hoehenverteilung_stationen.md %}
 
 Die folgenden zwei interaktiven Grafiken veranschaulichen die Anzahl der Sonnenstunden pro Monat in der Schweiz über die vergangenen zehn Jahre.
 
