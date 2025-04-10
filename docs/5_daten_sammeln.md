@@ -5,7 +5,7 @@ Neben den wirtschaftlichen und technischen Aspekten ist die Sonneneinstrahlung d
 
 Die gesammelten Daten wurden nach ihrer Bereinigung in ein einheitliches Format überführt. Um eine präzisere Analyse zu ermöglichen, erfolgte die Aggregation auf Stundenbasis. Dies erlaubt eine genauere Untersuchung von Trends und Schwankungen im Tagesverlauf sowie eine präzisere Modellierung der Solarstromproduktion. Die Kombination dieser umfangreichen Datensätze bildet die Grundlage für die Untersuchung der Vergangenheit und ermöglicht es, Prognosen für die zukünftige Entwicklung der Solarenergie in der Schweiz abzuleiten.
 
-### MeteoSchweiz
+### MeteoSchweiz - Sonnenstunden je Wetterstation
 #### Datenquelle
 Die meteorologischen Daten stammen von MeteoSchweiz und wurden über die Plattform IDAWeb bezogen. Die Datengrundlage basiert auf einem Netz von 132 automatisierten Wetterstationen, die flächendeckend in der ganzen Schweiz verteilt sind. Eine Ausnahme bildet der Kanton Appenzell Ausserrhoden (AR), in dem derzeit keine Wetterstation betrieben wird, siehe Kapitel "Wetterentwicklung in der Schweiz".
 
@@ -39,7 +39,7 @@ Ein weiterer relevanter Punkt betrifft die Messgeometrie: Die Globalstrahlung wi
 
 Für detaillierte Modellierungen und physikalisch fundierte Abschätzungen stehen ergänzend Messwerte zur diffusen und teilweise auch zur direkten Strahlung zur Verfügung – alle in der Einheit Watt pro Quadratmeter (W/m²). Diese ermöglichen eine differenziertere Betrachtung der lokalen Einstrahlungsverhältnisse.
 
-### Bundesamt für Enegerie (BFE)
+### Bundesamt für Enegerie (BFE) - Elektrische Produktionsanlagen 
 #### Datenquelle
 Die Datengrundlage dieses Abschnitts basiert auf einem CSV-Datensatz, der über die Plattform opendata.swiss bezogen wurde. Dieser Datensatz wird vom Bundesamt für Energie (BFE) zur Verfügung gestellt und enthält Informationen zu elektrischen Produktionsanlagen in der Schweiz.
 
@@ -56,7 +56,7 @@ Die Daten basieren auf Einträgen im offiziellen Produktionsanlagenregister und 
 #### Messmethoden und Annahmen
 Der Datensatz enthält Angaben zur installierten Leistung (in kW), zum Inbetriebnahmedatum sowie zu Standortangaben. Er enthält keine Informationen zur effektiven Stromproduktion, zu Einspeisewerten oder zu technischen Details wie Ausrichtung oder Verschattung. Die Analyse beschränkt sich entsprechend auf die zeitliche und geografische Verteilung der installierten PV-Leistung.
 
-### Verband unabhängiger Energieerzeuger (VESE)
+### Verband unabhängiger Energieerzeuger (VESE) - Einspeisevergütung
 #### Datenquelle
 
 <div class="float-right-image" style="width: 250px">
