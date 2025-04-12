@@ -55,8 +55,6 @@ Folgende zwei Grafiken präsentieren die Energie-Entwicklung in der Schweiz der 
 
 <iframe src="assets/diagramme/stromproduktion_kuchendiagramm_2015_2024.html"></iframe>
 
-TODO Amel - Python Code von Diagramm fehlt -> Labels sollten gleich heissen
-
 Aus der Grafik kann eine deutliche Zunahme der Solarenergie (Photovoltaik) herausgelesen werden. Von 2015 bis 2023 war das eine Zunahme von fast dem 5-fachen. Im Vergleich zu den zwei Hauptenergiequellen Wasserkraft und Kernkraft ist es immer noch ein sehr kleiner Anteil.
 
 Insgesamt zeigt die Analyse, wie Solarenergie in der Schweiz als zunehmend wichtige Energiequelle mit bedeutendem Wachstumspotenzial wahrgenommen wird, besonders im Kontext von Subventionen und staatlichen Fördermassnahmen.
@@ -65,3 +63,12 @@ Insgesamt zeigt die Analyse, wie Solarenergie in der Schweiz als zunehmend wicht
 In der Schweiz werden hauptsächlich kristalline Silizium-Module verwendet. Der durchschnittliche Wirkungsgrad dieser Module hat sich in den letzten zehn Jahren wie folgt entwickelt.
 
 <iframe src="assets/diagramme/Wirkungsgrad_PV_Anlagen.html"></iframe>
+
+Die Daten wurden mittels ChatGPT erstellt und dies von verschiedenen Quellen wie zum Beispiel von Swissolar und BFE.
+Folgend die Erkenntniss aus dem Diagramm:
+* Der durchschnittliche Modulwirkungsgrad von PV-Anlagen in der Schweiz hat sich in den letzten 10 Jahren stetig verbessert.
+* Im Jahr 2015 lag der durchschnittliche Wirkungsgrad bei etwa 15,5 %, während er im Jahr 2024 auf 23 % gestiegen ist.
+* Besonders zwischen den Jahren 2019 und 2021 ist ein signifikanter Anstieg des Wirkungsgrads zu beobachten.
+* Nach 2021 bleibt der Wirkungsgrad relativ stabil, mit einem leichten Anstieg bis 2024.
+
+Diese Entwicklung zeigt den Fortschritt in der Technologie und Effizienz von PV-Modulen in der Schweiz.
