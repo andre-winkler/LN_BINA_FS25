@@ -63,3 +63,5 @@ Insgesamt zeigt die Analyse, wie Solarenergie in der Schweiz als zunehmend wicht
 
 #### Effizienz der PV-Anlagen in der Schweiz
 In der Schweiz werden hauptsächlich kristalline Silizium-Module verwendet. Der durchschnittliche Wirkungsgrad dieser Module hat sich in den letzten zehn Jahren wie folgt entwickelt.
+
+<iframe src="assets/diagramme/Wirkungsgrad_PV_Anlagen.html"></iframe>
