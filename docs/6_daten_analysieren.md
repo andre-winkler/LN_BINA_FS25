@@ -38,7 +38,8 @@ Aus diesem Diagramm kann man folgende Feststellungen ableiten:
 
 <br>
 TODO Amel - Python Code von Diagramm fehlt
-<iframe src="assets/diagramme/sonnenstunden_3d_final_extrem_flach.html" width="100%" height="850px"></iframe>
+
+<iframe src="assets/diagramme/sonnenstunden_3d_final_extrem_flach.html" style="height: 850px !important"></iframe>
 
 Die Auswertung der kumulierten Sonnenstunden über alle berücksichtigten Wetterstationen in der Schweiz zeigt moderate regionale Unterschiede. Stationen im südlichen Teil des Landes, insbesondere im Tessin (z. B. Lugano, Magadino, Cimetta), weisen tendenziell höhere Summen auf als viele Stationen im Mittelland oder in der Nordschweiz. Auch einzelne hochgelegene Stationen wie der Gornergrat oder Piz Corvatsch verzeichnen vergleichsweise hohe Werte über den gesamten Analysezeitraum hinweg.
 
@@ -52,7 +53,7 @@ Folgende zwei Grafiken präsentieren die Energie-Entwicklung in der Schweiz der 
 
 <iframe src="assets/diagramme/solar_vs_other_energy_sources.html"></iframe>
 
-<iframe src="assets/diagramme/stromproduktion_kuchendiagramm_2015_2024.html" style="border:none; height: 850px !important"></iframe>
+<iframe src="assets/diagramme/stromproduktion_kuchendiagramm_2015_2024.html"></iframe>
 
 TODO Amel - Python Code von Diagramm fehlt -> Labels sollten gleich heissen
 
