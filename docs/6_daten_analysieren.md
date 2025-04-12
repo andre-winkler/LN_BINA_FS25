@@ -52,7 +52,8 @@ Folgende zwei Grafiken präsentieren die Energie-Entwicklung in der Schweiz der 
 
 <iframe src="assets/diagramme/solar_vs_other_energy_sources.html"></iframe>
 
-<iframe src="assets/diagramme/stromproduktion_kuchendiagramm_2015_2024.html"></iframe>
+<iframe src="assets/diagramme/stromproduktion_kuchendiagramm_2015_2024.html" 
+        width="100%" height="900px" style="border:none;"></iframe>
 
 TODO Amel - Python Code von Diagramm fehlt -> Labels sollten gleich heissen
 
