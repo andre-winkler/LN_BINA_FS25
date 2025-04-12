@@ -59,7 +59,7 @@ Aus der Grafik kann eine deutliche Zunahme der Solarenergie (Photovoltaik) herau
 
 Insgesamt zeigt die Analyse, wie Solarenergie in der Schweiz als zunehmend wichtige Energiequelle mit bedeutendem Wachstumspotenzial wahrgenommen wird, besonders im Kontext von Subventionen und staatlichen Fördermassnahmen.
 
-#### Effizienz der PV-Anlagen in der Schweiz
+### Effizienz der PV-Anlagen in der Schweiz
 In der Schweiz werden hauptsächlich kristalline Silizium-Module verwendet. Der durchschnittliche Wirkungsgrad dieser Module hat sich in den letzten zehn Jahren wie folgt entwickelt.
 
 <iframe src="assets/diagramme/Wirkungsgrad_PV_Anlagen.html"></iframe>
@@ -72,3 +72,16 @@ Folgend die Erkenntniss aus dem Diagramm:
 * Nach 2021 bleibt der Wirkungsgrad relativ stabil, mit einem leichten Anstieg bis 2024.
 
 Diese Entwicklung zeigt den Fortschritt in der Technologie und Effizienz von PV-Modulen in der Schweiz.
+
+### Stromverbrauch in der Schweiz
+Die Grafik zeigt den Strom-Endverbrauch in der Schweiz zwischen 2015 und 2023, aufgeteilt nach verschiedenen Sektoren wie Haushalt, Industrie, Dienstleistungen, Bahnen, Elektromobilität und Verkehr. Sie bietet einen Überblick über die Entwicklung des Verbrauchs in diesen Bereichen.
+
+<iframe src="assets/diagramme/Strom_Endverbrauch_Schweiz.html"></iframe>
+
+Erkenntnisse, welche wir gewonnen haben:
+* **Haushalt**: Der Stromverbrauch der Haushalte bleibt über die Jahre relativ stabil, mit leichten Schwankungen.
+* **Industrie**: Der Verbrauch in der Industrie zeigt einen leichten Rückgang, insbesondere nach 2019, was auf Effizienzsteigerungen oder wirtschaftliche Veränderungen hindeuten könnte.
+* **Dienstleistungen**: Der Verbrauch im Dienstleistungssektor bleibt ebenfalls stabil, mit einem leichten Rückgang in den letzten Jahren.
+* **Bahnen**: Der Stromverbrauch der Bahnen bleibt konstant, was die Bedeutung des öffentlichen Verkehrs in der Schweiz unterstreicht.
+* **Elektromobilität**: Ein deutlicher Anstieg ist im Bereich Elektromobilität zu erkennen, insbesondere ab 2020, was auf die zunehmende Verbreitung von Elektrofahrzeugen hinweist.
+* **Verkehr Beleuchtung und übriger Verkehr**: Diese Kategorien zeigen einen leichten Rückgang, was auf Effizienzsteigerungen oder Änderungen in der Infrastruktur hindeuten könnte.
