@@ -1,34 +1,9 @@
-## Ziele und Informationsbedarf definieren
+Ziel dieser Arbeit ist es, die Entwicklung der Solarenergie in der Schweiz umfassend zu analysieren und deren Bedeutung für die zukünftige Energieversorgung und das Zusammenspiel mit der Reduktion von CO₂-Emissionen einzuordnen. Im Fokus steht dabei die Photovoltaik (PV) als zentrale Technologie zur Nutzung und Ausschöpfung der Sonnenenergie.
 
-TODO - Fabienne - bis 12.04.2025
+Ein erster Schwerpunkt liegt auf der retrospektiven Betrachtung: Wie hat sich die installierte PV-Leistung in der Schweiz in den letzten Jahren entwickelt? Dabei wird auch die Effizienz moderner PV-Module beleuchtet, ebenso wie die Flächenbeanspruchung pro installierter Kilowatt-Leistung. Die Kostenentwicklung, insbesondere die Investitionskosten pro kW installierter Leistung, bildet einen weiteren zentralen Aspekt. Weiter wird auf politische und wirtschaftliche Rahmenbedingungen eingegangen, wie zum Beispiel Subventionen, Förderprogramme sowie die Höhe der Einspeisevergütung für Solarstrom. Diese Faktoren haben massgeblich zur wachsenden Nachfrage nach Solaranlagen beigetragen. Die Verhältnisse sind jedoch geografisch sehr unterschiedlich.
 
-Letzten 10 Jahren (01.01.2015 - 31.12.2024)
-    • Wetterentwicklung in der Schweiz
-        ○ Entwicklung der Sonnenstunden in der Schweiz
-        --> nicht nur die Sonnenstunden zählen sondern einfach auch die Helligkeit!
-    • Solarenergie-Entwicklung in der Schweiz
-        ○ Installierte PV-Leistung
-            § Stromproduktion
-            § Effizienz von PV-Modulen
-            § Wie Fläche wird beansprucht
-            § Kosten pro installierter kW-Leistung
-        ○ Solar Energie im Vergleich zu den anderen Stromquellen
-    • Andere Faktoren
-            § Subventionen und Förderungen
-            § Einspeisevergütung für Solarstrom
-            § steigende Nachfrage nach Solarstrom
-            § Korrelation der Entwicklung mit der Entwicklung der CO2-Emissionen?
-            § Stromverbrauch der Endgeräte (Optional)
-    • Trends (Optional)
-        ○ Wie unterscheidet sich die Solarstromproduktion zwischen Sommer und Winter?
-        ○ Wie hat sich die Nutzung erneuerbarer Energien langfristig entwickelt?
-        
-Zukunft
-    • Sonnenstunden
-    • Verschiedene Use Cases -> mit positiv und negativ Szenarien
-    • Wie hoch ist die maximale mögliche Solarleistung in 5 Jahren?
-    • Welche Prognosen gibt es für den weiteren Ausbau von Solarenergie?
-    • Potential von der Nutzung der Gebäudeflächen
-        ○ Dächer
-        ○ Fassaden
-Agri-PV?
+Ein besonderes Augenmerk gilt der Frage, ob und inwiefern die zunehmende Nutzung von Solarenergie mit einer Reduktion der CO₂-Emissionen korreliert. Darüber hinaus wird untersucht, welchen Einfluss der Stromverbrauch von Endgeräten auf die Nachfrage nach Solarenergie hat. Saisonale Unterschiede in der Solarstromproduktion – insbesondere der starke Kontrast zwischen Sommer- und Wintermonaten – werden ebenfalls berücksichtigt, da sie wichtige Hinweise für die zukünftige Netzstabilität und Energiespeicherung liefern.
+
+Im zweiten Teil der Arbeit liegt der Schwerpunkt auf der Zukunft der Solarenergie in der Schweiz. Hier werden Prognosen hinsichtlich der jährlichen Sonnenstunden, des maximal möglichen Ausbaus der PV-Leistung in den kommenden Jahren sowie potenzieller Use Cases untersucht. Ein zentrales Ziel ist es, das technische und wirtschaftliche Potenzial der Nutzung vorhandener Gebäudeflächen (z. B. Dächer und Fassaden) sowie alternativer Konzepte wie Agri-PV zu bewerten. Diese Überlegungen sollen aufzeigen, welche Rolle die Solarenergie künftig in der Schweizer Energielandschaft einnehmen kann. 
+
+Insgesamt verfolgt die Arbeit das Ziel, ein fundiertes Bild der bisherigen Entwicklung und der zukünftigen Perspektiven der Solarenergie in der Schweiz zu zeichnen.
