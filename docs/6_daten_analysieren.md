@@ -53,7 +53,7 @@ Folgende zwei Grafiken präsentieren die Energie-Entwicklung in der Schweiz der 
 
 <iframe src="assets/diagramme/solar_vs_other_energy_sources.html"></iframe>
 
-<iframe src="assets/diagramme/stromproduktion_kuchendiagramm_2015_2024.html"></iframe>
+<iframe src="assets/diagramme/stromproduktion_kuchendiagramm_slider.html"></iframe>
 
 Aus der Grafik kann eine deutliche Zunahme der Solarenergie (Photovoltaik) herausgelesen werden. Von 2015 bis 2023 war das eine Zunahme von fast dem 5-fachen. Im Vergleich zu den zwei Hauptenergiequellen Wasserkraft und Kernkraft ist es immer noch ein sehr kleiner Anteil.
 
