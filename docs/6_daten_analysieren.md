@@ -37,9 +37,8 @@ Aus diesem Diagramm kann man folgende Feststellungen ableiten:
 * **Regionale Unterschiede:** In den südlichen Teilen der Schweiz (z.B. Tessin) gibt es mehr Sonnenstunden als in den nördlicheren Regionen (z.B. Zürich oder Basel).
 
 <br>
-TODO Amel - Python Code von Diagramm fehlt
 
-<iframe src="assets/diagramme/sonnenstunden_3d_final_extrem_flach.html" style="height: 850px !important"></iframe>
+<iframe src="assets/diagramme/sonnenstunden_3d.html" style="height: 850px !important"></iframe>
 
 Die Auswertung der kumulierten Sonnenstunden über alle berücksichtigten Wetterstationen in der Schweiz zeigt moderate regionale Unterschiede. Stationen im südlichen Teil des Landes, insbesondere im Tessin (z. B. Lugano, Magadino, Cimetta), weisen tendenziell höhere Summen auf als viele Stationen im Mittelland oder in der Nordschweiz. Auch einzelne hochgelegene Stationen wie der Gornergrat oder Piz Corvatsch verzeichnen vergleichsweise hohe Werte über den gesamten Analysezeitraum hinweg.
 
