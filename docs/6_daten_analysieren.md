@@ -6,11 +6,13 @@ Die in diesem Kapitel präsentierten Daten stammen von MeteoSwiss, der offiziell
 
 Die nachfolgende Karte gibt einen Überblick über die Standorte der jeweiligen Messstationen und verdeutlicht die flächendeckende Erfassung der Daten. 
 
-<iframe src="assets/diagramme/swiss_stations_map.html"></iframe>
+<iframe src="assets/diagramme/swiss_stations_map.html"></iframe> 
 
 Zur besseren Einordnung der Wetterstationen, folgend eine Tabelle zur Höhenverteilung. Daraus kann man ableiten, dass ein Grossteil der Wetterstationen unter 500 Höhenmeter liegen und der andere Grossteil zwischen 500 und 1'500 Meter.
 
-{% include_relative assets/md/hoehenverteilung_stationen.md %}
+<div style="text-align: center;">
+  {% include_relative assets/md/hoehenverteilung_stationen.md %}
+</div>
 
 Die folgenden zwei interaktiven Grafiken veranschaulichen die Anzahl der Sonnenstunden pro Monat in der Schweiz über die vergangenen zehn Jahre.
 
