@@ -84,3 +84,25 @@ Erkenntnisse, welche wir gewonnen haben:
 * **Bahnen**: Der Stromverbrauch der Bahnen bleibt konstant, was die Bedeutung des öffentlichen Verkehrs in der Schweiz unterstreicht.
 * **Elektromobilität**: Ein deutlicher Anstieg ist im Bereich Elektromobilität zu erkennen, insbesondere ab 2020, was auf die zunehmende Verbreitung von Elektrofahrzeugen hinweist.
 * **Verkehr Beleuchtung und übriger Verkehr**: Diese Kategorien zeigen einen leichten Rückgang, was auf Effizienzsteigerungen oder Änderungen in der Infrastruktur hindeuten könnte.
+
+### Solaranlagen in der Schweiz
+
+TODO Amel Text
+
+<iframe src="assets/diagramme/elcoms_map.html"></iframe>
+
+TODO Amel Text
+
+
+TODO Amel Text
+
+<iframe src="assets/diagramme/elcom_entwicklung_total_power.html"></iframe>
+
+TODO Amel Text
+
+
+TODO Amel Text
+
+<iframe src="assets/diagramme/elcom_total_power_2024.html"></iframe>
+
+TODO Amel Text
