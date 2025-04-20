@@ -51,10 +51,11 @@ Die Visualisierung der Werte – beispielsweise in Form einer Karte oder eines B
 Folgende zwei Grafiken präsentieren die Energie-Entwicklung in der Schweiz der letzten 10 Jahre. Einmal als Flächenchart und für detailliertere Auswertung als Pie-Chart.
 
 <iframe src="assets/diagramme/solar_vs_other_energy_sources.html"></iframe>
+Die Grafik zeigt, dass der Strombedarf in der Schweiz von 2015 bis 2024 insgesamt angestiegen ist – besonders ab 2022. Den zusätzlichen Bedarf deckten vor allem die Wasserkraft, die deutlich zulegte, und die Photovoltaik, die stetig ausgebaut wurde. Kernkraft und thermische Energie blieben weitgehend konstant, während andere erneuerbare Quellen nur einen kleinen Anteil beitrugen. Damit wird klar: Der Mehrbedarf wurde primär durch erneuerbare Energien gedeckt.
 
 <iframe src="assets/diagramme/stromproduktion_kuchendiagramm_slider.html"></iframe>
 
-Aus der Grafik kann eine deutliche Zunahme der Solarenergie (Photovoltaik) herausgelesen werden. Von 2015 bis 2023 war das eine Zunahme von fast dem 5-fachen. Im Vergleich zu den zwei Hauptenergiequellen Wasserkraft und Kernkraft ist es immer noch ein sehr kleiner Anteil.
+Aus der Grafik kann eine deutliche Zunahme der Solarenergie (Photovoltaik) herausgelesen werden. Von 2015 bis 2024 war das eine Zunahme von fast dem 5-fachen. Im Vergleich zu den zwei Hauptenergiequellen Wasserkraft und Kernkraft ist es immer noch ein sehr kleiner Anteil.
 
 Insgesamt zeigt die Analyse, wie Solarenergie in der Schweiz als zunehmend wichtige Energiequelle mit bedeutendem Wachstumspotenzial wahrgenommen wird, besonders im Kontext von Subventionen und staatlichen Fördermassnahmen.
 
