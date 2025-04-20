@@ -65,12 +65,9 @@ In der Schweiz werden hauptsächlich kristalline Silizium-Module verwendet. Der 
 
 Die Daten wurden mittels ChatGPT erstellt und dies von verschiedenen Quellen wie zum Beispiel von Swissolar und BFE.
 Folgend die Erkenntniss aus dem Diagramm:
-* Der durchschnittliche Modulwirkungsgrad von PV-Anlagen in der Schweiz hat sich in den letzten 10 Jahren stetig verbessert.
-* Im Jahr 2015 lag der durchschnittliche Wirkungsgrad bei etwa 15,5 %, während er im Jahr 2024 auf 23 % gestiegen ist.
-* Besonders zwischen den Jahren 2019 und 2021 ist ein signifikanter Anstieg des Wirkungsgrads zu beobachten.
-* Nach 2021 bleibt der Wirkungsgrad relativ stabil, mit einem leichten Anstieg bis 2024.
+In der Schweiz hat sich der durchschnittliche Wirkungsgrad von Photovoltaik-Modulen in den letzten zehn Jahren kontinuierlich verbessert. Während der Wert im Jahr 2015 noch zwischen 15 % und 16 % lag, erreichte er 2024 bereits 22 % bis 24 %. Besonders zwischen 2015 und 2020 ist ein gleichmässiger Anstieg um jeweils rund 1 Prozentpunkt pro Jahr zu erkennen. Seit 2021 stagniert die Entwicklung leicht, zeigt aber weiterhin eine positive Tendenz.
 
-Diese Entwicklung zeigt den Fortschritt in der Technologie und Effizienz von PV-Modulen in der Schweiz.
+Diese Verbesserung ist auf technologische Fortschritte in der Zellproduktion zurückzuführen, insbesondere bei kristallinen Siliziummodulen, die in der Schweiz am häufigsten verbaut werden. Der höhere Wirkungsgrad bedeutet, dass bei gleicher Fläche heute deutlich mehr Solarstrom produziert werden kann als noch vor wenigen Jahren.
 
 ### Stromverbrauch in der Schweiz
 Die Grafik zeigt den Strom-Endverbrauch in der Schweiz zwischen 2015 und 2023, aufgeteilt nach verschiedenen Sektoren wie Haushalt, Industrie, Dienstleistungen, Bahnen, Elektromobilität und Verkehr. Sie bietet einen Überblick über die Entwicklung des Verbrauchs in diesen Bereichen.
@@ -87,22 +84,32 @@ Erkenntnisse, welche wir gewonnen haben:
 
 ### Solaranlagen in der Schweiz
 
-TODO Amel Text
+Dieses Kapitel zeigt auf, wie sich die installierte Leistung und die Verteilung der Solaranlagen im Zeitraum von 2015 bis 2024 entwickelt haben. Anhand von Visualisierungen wird ersichtlich, in welchen Regionen besonders viele Anlagen gebaut wurden und wo weiteres Potenzial besteht. Die Daten geben zudem Aufschluss darüber, wie geografische und klimatische Bedingungen den Ausbau beeinflussen und welche Unterschiede sich zwischen den einzelnen Kantonen zeigen.
 
 <iframe src="assets/diagramme/elcoms_map.html"></iframe>
 
-TODO Amel Text
+Die Visualisierung zeigt die Verteilung der Photovoltaikanlagen (PV-Anlagen) in der Schweiz im Jahr 2024. Die Kreise stehen für die kumulierte Leistung in Kilowatt (kW) pro Region. Je größer der Kreis, desto höher die installierte Gesamtleistung in diesem Gebiet.
 
+Zentrale Erkenntnisse:
+* Starke Konzentration in Städten: In urbanen Zentren wie Zürich, Lausanne, Bern und Basel sind besonders viele und leistungsstarke PV-Anlagen installiert. Dies lässt sich durch eine hohe Gebäudedichte und ein gesteigertes Interesse an nachhaltiger Energie erklären.
 
-TODO Amel Text
+* Auffällige regionale Unterschiede: Während im Mittelland und in der Nordwestschweiz viele leistungsstarke Anlagen installiert wurden, ist die Dichte in alpinen Regionen geringer. Dennoch sind auch dort einzelne Standorte mit hoher Gesamtleistung sichtbar.
+
+* Details bei genauerem Hinsehen: Beim Hineinzoomen in die Karte werden feinere regionale Unterschiede sichtbar. So lassen sich einzelne Gemeinden mit besonders hoher oder niedriger Leistung identifizieren.
+
+Die Visualisierung gibt somit einen klaren Überblick über den Stand der Solarenergie in der Schweiz. Sie macht regionale Unterschiede sichtbar und zeigt, wo bereits viel in Photovoltaik investiert wurde – und wo noch Potenzial besteht.
 
 <iframe src="assets/diagramme/elcom_entwicklung_total_power.html"></iframe>
 
-TODO Amel Text
+Die Grafik zeigt die kumulative Entwicklung der installierten Gesamtleistung von Photovoltaikanlagen pro Kanton in der Schweiz im Zeitraum von 2015 bis 2024. Deutlich wird, dass alle Kantone einen kontinuierlichen Zubau verzeichnen – allerdings mit grossen Unterschieden beim Wachstumstempo.
 
+Besonders auffällig ist der starke Anstieg in einzelnen Kantonen, die bereits früh in den Ausbau der Solarenergie investiert haben oder in denen grössere Anlagen realisiert wurden. Der Vergleich zeigt zudem, dass wirtschaftlich starke oder bevölkerungsreiche Kantone tendenziell eine höhere installierte Gesamtleistung aufweisen.
 
-TODO Amel Text
+Der stetige Zuwachs über alle Jahre hinweg verdeutlicht die zunehmende Bedeutung der Solarenergie in der Schweiz. Die unterschiedlichen Ausgangsniveaus und Wachstumsraten liefern zudem wichtige Hinweise auf das regionale Potenzial, aber auch auf bestehende Unterschiede bei Fördermassnahmen, Flächenverfügbarkeit oder politischem Engagement.
+
 
 <iframe src="assets/diagramme/elcom_total_power_2024.html"></iframe>
 
-TODO Amel Text
+Die Balkengrafik zeigt die kumulierte Gesamtkapazität der installierten Photovoltaikanlagen pro Kanton in der Schweiz im Zeitraum von 2015 bis 2024. An der Spitze liegen die Kantone Bern und Zürich mit jeweils rund 150 MW installierter Leistung, gefolgt von Aargau, St. Gallen und Waadt. Diese Kantone verfügen über günstige Rahmenbedingungen, eine hohe Gebäudedichte und engagierte Förderprogramme, was den Ausbau begünstigt hat.
+
+Am unteren Ende der Rangliste befinden sich kleinere oder topografisch anspruchsvollere Kantone wie Appenzell Innerrhoden, Uri und Obwalden. Dort sind die Ausbaupotenziale begrenzter, was sich in der niedrigeren kumulierten Leistung widerspiegelt. Die Grafik verdeutlicht die regionalen Unterschiede beim PV-Ausbau und zeigt gleichzeitig, wo noch ungenutztes Potenzial vorhanden ist.
