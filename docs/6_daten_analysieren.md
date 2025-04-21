@@ -87,9 +87,9 @@ Erkenntnisse, welche wir gewonnen haben:
 
 Dieses Kapitel zeigt auf, wie sich die installierte Leistung und die Verteilung der Solaranlagen im Zeitraum von 2015 bis 2024 entwickelt haben. Anhand von Visualisierungen wird ersichtlich, in welchen Regionen besonders viele Anlagen gebaut wurden und wo weiteres Potenzial besteht. Die Daten geben zudem Aufschluss darüber, wie geografische und klimatische Bedingungen den Ausbau beeinflussen und welche Unterschiede sich zwischen den einzelnen Kantonen zeigen.
 
-<iframe src="assets/diagramme/elcoms_map.html"></iframe>
+Die folgende Visualisierung zeigt die Verteilung der Photovoltaikanlagen (PV-Anlagen) in der Schweiz ab 2015 bis 2024. Die Kreise stehen für die kumulierte Leistung in Kilowatt (kW) pro Region. Je grösser der Kreis, desto höher die installierte Gesamtleistung in diesem Gebiet.
 
-Die Visualisierung zeigt die Verteilung der Photovoltaikanlagen (PV-Anlagen) in der Schweiz im Jahr 2024. Die Kreise stehen für die kumulierte Leistung in Kilowatt (kW) pro Region. Je größer der Kreis, desto höher die installierte Gesamtleistung in diesem Gebiet.
+<iframe src="assets/diagramme/elcoms_map.html"></iframe>
 
 Zentrale Erkenntnisse:
 * Starke Konzentration in Städten: In urbanen Zentren wie Zürich, Lausanne, Bern und Basel sind besonders viele und leistungsstarke PV-Anlagen installiert. Dies lässt sich durch eine hohe Gebäudedichte und ein gesteigertes Interesse an nachhaltiger Energie erklären.
