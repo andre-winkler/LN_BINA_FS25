@@ -160,13 +160,18 @@ Die angegebenen Werte verstehen sich als Durchschnittswerte und können je nach 
 | **Installierte Leistung (kW)** | Die maximale elektrische Leistung, die eine Photovoltaikanlage unter Standardbedingungen liefern kann. |
 | **KAQ (Key Analytics Question)** | Zentrale analytische Fragestellung, die mit Daten beantwortet werden soll – dient der strategischen Entscheidungsfindung. |
 | **KEV (Kostendeckende Einspeisevergütung)** | Ehemaliges Förderinstrument des Bundes zur Unterstützung von Solarstrom; durch EIV abgelöst. |
+| **kWp (Kilowatt peak)** | Einheit zur Messung der maximalen Leistung, die eine Photovoltaikanlage unter Standardtestbedingungen liefern kann. Diese Leistung wird unter idealen Bedingungen (z. B. bei optimaler Sonneneinstrahlung) gemessen und gibt die Spitzenleistung der Anlage an. |
 | **Median** | Der mittlere Wert eines geordneten Datensatzes – teilt die Datenmenge in zwei gleich grosse Hälften. |
 | **MeteoSchweiz** | Nationale Wetter- und Klimainstitution der Schweiz – zentrale Quelle für meteorologische Langzeitdaten. |
+| **Netzstabilität** | Die Fähigkeit eines Stromnetzes, kontinuierlich und sicher zu funktionieren, ohne dass es zu Ausfällen oder Überlastungen kommt. |
+| **Netzausbau** | Der Prozess, bei dem die Infrastruktur eines Stromnetzes erweitert oder modernisiert wird, um eine höhere Kapazität und Effizienz zu ermöglichen. |
 | **opendata.swiss** | Offizielle Schweizer Plattform für offene Behördendaten – auch Quelle für Energiedaten des BFE. |
 | **Photovoltaik (PV)** | Technologie zur direkten Umwandlung von Sonnenlicht in elektrischen Strom mittels Solarzellen. |
 | **Photovoltaikanlage (PV-Anlage)** | Komplettes System aus Solarmodulen, Wechselrichtern und Installation zur Stromgewinnung aus Sonnenlicht. |
+| **Prognosemodell** | Ein mathematisches Modell, das dazu dient, zukünftige Ereignisse oder Entwicklungen, wie z. B. die Solarnutzung, basierend auf historischen Daten und Annahmen vorherzusagen. |
 | **Solarzelle** | Elektronisches Bauteil, meist aus Silizium, das Licht in elektrischen Strom umwandelt (basierend auf dem photovoltaischen Effekt). |
 | **Sonnenstunden** | Zeitspanne, während der die Globalstrahlung einen bestimmten Schwellenwert überschreitet (Schweiz: 200 W/m²). |
 | **Subvention / Förderung** | Finanzielle Anreize durch Bund, Kantone oder Gemeinden zur Förderung nachhaltiger Energieprojekte. |
 | **VESE** | Verband unabhängiger Energieerzeuger Schweiz – unterstützt Kleinproduzenten und Prosumenten. |
 | **Wirkungsgrad** | Verhältnis zwischen eingestrahlter Sonnenenergie und tatsächlich erzeugter elektrischer Energie einer PV-Anlage. |
+| **Dezentrale Energieversorgung** | Ein Modell der Energieversorgung, bei dem Strom dezentral, oft durch erneuerbare Energiequellen wie Photovoltaik, erzeugt wird, anstatt aus großen, zentralen Kraftwerken. |
