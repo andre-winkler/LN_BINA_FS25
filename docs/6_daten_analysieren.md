@@ -45,7 +45,13 @@ Für die Auswertungen der Sonnenstunden pro Kanton und der Darstellung auf einer
 <iframe src="assets/diagramme/swiss_sunhours_map.html"></iframe>
 
 Aus diesem Diagramm kann man folgende Feststellungen ableiten:
-* **Regionale Unterschiede:** In den südlichen Teilen der Schweiz (z.B. Tessin) gibt es mehr Sonnenstunden als in den nördlicheren Regionen (z.B. Zürich oder Basel).
+
+* **Regionale Unterschiede:** In den südlichen Teilen der Schweiz (z. B. Tessin) gibt es mehr Sonnenstunden als in nördlicheren Regionen wie Zürich oder Basel.
+* **Sonnenreiche Kantone:** Kantone wie **Genf**, **Wallis**, **Thurgau** und **Graubünden** weisen besonders hohe Werte auf – meist über **1700 Sonnenstunden pro Jahr**.
+* **Weniger Sonnenstunden in Zentralschweiz und Alpenraum:** Kantone wie **Uri**, **Glarus**, **Schwyz** und **Obwalden** erreichen teils weniger als **1300 Sonnenstunden jährlich**.
+* **Einfluss geografischer Faktoren:** Die Unterschiede lassen sich durch eine Kombination aus **Südlage, Höhenlage und geringerer Nebelhäufigkeit** erklären.
+* **Benachteiligung durch Topografie:** Regionen in **Tälern oder mit häufigem Winternebel** (z. B. Mittelland, Zentralschweiz) haben tendenziell tiefere Werte.
+
 
 <br>
 
