@@ -18,6 +18,10 @@ Das Liniendiagramm stellt die Entwicklung der monatlichen Sonnenstunden im Verla
 
 <iframe src="assets/diagramme/sunhours_per_month.html"></iframe>
 
+Und hier noch als Violinplot:
+
+<iframe src="assets/diagramme/sunhours_violinplot_per_month.html"></iframe>
+
 
 Die folgende Grafik stellt die Verteilung der Sonnenstunden in einer alternativen Darstellungsform als Boxplot dar. Diese Visualisierung ermöglicht eine präzisere Analyse der Spannweite, Medianwerte und möglicher Ausreisser innerhalb der Daten.
 
