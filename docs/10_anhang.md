@@ -10,29 +10,7 @@
 
 **🔗 Hinweis zu den Förderinformationen**
 
-Die in dieser Arbeit dargestellten kantonalen und nationalen Förderprogramme für Photovoltaikanlagen, Ladeinfrastruktur und Elektromobilität basieren auf öffentlich zugänglichen Quellen (Stand: April 2025). Zur Erhebung wurden insbesondere folgende Informationsplattformen herangezogen:
-
-Bundesförderung (Einmalvergütung):
-
-- [pronovo.ch – Photovoltaik-Förderung](https://pronovo.ch)
-- [energieschweiz.ch – Einmalvergütungen](https://www.energieschweiz.ch)
-- [swissolar.ch – Stromgesetz & Vergütungssätze](https://www.swissolar.ch)
-- [bfe.admin.ch – PV-Förderung des Bundes](https://www.bfe.admin.ch)
-
-Kantonale und kommunale Übersichten:
-
-- [energiefranken.ch – Förderprogramme nach Kanton](https://www.energiefranken.ch)
-- [solar-ratgeber.ch – Förderungen in der Schweiz](https://www.solar-ratgeber.ch)
-- [automo.ch – Übersicht E-Auto-Prämien](https://www.automo.ch)
-- [energieheld.ch – Kombination PV & Ladestation](https://www.energieheld.ch)
-
-Beispielhafte kantonale Programme:
-
-- [ow.ch – Förderung Obwalden](https://www.ow.ch)
-- [ge.ch – Ladeinfrastruktur Genf](https://www.ge.ch)
-
-
-**Hinweis:** Die Programme können sich laufend ändern. Für aktuelle Informationen empfehlen wir die direkte Recherche über die jeweiligen kantonalen Websites oder über energiefranken.ch.
+Die in dieser Arbeit dargestellten kantonalen und nationalen Förderprogramme für Photovoltaikanlagen, Ladeinfrastruktur und Elektromobilität basieren auf öffentlich zugänglichen Quellen (Stand: April 2025). 
 
 | Kantone/Bund              | Kantonale PV-Förderung                                                         | Ladeinfrastruktur                                                  | E-Auto-Prämie                                                   |
 |---------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------|
@@ -63,6 +41,30 @@ Beispielhafte kantonale Programme:
 | **Wallis**               | Keine kantonale PV-Förderung bekannt                                            | Keine Förderung bekannt                                            | Keine kantonale Prämie bekannt                                |
 | **Zug**                  | Kommunale Programme möglich                                                     | Gefördert über Gemeinden                                           | Keine kantonale Prämie bekannt                                |
 | **Zürich**               | Kommunale Programme möglich                                                     | Gefördert über Gemeinden                                           | Keine kantonale Prämie bekannt                                |
+
+Zur Erhebung wurden insbesondere folgende Informationsplattformen herangezogen:
+
+Bundesförderung (Einmalvergütung):
+
+- [pronovo.ch – Photovoltaik-Förderung](https://pronovo.ch)
+- [energieschweiz.ch – Einmalvergütungen](https://www.energieschweiz.ch)
+- [swissolar.ch – Stromgesetz & Vergütungssätze](https://www.swissolar.ch)
+- [bfe.admin.ch – PV-Förderung des Bundes](https://www.bfe.admin.ch)
+
+Kantonale und kommunale Übersichten:
+
+- [energiefranken.ch – Förderprogramme nach Kanton](https://www.energiefranken.ch)
+- [solar-ratgeber.ch – Förderungen in der Schweiz](https://www.solar-ratgeber.ch)
+- [automo.ch – Übersicht E-Auto-Prämien](https://www.automo.ch)
+- [energieheld.ch – Kombination PV & Ladestation](https://www.energieheld.ch)
+
+Beispielhafte kantonale Programme:
+
+- [ow.ch – Förderung Obwalden](https://www.ow.ch)
+- [ge.ch – Ladeinfrastruktur Genf](https://www.ge.ch)
+
+
+**Hinweis:** Die Programme können sich laufend ändern. Für aktuelle Informationen empfehlen wir die direkte Recherche über die jeweiligen kantonalen Websites oder über energiefranken.ch.
 
 ### 🌍 Matrix: Solarpaneelproduktion weltweit (2023)
 
