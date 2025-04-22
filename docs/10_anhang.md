@@ -59,7 +59,28 @@ Hinweis: Die Programme können sich laufend ändern. Für aktuelle Informationen
 | **Zug**                  | Kommunale Programme möglich                                                     | Gefördert über Gemeinden                                           | Keine kantonale Prämie bekannt                                | 
 | **Zürich**               | Kommunale Programme möglich                                                     | Gefördert über Gemeinden                                           | Keine kantonale Prämie bekannt                                | 
 
+### 🌍 Matrix: Solarpaneelproduktion weltweit (2023)
 
+| Land             | Anteil an globaler Produktion (%) | Installierte Solarkapazität (GW) | Verkaufspreis (USD/Watt) | Bemerkung                                                        |
+|------------------|-----------------------------------|----------------------------------|---------------------------|------------------------------------------------------------------|
+| **China**        | 77,8 %                            | ~610                             | 0,10–0,11                 | Dominanz in allen Produktionsstufen                              |
+| **Vietnam**      | 6,4 %                             | ~24                              | n/a                       | Chinesische Produktionsstätten                                   |
+| **Malaysia**     | 2,8 %                             | ~10                              | n/a                       | Teils chinesisch geführte Werke                                  |
+| **Südkorea**     | 4 %                               | ~21                              | n/a                       | Fokus auf Qualität & Technologie                                 |
+| **Thailand**     | 2 %                               | ~3                               | n/a                       | Wachsende Produktionsbasis                                       |
+| **USA**          | 3,2 %                             | ~139                             | 0,27–0,40                 | Ausbau der lokalen Produktion                                    |
+| **Japan**        | 2 %                               | ~89                              | n/a                       | High-End-Module & Stadtintegration                               |
+| **Indien**       | 1,5 %                             | ~73                              | 0,22                      | Staatlich geförderter Ausbau                                     |
+| **Taiwan**       | 1 %                               | ~10                              | n/a                       | Spezialisierung auf bestimmte Komponenten                        |
+| **Deutschland**  | 1 %                               | ~82                              | 0,30                      | Forschung & Entwicklung, früherer Technologieführer              |
+
+Hinweise:
+
+Die angegebenen Werte basieren auf Daten der Internationalen Energieagentur (IEA) und anderen verlässlichen Quellen.​
+
+„n/a“ bedeutet, dass keine verlässlichen öffentlichen Daten zum Verkaufspreis pro Watt für das jeweilige Land verfügbar sind.​
+
+Die Verkaufspreise können je nach Marktsegment, Technologie und weiteren Faktoren variieren.
 
 ### Glossar zur Fallstudie: Solarenergie in der Schweiz
 
