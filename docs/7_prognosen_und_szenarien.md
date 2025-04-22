@@ -13,3 +13,58 @@ Dieses Kapitel untersucht auf datenbasierter Grundlage, wie sich die Nutzung der
 Die Prognosemodelle beruhen auf Zeitreihenanalysen der gesammelten Daten von MeteoSchweiz und dem Bundesamt für Energie (BFE). Dabei werden historische Entwicklungen extrapoliert und mit verschiedenen Annahmen zu politischen, technologischen und klimatischen Einflussfaktoren kombiniert.
 
 Ziel ist es, Entscheidungsträgern in Politik, Verwaltung, Energieversorgung und Wirtschaft eine fundierte Grundlage für zukunftsgerichtete Strategien zu bieten. Die resultierenden Szenarien sollen aufzeigen, in welchem Umfang die Solarenergie zur Deckung des zukünftigen Strombedarfs beitragen kann – und welche Schritte erforderlich sind, um das volle Potenzial dieser Technologie in der Schweiz zu erschliessen.
+
+### Prognosen im Überblick (Tabellarisch)  
+
+
+### Prognose: Entwicklung der installierten PV-Leistung (CH & Kantone)  
+
+
+### Prognose: Solarstromproduktion (gesamte Schweiz)  
+
+
+### Prognose: Einspeisevergütung (bis 2030)  
+
+
+### Prognose: Kosten pro kWp  
+
+
+### Szenarien: Strombedarf durch Elektromobilität  
+
+
+### Potenzialanalyse: Weitere PV-Ausbauflächen  
+
+
+### Politische Entwicklungen und regulatorische Szenarien (qualitativ)
+
+Die zukünftige Entwicklung der Solarenergie in der Schweiz hängt nicht nur von technischen und wirtschaftlichen Faktoren ab, sondern wird stark durch politische Entscheidungen und regulatorische Rahmenbedingungen geprägt. Dieses Kapitel beleuchtet zentrale politische Einflussfaktoren und zeigt denkbare Szenarien für die kommenden Jahre auf.
+
+#### Aktuelle Rahmenbedingungen
+
+In der Schweiz bildet das Energiegesetz die Grundlage für den Ausbau erneuerbarer Energien. Förderinstrumente wie die Einmalvergütung (EIV) oder kantonale Unterstützungsprogramme haben in den letzten Jahren wesentlich zur Verbreitung von Photovoltaikanlagen beigetragen. Hinzu kommen nationale Ziele im Rahmen der Energiestrategie 2050 sowie die CO₂-Gesetzgebung, die derzeit politisch diskutiert wird.
+
+#### Mögliche regulatorische Entwicklungen bis 2030
+
+| Potenzielle politische Massnahme                           | Wahrscheinlichkeits-Einschätzung | Wirkung auf PV-Ausbau | Erläuterung                                                                 |
+|------------------------------------------------------------|----------------------------------|------------------------|----------------------------------------------------------------------------|
+| Solarpflicht bei Neubauten (CH-weite Regelung)             | Mittel bis hoch                  | Hoch                   | Könnte besonders im urbanen Raum zu einem deutlichen Ausbau führen.        |
+| Ausbau der EIV oder neue Fördermechanismen                 | Hoch                             | Mittel bis hoch        | Politisch breit abgestützt, aber abhängig von Budgetentscheidungen.        |
+| Förderboni für winteroptimierte oder Agri-PV-Anlagen       | Mittel                           | Mittel                 | Unterstützt gezielte Technologien, speziell im Alpenraum oder in der Landwirtschaft. |
+| Reduktion oder Abschaffung von Förderungen                 | Gering bis mittel                | Stark negativ          | Würde die Investitionsbereitschaft senken, insbesondere bei Kleinanlagen. |
+| Schnellere Bewilligungsverfahren für grosse Anlagen        | Mittel                           | Mittel bis hoch        | Würde Hürden für Industrieprojekte reduzieren.                             |
+
+#### Internationale Handelskonflikte und Auswirkungen
+
+Der aktuelle Handelskonflikt zwischen den USA und China könnte **erhebliche indirekte Auswirkungen auf Europa** haben – auch auf den Solarmarkt:
+
+- **China als weltweit führender Hersteller von Solarpanels** (mit einem globalen Produktionsanteil von rund 78 %) sucht angesichts neuer US-Zölle und Exportbeschränkungen **verstärkt nach alternativen Absatzmärkten**.
+- **Europa könnte dabei in den Fokus geraten**, insbesondere wenn die USA chinesische Produkte mit hohen Strafzöllen belegen.  
+- Dies könnte dazu führen, dass **chinesische Solarpanels in Europa deutlich günstiger angeboten werden** – was den Preisverfall auf dem europäischen Markt beschleunigen könnte.  
+- Für die Schweiz könnte dies sowohl **eine Chance für kostengünstige Installationen** als auch **ein Risiko für lokale oder europäische Hersteller** bedeuten, die nicht konkurrenzfähig produzieren können.
+
+**Fazit:** Die Aussage, dass *China aufgrund des Handelskonflikts neue Absatzmärkte sucht und Europa mit günstigen Panels fluten könnte*, ist **zutreffend und plausibel**, wenn auch abhängig von den genauen politischen Entwicklungen auf EU-Ebene (z. B. Anti-Dumping-Zölle). Erste Anzeichen eines Preisdrucks sind bereits in Branchenanalysen und Handelsdaten sichtbar.
+
+#### Fazit des Kapitels
+
+Die politische Dimension ist ein zentraler Hebel für die Entwicklung der Solarenergie in der Schweiz. Sowohl nationale Förderstrukturen als auch internationale Marktveränderungen, wie etwa Handelskonflikte, können die Preisstruktur und Investitionsbereitschaft erheblich beeinflussen. Es ist daher essenziell, Prognosen nicht nur auf historischen Daten, sondern auch auf politische Szenarien zu stützen.
+
