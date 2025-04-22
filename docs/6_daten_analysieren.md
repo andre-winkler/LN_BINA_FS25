@@ -120,8 +120,10 @@ Die Balkengrafik zeigt die kumulierte Gesamtkapazität der installierten Photovo
 Am unteren Ende der Rangliste befinden sich kleinere oder topografisch anspruchsvollere Kantone wie Appenzell Innerrhoden, Uri und Obwalden. Dort sind die Ausbaupotenziale begrenzter, was sich in der niedrigeren kumulierten Leistung widerspiegelt. Die Grafik verdeutlicht die regionalen Unterschiede beim PV-Ausbau und zeigt gleichzeitig, wo noch ungenutztes Potenzial vorhanden ist.
 
 
-TODO @Amel
+Die untenstehende Choroplethenkarte zeigt die aggregierte installierte Leistung von Photovoltaikanlagen (PV) in der Schweiz pro Gemeinde im Zeitraum von 2015 bis 2024. Die Karte basiert auf offiziellen Gemeindedaten und bildet die kumulierte Solarleistung (in Megawatt, MW) farblich abgestuft ab. Je dunkler eine Gemeinde eingefärbt ist, desto höher ist die installierte Gesamtleistung in diesem Zeitraum.
+
+Die Daten wurden zusammengeführt und georeferenziert, um einen räumlichen Überblick über den Ausbau der Solarenergie auf lokaler Ebene zu ermöglichen.
 
 <iframe src="assets/diagramme/map_cumulative_pv_power.html"></iframe>
 
-TODO @Amel
+Die Karte zeigt deutliche regionale Unterschiede beim Ausbau der Photovoltaik in der Schweiz. Besonders Gemeinden im Mittelland, nördlich des Genfersees und im Raum Zürich weisen hohe installierte Leistungen auf. Diese Ballungsräume verfügen über eine hohe Gebäudedichte, gute wirtschaftliche Voraussetzungen und teilweise gezielte Fördermassnahmen. In ländlicheren oder gebirgigen Regionen, insbesondere im Südosten und in Teilen des Wallis und Graubündens, fällt die installierte Leistung pro Gemeinde hingegen deutlich geringer aus. Dies deutet auf ungenutztes Potenzial für den weiteren PV-Ausbau in diesen Gebieten hin.
