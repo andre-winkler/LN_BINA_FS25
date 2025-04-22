@@ -146,8 +146,6 @@ Die angegebenen Werte verstehen sich als Durchschnittswerte und können je nach 
 
 ### Einspeisevergütung in der Schweiz
 
-
-
 Die Einspeisevergütung ist ein zentraler wirtschaftlicher Anreiz für die Nutzung von Photovoltaikanlagen. Sie beschreibt den Betrag, den Betreiber von PV-Anlagen pro eingespeister Kilowattstunde Strom ins Netz erhalten. In der Schweiz wird die Höhe dieser Vergütung nicht zentral festgelegt, sondern variiert je nach Energieversorgungsunternehmen (EVU), Region und teilweise sogar Gemeinde.
 
 Die nachfolgende Tabelle gibt einen Überblick über die durchschnittlichen Einspeisevergütungen in allen Schweizer Kantonen im Jahr 2024. Die Werte basieren auf Rückmeldungen und öffentlich zugänglichen Tarifen der EVUs sowie auf aggregierten Daten des Verbandes unabhängiger Energieerzeuger (VESE). Die Tendenz zeigt, ob die Vergütung im Vergleich zum Jahr 2015 gestiegen (↑), gesunken (↓) oder weitgehend stabil geblieben ist (→).
@@ -183,7 +181,7 @@ Die nachfolgende Tabelle gibt einen Überblick über die durchschnittlichen Eins
 
 Die Werte verdeutlichen, dass sich die Einspeisevergütungen in vielen Kantonen seit 2015 kaum verändert haben, während einzelne Regionen – vor allem städtische Gebiete oder Kantone mit aktiven Förderprogrammen – höhere Vergütungen bieten. In Obwalden beispielsweise ist die Vergütung nach dem Auslaufen der kostendeckenden Einspeisevergütung (KEV) deutlich gesunken.
 
-### Quellen
+#### Quellen
 
 Die angegebenen Werte basieren auf öffentlich zugänglichen Daten folgender Plattformen und Energieversorger:
 
