@@ -8,7 +8,7 @@
 
 ### Subventionen und Förderung
 
-🔗 Hinweis zu den Förderinformationen
+**🔗 Hinweis zu den Förderinformationen**
 Die in dieser Arbeit dargestellten kantonalen und nationalen Förderprogramme für Photovoltaikanlagen, Ladeinfrastruktur und Elektromobilität basieren auf öffentlich zugänglichen Quellen (Stand: April 2025). Zur Erhebung wurden insbesondere folgende Informationsplattformen herangezogen:
 
 Bundesförderung (Einmalvergütung):
@@ -27,7 +27,7 @@ Beispielhafte kantonale Programme:
 ow.ch – Förderung Obwalden
 ge.ch – Ladeinfrastruktur Genf
 
-Hinweis: Die Programme können sich laufend ändern. Für aktuelle Informationen empfehlen wir die direkte Recherche über die jeweiligen kantonalen Websites oder über energiefranken.ch.
+**Hinweis:** Die Programme können sich laufend ändern. Für aktuelle Informationen empfehlen wir die direkte Recherche über die jeweiligen kantonalen Websites oder über energiefranken.ch.
 
 | Kantone/Bund              | Kantonale PV-Förderung                                                         | Ladeinfrastruktur                                                  | E-Auto-Prämie                                                       |
 |--------------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------------|
@@ -59,6 +59,54 @@ Hinweis: Die Programme können sich laufend ändern. Für aktuelle Informationen
 | **Zug**                  | Kommunale Programme möglich                                                     | Gefördert über Gemeinden                                           | Keine kantonale Prämie bekannt                                | 
 | **Zürich**               | Kommunale Programme möglich                                                     | Gefördert über Gemeinden                                           | Keine kantonale Prämie bekannt                                | 
 
+### 🌍 Matrix: Solarpaneelproduktion weltweit (2023)
+
+| Land             | Anteil an globaler Produktion (%) | Installierte Solarkapazität (GW) | Verkaufspreis (USD/Watt) | Bemerkung                                                        |
+|------------------|-----------------------------------|----------------------------------|---------------------------|------------------------------------------------------------------|
+| **China**        | 77,8 %                            | ~610                             | 0,10–0,11                 | Dominanz in allen Produktionsstufen                              |
+| **Vietnam**      | 6,4 %                             | ~24                              | n/a                       | Chinesische Produktionsstätten                                   |
+| **Malaysia**     | 2,8 %                             | ~10                              | n/a                       | Teils chinesisch geführte Werke                                  |
+| **Südkorea**     | 4 %                               | ~21                              | n/a                       | Fokus auf Qualität & Technologie                                 |
+| **Thailand**     | 2 %                               | ~3                               | n/a                       | Wachsende Produktionsbasis                                       |
+| **USA**          | 3,2 %                             | ~139                             | 0,27–0,40                 | Ausbau der lokalen Produktion                                    |
+| **Japan**        | 2 %                               | ~89                              | n/a                       | High-End-Module & Stadtintegration                               |
+| **Indien**       | 1,5 %                             | ~73                              | 0,22                      | Staatlich geförderter Ausbau                                     |
+| **Taiwan**       | 1 %                               | ~10                              | n/a                       | Spezialisierung auf bestimmte Komponenten                        |
+| **Deutschland**  | 1 %                               | ~82                              | 0,30                      | Forschung & Entwicklung, früherer Technologieführer              |
+
+**Hinweise:**
+- Die angegebenen Werte basieren auf Daten der Internationalen Energieagentur (IEA) und anderen verlässlichen Quellen.​
+- „n/a“ bedeutet, dass keine verlässlichen öffentlichen Daten zum Verkaufspreis pro Watt für das jeweilige Land verfügbar sind.​
+- Die Verkaufspreise können je nach Marktsegment, Technologie und weiteren Faktoren variieren.
+
+**Quellen:**
+📊 Produktionsanteile und installierte Kapazitäten
+IEA – Snapshot of Global PV Markets 2023
+Diese Veröffentlichung bietet einen umfassenden Überblick über die weltweite Photovoltaikentwicklung, einschließlich Produktionsanteilen und installierter Kapazitäten.
+iea-pvps.org​
+
+IEA – Renewables 2023: Executive Summary
+Dieser Bericht analysiert die globalen Trends im Bereich erneuerbarer Energien und hebt insbesondere Chinas führende Rolle hervor.
+iea.org​
+
+SolarPower Europe – Global Market Outlook for Solar Power 2023–2027
+Dieser Ausblick bietet detaillierte Prognosen und Analysen zur weltweiten Solarmarktentwicklung.
+solarpowereurope.org​
+
+World Population Review – Solar Power by Country 2025
+Diese Quelle listet die installierten Solarkapazitäten nach Ländern auf und bietet einen Vergleich der führenden Nationen.
+worldpopulationreview.com​
+
+💵 Verkaufspreise pro Watt
+Our World in Data – Solar PV Prices
+Diese Plattform bietet eine historische Übersicht über die Preise von Solarmodulen weltweit.
+ourworldindata.org​
+
+Asia Financial – China Solar Panel Costs Plunge in 2023
+Dieser Artikel berichtet über den Rückgang der Solarpanelkosten in China im Jahr 2023.
+asiafinancial.com​
+
+NREL – Spring 2024 Solar Industry Update
 
 
 ### Glossar zur Fallstudie: Solarenergie in der Schweiz
