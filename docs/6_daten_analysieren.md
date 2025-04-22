@@ -4,6 +4,8 @@ Hinweis: folgende Unterkapitel beziehen sich grundsätzlich auf einen Zeitraum v
 ### Wetterentwicklung in der Schweiz
 Die in diesem Kapitel präsentierten Daten stammen von MeteoSwiss, der offiziellen Wetter- und Klimainstitution der Schweiz. Die Messwerte werden von verschiedenen meteorologischen Stationen erfasst, die strategisch über das gesamte Land verteilt sind. Diese breite Streuung der Messpunkte stellt sicher, dass die erfassten Wetter- und Klimadaten eine repräsentative Abdeckung für die gesamte Schweiz bieten.
 
+#### Verteilung der Wettermessstationen in der Schweiz
+
 Die nachfolgende Karte gibt einen Überblick über die Standorte der jeweiligen Messstationen und verdeutlicht die flächendeckende Erfassung der Daten. 
 
 <iframe src="assets/diagramme/swiss_stations_map.html"></iframe> 
@@ -11,6 +13,8 @@ Die nachfolgende Karte gibt einen Überblick über die Standorte der jeweiligen 
 Zur besseren Einordnung der Wetterstationen, folgend eine Tabelle zur Höhenverteilung. Daraus kann man ableiten, dass ein Grossteil der Wetterstationen unter 500 Höhenmeter liegen und der andere Grossteil zwischen 500 und 1'500 Meter.
 
 {% include_relative assets/md/hoehenverteilung_stationen.md %}
+
+#### Monatliche Sonnenstunden in der Schweiz: Trends, Verteilung und saisonale Muster
 
 Die folgenden zwei interaktiven Grafiken veranschaulichen die Anzahl der Sonnenstunden pro Monat in der Schweiz über die vergangenen zehn Jahre.
 
@@ -33,6 +37,9 @@ Aus diesen Diagrammen kann man folgende Feststellungen ableiten:
 * **Schwankende Jahreswerte:** In den dargestellten Jahren gibt es Schwankungen bei der Gesamtzahl der Sonnenstunden, was auf jahreszeitlich bedingte Variationen hinweist, aber auch auf mögliche langfristige klimatische Veränderungen.
 
 <br>
+
+#### Regionale Analyse der Sonnenstunden: Kantonale Unterschiede und Einflussfaktoren
+
 Für die Auswertungen der Sonnenstunden pro Kanton und der Darstellung auf einer Karte mussten die Wetterdaten (Sonnenstunden) mit den  Wettermessstationen-Daten kombiniert werden. Ausserdem mussten die Daten angereichert werden, z.B. mit den Kantonen anhand der Orte der Messstationen.
 
 <iframe src="assets/diagramme/swiss_sunhours_map.html"></iframe>
@@ -91,6 +98,8 @@ Erkenntnisse, welche wir gewonnen haben:
 
 Dieses Kapitel zeigt auf, wie sich die installierte Leistung und die Verteilung der Solaranlagen im Zeitraum von 2015 bis 2024 entwickelt haben. Anhand von Visualisierungen wird ersichtlich, in welchen Regionen besonders viele Anlagen gebaut wurden und wo weiteres Potenzial besteht. Die Daten geben zudem Aufschluss darüber, wie geografische und klimatische Bedingungen den Ausbau beeinflussen und welche Unterschiede sich zwischen den einzelnen Kantonen zeigen.
 
+#### Photovoltaik-Leistung in der Schweiz: Zoom auf regionale Unterschiede
+
 Die folgende Visualisierung zeigt die Verteilung der Photovoltaikanlagen (PV-Anlagen) in der Schweiz ab 2015 bis 2024. Die Kreise stehen für die kumulierte Leistung in Kilowatt (kW) pro Region. Je grösser der Kreis, desto höher die installierte Gesamtleistung in diesem Gebiet.
 
 <iframe src="assets/diagramme/elcoms_map.html"></iframe>
@@ -103,6 +112,8 @@ Zentrale Erkenntnisse:
 * Details bei genauerem Hinsehen: Beim Hineinzoomen in die Karte werden feinere regionale Unterschiede sichtbar. So lassen sich einzelne Gemeinden mit besonders hoher oder niedriger Leistung identifizieren.
 
 Die Visualisierung gibt somit einen klaren Überblick über den Stand der Solarenergie in der Schweiz. Sie macht regionale Unterschiede sichtbar und zeigt, wo bereits viel in Photovoltaik investiert wurde – und wo noch Potenzial besteht.
+
+#### Entwicklung der installierten PV-Leistung pro Kanton (2015–2024)
 
 <iframe src="assets/diagramme/elcom_entwicklung_total_power.html"></iframe>
 
@@ -119,6 +130,7 @@ Die Balkengrafik zeigt die kumulierte Gesamtkapazität der installierten Photovo
 
 Am unteren Ende der Rangliste befinden sich kleinere oder topografisch anspruchsvollere Kantone wie Appenzell Innerrhoden, Uri und Obwalden. Dort sind die Ausbaupotenziale begrenzter, was sich in der niedrigeren kumulierten Leistung widerspiegelt. Die Grafik verdeutlicht die regionalen Unterschiede beim PV-Ausbau und zeigt gleichzeitig, wo noch ungenutztes Potenzial vorhanden ist.
 
+#### Choroplethenkarte des Photovoltaik-Ausbaus auf Gemeindeebene
 
 Die untenstehende Choroplethenkarte zeigt die aggregierte installierte Leistung von Photovoltaikanlagen (PV) in der Schweiz pro Gemeinde im Zeitraum von 2015 bis 2024. Die Karte basiert auf offiziellen Gemeindedaten und bildet die kumulierte Solarleistung (in Megawatt, MW) farblich abgestuft ab. Je dunkler eine Gemeinde eingefärbt ist, desto höher ist die installierte Gesamtleistung in diesem Zeitraum.
 
