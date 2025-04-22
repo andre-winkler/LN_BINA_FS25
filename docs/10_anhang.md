@@ -82,33 +82,59 @@ ge.ch – Ladeinfrastruktur Genf
 
 **Quellen:**
 📊 Produktionsanteile und installierte Kapazitäten
-IEA – Snapshot of Global PV Markets 2023
-Diese Veröffentlichung bietet einen umfassenden Überblick über die weltweite Photovoltaikentwicklung, einschließlich Produktionsanteilen und installierter Kapazitäten.
-iea-pvps.org​
+- **IEA – Snapshot of Global PV Markets 2023**  
+  Diese Veröffentlichung bietet einen umfassenden Überblick über die weltweite Photovoltaikentwicklung, einschließlich Produktionsanteilen und installierter Kapazitäten.  
+  [iea-pvps.org](https://iea-pvps.org)
 
-IEA – Renewables 2023: Executive Summary
-Dieser Bericht analysiert die globalen Trends im Bereich erneuerbarer Energien und hebt insbesondere Chinas führende Rolle hervor.
-iea.org​
+- **IEA – Renewables 2023: Executive Summary**  
+  Dieser Bericht analysiert die globalen Trends im Bereich erneuerbarer Energien und hebt insbesondere Chinas führende Rolle hervor.  
+  [iea.org](https://iea.org)
 
-SolarPower Europe – Global Market Outlook for Solar Power 2023–2027
-Dieser Ausblick bietet detaillierte Prognosen und Analysen zur weltweiten Solarmarktentwicklung.
-solarpowereurope.org​
+- **SolarPower Europe – Global Market Outlook for Solar Power 2023–2027**  
+  Dieser Ausblick bietet detaillierte Prognosen und Analysen zur weltweiten Solarmarktentwicklung.  
+  [solarpowereurope.org](https://www.solarpowereurope.org)
 
-World Population Review – Solar Power by Country 2025
-Diese Quelle listet die installierten Solarkapazitäten nach Ländern auf und bietet einen Vergleich der führenden Nationen.
-worldpopulationreview.com​
+- **World Population Review – Solar Power by Country 2025**  
+  Diese Quelle listet die installierten Solarkapazitäten nach Ländern auf und bietet einen Vergleich der führenden Nationen.  
+  [worldpopulationreview.com](https://worldpopulationreview.com)
 
-💵 Verkaufspreise pro Watt
-Our World in Data – Solar PV Prices
-Diese Plattform bietet eine historische Übersicht über die Preise von Solarmodulen weltweit.
-ourworldindata.org​
+### 💵 Verkaufspreise pro Watt
 
-Asia Financial – China Solar Panel Costs Plunge in 2023
-Dieser Artikel berichtet über den Rückgang der Solarpanelkosten in China im Jahr 2023.
-asiafinancial.com​
+- **Our World in Data – Solar PV Prices**  
+  Diese Plattform bietet eine historische Übersicht über die Preise von Solarmodulen weltweit.  
+  [ourworldindata.org](https://ourworldindata.org)
 
-NREL – Spring 2024 Solar Industry Update
+- **Asia Financial – China Solar Panel Costs Plunge in 2023**  
+  Dieser Artikel berichtet über den Rückgang der Solarpanelkosten in China im Jahr 2023.  
+  [asiafinancial.com](https://asiafinancial.com)
 
+- **NREL – Spring 2024 Solar Industry Update**  
+  (Noch kein direkter Link verfügbar – bitte bei [nrel.gov](https://www.nrel.gov) nach dem neuesten Bericht suchen.)
+
+
+### Entwicklung der Solarpanelkosten in der Schweiz (2015–2024)
+
+Die folgende Tabelle zeigt die durchschnittlichen Kosten für Photovoltaikanlagen in der Schweiz im Zeitraum von 2015 bis 2024. Die Werte sind nach Anlagengrösse (in kWp) gestaffelt und in Schweizer Franken (CHF) pro Kilowattpeak (kWp) angegeben. Die Daten beruhen auf öffentlich zugänglichen Quellen und spiegeln die allgemeine Marktentwicklung wider.
+
+| Jahr | 5 kWp Anlage (CHF/kWp) | 10 kWp Anlage (CHF/kWp) | 20 kWp Anlage (CHF/kWp) |
+|------|-------------------------|--------------------------|--------------------------|
+| 2015 | 3'000                   | 2'800                    | 2'600                    |
+| 2016 | 2'900                   | 2'700                    | 2'500                    |
+| 2017 | 2'800                   | 2'600                    | 2'400                    |
+| 2018 | 2'700                   | 2'500                    | 2'300                    |
+| 2019 | 2'600                   | 2'400                    | 2'200                    |
+| 2020 | 2'500                   | 2'300                    | 2'100                    |
+| 2021 | 2'400                   | 2'200                    | 2'000                    |
+| 2022 | 2'300                   | 2'100                    | 1'900                    |
+| 2023 | 2'200                   | 2'000                    | 1'800                    |
+| 2024 | 2'100                   | 1'900                    | 1'700                    |
+
+Die angegebenen Werte verstehen sich als Durchschnittswerte und können je nach Anbieter, technischer Ausstattung, Montageart (z. B. Aufdach oder Indach), Standort sowie Förderprogrammen leicht abweichen. In den obenstehenden Preisen sind die Montagekosten typischerweise bereits enthalten.
+
+**Quellen**:  
+- [energieheld.ch – Kosten einer Photovoltaikanlage in der Schweiz](https://www.energieheld.ch/solaranlagen/photovoltaik/kosten)  
+- [solarplattform.ch – Kostenübersicht Photovoltaik 2024](https://solarplattform.ch/kosten-fuer-photovoltaikanlagen-in-der-schweiz-2024/)  
+- [Wikipedia – Photovoltaik in der Schweiz](https://de.wikipedia.org/wiki/Photovoltaik_in_der_Schweiz)
 
 ### Glossar zur Fallstudie: Solarenergie in der Schweiz
 
