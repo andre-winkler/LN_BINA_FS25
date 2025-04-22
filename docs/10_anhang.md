@@ -143,6 +143,58 @@ Die angegebenen Werte verstehen sich als Durchschnittswerte und können je nach 
 - [solarplattform.ch – Kostenübersicht Photovoltaik 2024](https://solarplattform.ch/kosten-fuer-photovoltaikanlagen-in-der-schweiz-2024/)  
 - [Wikipedia – Photovoltaik in der Schweiz](https://de.wikipedia.org/wiki/Photovoltaik_in_der_Schweiz)
 
+
+### Einspeisevergütung in der Schweiz
+
+
+
+Die Einspeisevergütung ist ein zentraler wirtschaftlicher Anreiz für die Nutzung von Photovoltaikanlagen. Sie beschreibt den Betrag, den Betreiber von PV-Anlagen pro eingespeister Kilowattstunde Strom ins Netz erhalten. In der Schweiz wird die Höhe dieser Vergütung nicht zentral festgelegt, sondern variiert je nach Energieversorgungsunternehmen (EVU), Region und teilweise sogar Gemeinde.
+
+Die nachfolgende Tabelle gibt einen Überblick über die durchschnittlichen Einspeisevergütungen in allen Schweizer Kantonen im Jahr 2024. Die Werte basieren auf Rückmeldungen und öffentlich zugänglichen Tarifen der EVUs sowie auf aggregierten Daten des Verbandes unabhängiger Energieerzeuger (VESE). Die Tendenz zeigt, ob die Vergütung im Vergleich zum Jahr 2015 gestiegen (↑), gesunken (↓) oder weitgehend stabil geblieben ist (→).
+
+| Kanton                | Durchschnittliche Einspeisevergütung 2024 (CHF/kWh) | Tendenz 2015–2024 | Bemerkung                                |
+|-----------------------|-----------------------------------------------------|-------------------|-------------------------------------------|
+| Aargau                | 0.12                                                | →                 | Variiert stark je nach Energieversorger   |
+| Appenzell A. Rh.      | 0.11                                                | →                 | Durchschnittlich                          |
+| Appenzell I. Rh.      | 0.11                                                | →                 | Durchschnittlich                          |
+| Basel-Landschaft      | 0.13                                                | ↑                 | Leichter Anstieg in mehreren Gemeinden    |
+| Basel-Stadt           | 0.14                                                | ↑                 | Hohe Vergütung dank städtischer Programme |
+| Bern                  | 0.11                                                | →                 | Kommunale Programme teils aktiv           |
+| Freiburg              | 0.12                                                | →                 | Durchschnittlich                          |
+| Genf                  | 0.13                                                | ↑                 | Kantonale Förderprogramme aktiv           |
+| Glarus                | 0.11                                                | →                 | Durchschnittlich                          |
+| Graubünden            | 0.12                                                | →                 | Unterschiedlich je nach Region            |
+| Jura                  | 0.12                                                | →                 | Durchschnittlich                          |
+| Luzern                | 0.11                                                | →                 | Mindestvergütung bei marktpreisbasierter Berechnung |
+| Neuenburg             | 0.12                                                | →                 | Durchschnittlich                          |
+| Nidwalden             | 0.11                                                | →                 | Durchschnittlich                          |
+| Obwalden              | 0.09                                                | ↓                 | Rückgang nach Auslaufen von KEV           |
+| Schaffhausen          | 0.12                                                | →                 | Durchschnittlich                          |
+| Schwyz                | 0.11                                                | →                 | Durchschnittlich                          |
+| Solothurn             | 0.12                                                | →                 | Durchschnittlich                          |
+| St. Gallen            | 0.12                                                | →                 | Regionale Unterschiede                    |
+| Tessin                | 0.13                                                | ↑                 | Kommunale Boni treiben Vergütung nach oben|
+| Thurgau               | 0.12                                                | →                 | Durchschnittlich                          |
+| Uri                   | 0.11                                                | →                 | Durchschnittlich                          |
+| Waadt (Vaud)          | 0.13                                                | ↑                 | Anstieg durch kantonale Programme         |
+| Wallis                | 0.12                                                | →                 | Durchschnittlich                          |
+| Zug                   | 0.12                                                | →                 | Durchschnittlich                          |
+| Zürich                | 0.12                                                | →                 | Unterschied zwischen Hochtarif und Niedertarif |
+
+Die Werte verdeutlichen, dass sich die Einspeisevergütungen in vielen Kantonen seit 2015 kaum verändert haben, während einzelne Regionen – vor allem städtische Gebiete oder Kantone mit aktiven Förderprogrammen – höhere Vergütungen bieten. In Obwalden beispielsweise ist die Vergütung nach dem Auslaufen der kostendeckenden Einspeisevergütung (KEV) deutlich gesunken.
+
+### Quellen
+
+Die angegebenen Werte basieren auf öffentlich zugänglichen Daten folgender Plattformen und Energieversorger:
+
+- [VESE – Interaktive Tarifkarte](https://www.vese.ch/pvtarif/)
+- [CKW Luzern – Rückliefervergütung](https://www.ckw.ch/energie/strom/ruecklieferverguetung)
+- [EWO Obwalden – Vergütung für Sonnenstrom](https://ewo.ch/energie/sonnenstrom/verguetung/)
+- [EKZ Zürich – Rückliefertarife](https://www.ekz.ch/de/privatkunden/solaranlage/gut-zu-wissen/rueckliefertarife.html)
+- [EWB Bern – Einspeisevergütung](https://www.ewb.ch/angebot/strom/produzieren/einspeisen-verguetung.php)
+
+Die Werte stellen Durchschnittswerte dar und können je nach Energieversorger, Tarifmodell sowie Gemeinde variieren. Für aktuelle, präzise Informationen wird die direkte Abfrage beim jeweiligen lokalen Energieversorger empfohlen.
+
 ### Glossar zur Fallstudie: Solarenergie in der Schweiz
 
 | Begriff / Abkürzung         | Definition / Erklärung |
