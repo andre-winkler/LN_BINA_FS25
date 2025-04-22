@@ -160,3 +160,5 @@ Gesamtbetrachtung:
 Die Ergebnisse belegen, dass die Schweiz beim Ausbau der Solarenergie bedeutende Fortschritte gemacht hat, jedoch weiterhin regionale Disparitäten bestehen. Das Potenzial ist noch nicht ausgeschöpft – weder technologisch noch geographisch. Eine gezieltere Förderung in bisher unterrepräsentierten Regionen, gekoppelt mit weiteren Effizienzsteigerungen bei PV-Anlagen, könnte die nachhaltige Energiezukunft der Schweiz entscheidend voranbringen.
 
 Diese Erkenntnisse bieten eine solide Grundlage für politische Entscheidungen, Investitionsstrategien und die zukünftige Ausrichtung der Schweizer Energiepolitik.
+
+----
