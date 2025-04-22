@@ -23,7 +23,11 @@ Die folgende Grafik stellt die Verteilung der Sonnenstunden in einer alternative
 
 <iframe src="assets/diagramme/sunhours_distribution_per_month.html"></iframe>
 
-Aus diesen zwei Diagrammen kann man folgende Feststellungen ableiten:
+Und hier noch als Violinplot:
+
+<iframe src="assets/diagramme/sunhours_violinplot_per_month.html"></iframe>
+
+Aus diesen Diagrammen kann man folgende Feststellungen ableiten:
 * **Hohe Sonnenstunden im Sommer, niedrige im Winter:** Die Sonnenstunden pro Monat erreichen ihren Höhepunkt in den Sommermonaten (Mai bis August), mit einem deutlichen Rückgang in den Wintermonaten (November bis Februar).
 * **Eindeutiger Trend zu mehr Sonnenstunden im Frühling und Herbst:** Frühling und Herbst weisen eine moderate Anzahl an Sonnenstunden auf, was für die Solarproduktion außerhalb der Sommermonate von Bedeutung ist.
 * **Schwankende Jahreswerte:** In den dargestellten Jahren gibt es Schwankungen bei der Gesamtzahl der Sonnenstunden, was auf jahreszeitlich bedingte Variationen hinweist, aber auch auf mögliche langfristige klimatische Veränderungen.
