@@ -39,7 +39,7 @@ Ein weiterer relevanter Punkt betrifft die Messgeometrie: Die Globalstrahlung wi
 
 Für detaillierte Modellierungen und physikalisch fundierte Abschätzungen stehen ergänzend Messwerte zur diffusen und teilweise auch zur direkten Strahlung zur Verfügung – alle in der Einheit Watt pro Quadratmeter (W/m²). Diese ermöglichen eine differenziertere Betrachtung der lokalen Einstrahlungsverhältnisse.
 
-### Bundesamt für Enegerie (BFE) - Elektrische Produktionsanlagen 
+### Bundesamt für Energie (BFE) - Elektrische Produktionsanlagen 
 #### Datenquelle
 Die Datengrundlage dieses Abschnitts basiert auf einem CSV-Datensatz, der über die Plattform opendata.swiss bezogen wurde. Dieser Datensatz wird vom Bundesamt für Energie (BFE) zur Verfügung gestellt und enthält Informationen zu elektrischen Produktionsanlagen in der Schweiz.
 
