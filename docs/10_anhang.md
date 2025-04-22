@@ -79,6 +79,7 @@ ge.ch – Ladeinfrastruktur Genf
 - „n/a“ bedeutet, dass keine verlässlichen öffentlichen Daten zum Verkaufspreis pro Watt für das jeweilige Land verfügbar sind.​
 - Die Verkaufspreise können je nach Marktsegment, Technologie und weiteren Faktoren variieren.
 
+
 **Quellen:**
 📊 Produktionsanteile und installierte Kapazitäten
 IEA – Snapshot of Global PV Markets 2023
