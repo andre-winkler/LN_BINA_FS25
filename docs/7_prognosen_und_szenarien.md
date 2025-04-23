@@ -23,16 +23,10 @@ Ziel ist es, Entscheidungsträgern in Politik, Verwaltung, Energieversorgung und
 ### Prognose: Solarstromproduktion (gesamte Schweiz)  
 
 
-### Prognose: Einspeisevergütung (bis 2030)  
-
 
 ### Prognose: Kosten pro kWp  
 
 
-### Szenarien: Strombedarf durch Elektromobilität  
-
-
-### Potenzialanalyse: Weitere PV-Ausbauflächen  
 
 
 ### Politische Entwicklungen und regulatorische Szenarien (qualitativ)
