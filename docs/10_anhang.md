@@ -9,25 +9,8 @@
 ### Subventionen und Förderung
 
 **🔗 Hinweis zu den Förderinformationen**
-Die in dieser Arbeit dargestellten kantonalen und nationalen Förderprogramme für Photovoltaikanlagen, Ladeinfrastruktur und Elektromobilität basieren auf öffentlich zugänglichen Quellen (Stand: April 2025). Zur Erhebung wurden insbesondere folgende Informationsplattformen herangezogen:
 
-Bundesförderung (Einmalvergütung):
-pronovo.ch – Photovoltaik-Förderung
-energieschweiz.ch – Einmalvergütungen
-swissolar.ch – Stromgesetz & Vergütungssätze
-bfe.admin.ch – PV-Förderung des Bundes
-
-Kantonale und kommunale Übersichten:
-energiefranken.ch – Förderprogramme nach Kanton
-solar-ratgeber.ch – Förderungen in der Schweiz
-automo.ch – Übersicht E-Auto-Prämien
-energieheld.ch – Kombination PV & Ladestation
-
-Beispielhafte kantonale Programme:
-ow.ch – Förderung Obwalden
-ge.ch – Ladeinfrastruktur Genf
-
-**Hinweis:** Die Programme können sich laufend ändern. Für aktuelle Informationen empfehlen wir die direkte Recherche über die jeweiligen kantonalen Websites oder über energiefranken.ch.
+Die in dieser Arbeit dargestellten kantonalen und nationalen Förderprogramme für Photovoltaikanlagen, Ladeinfrastruktur und Elektromobilität basieren auf öffentlich zugänglichen Quellen (Stand: April 2025). 
 
 | Kantone/Bund              | Kantonale PV-Förderung                                                         | Ladeinfrastruktur                                                  | E-Auto-Prämie                                                   |
 |---------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------|
@@ -59,6 +42,30 @@ ge.ch – Ladeinfrastruktur Genf
 | **Zug**                  | Kommunale Programme möglich                                                     | Gefördert über Gemeinden                                           | Keine kantonale Prämie bekannt                                |
 | **Zürich**               | Kommunale Programme möglich                                                     | Gefördert über Gemeinden                                           | Keine kantonale Prämie bekannt                                |
 
+Zur Erhebung wurden insbesondere folgende Informationsplattformen herangezogen:
+
+Bundesförderung (Einmalvergütung):
+
+- [pronovo.ch – Photovoltaik-Förderung](https://pronovo.ch)
+- [energieschweiz.ch – Einmalvergütungen](https://www.energieschweiz.ch)
+- [swissolar.ch – Stromgesetz & Vergütungssätze](https://www.swissolar.ch)
+- [bfe.admin.ch – PV-Förderung des Bundes](https://www.bfe.admin.ch)
+
+Kantonale und kommunale Übersichten:
+
+- [energiefranken.ch – Förderprogramme nach Kanton](https://www.energiefranken.ch)
+- [solar-ratgeber.ch – Förderungen in der Schweiz](https://www.solar-ratgeber.ch)
+- [automo.ch – Übersicht E-Auto-Prämien](https://www.automo.ch)
+- [energieheld.ch – Kombination PV & Ladestation](https://www.energieheld.ch)
+
+Beispielhafte kantonale Programme:
+
+- [ow.ch – Förderung Obwalden](https://www.ow.ch)
+- [ge.ch – Ladeinfrastruktur Genf](https://www.ge.ch)
+
+
+**Hinweis:** Die Programme können sich laufend ändern. Für aktuelle Informationen empfehlen wir die direkte Recherche über die jeweiligen kantonalen Websites oder über energiefranken.ch.
+
 ### 🌍 Matrix: Solarpaneelproduktion weltweit (2023)
 
 | Land             | Anteil an globaler Produktion (%) | Installierte Solarkapazität (GW) | Verkaufspreis (USD/Watt) | Bemerkung                                                        |
@@ -82,33 +89,109 @@ ge.ch – Ladeinfrastruktur Genf
 
 **Quellen:**
 📊 Produktionsanteile und installierte Kapazitäten
-IEA – Snapshot of Global PV Markets 2023
-Diese Veröffentlichung bietet einen umfassenden Überblick über die weltweite Photovoltaikentwicklung, einschließlich Produktionsanteilen und installierter Kapazitäten.
-iea-pvps.org​
+- **IEA – Snapshot of Global PV Markets 2023**  
+  Diese Veröffentlichung bietet einen umfassenden Überblick über die weltweite Photovoltaikentwicklung, einschließlich Produktionsanteilen und installierter Kapazitäten.  
+  [iea-pvps.org](https://iea-pvps.org)
 
-IEA – Renewables 2023: Executive Summary
-Dieser Bericht analysiert die globalen Trends im Bereich erneuerbarer Energien und hebt insbesondere Chinas führende Rolle hervor.
-iea.org​
+- **IEA – Renewables 2023: Executive Summary**  
+  Dieser Bericht analysiert die globalen Trends im Bereich erneuerbarer Energien und hebt insbesondere Chinas führende Rolle hervor.  
+  [iea.org](https://iea.org)
 
-SolarPower Europe – Global Market Outlook for Solar Power 2023–2027
-Dieser Ausblick bietet detaillierte Prognosen und Analysen zur weltweiten Solarmarktentwicklung.
-solarpowereurope.org​
+- **SolarPower Europe – Global Market Outlook for Solar Power 2023–2027**  
+  Dieser Ausblick bietet detaillierte Prognosen und Analysen zur weltweiten Solarmarktentwicklung.  
+  [solarpowereurope.org](https://www.solarpowereurope.org)
 
-World Population Review – Solar Power by Country 2025
-Diese Quelle listet die installierten Solarkapazitäten nach Ländern auf und bietet einen Vergleich der führenden Nationen.
-worldpopulationreview.com​
+- **World Population Review – Solar Power by Country 2025**  
+  Diese Quelle listet die installierten Solarkapazitäten nach Ländern auf und bietet einen Vergleich der führenden Nationen.  
+  [worldpopulationreview.com](https://worldpopulationreview.com)
 
 💵 Verkaufspreise pro Watt
-Our World in Data – Solar PV Prices
-Diese Plattform bietet eine historische Übersicht über die Preise von Solarmodulen weltweit.
-ourworldindata.org​
 
-Asia Financial – China Solar Panel Costs Plunge in 2023
-Dieser Artikel berichtet über den Rückgang der Solarpanelkosten in China im Jahr 2023.
-asiafinancial.com​
+- **Our World in Data – Solar PV Prices**  
+  Diese Plattform bietet eine historische Übersicht über die Preise von Solarmodulen weltweit.  
+  [ourworldindata.org](https://ourworldindata.org)
 
-NREL – Spring 2024 Solar Industry Update
+- **Asia Financial – China Solar Panel Costs Plunge in 2023**  
+  Dieser Artikel berichtet über den Rückgang der Solarpanelkosten in China im Jahr 2023.  
+  [asiafinancial.com](https://asiafinancial.com)
 
+- **NREL – Spring 2024 Solar Industry Update**  
+  (Noch kein direkter Link verfügbar – bitte bei [nrel.gov](https://www.nrel.gov) nach dem neuesten Bericht suchen.)
+
+
+### Entwicklung der Solarpanelkosten in der Schweiz (2015–2024)
+
+Die folgende Tabelle zeigt die durchschnittlichen Kosten für Photovoltaikanlagen in der Schweiz im Zeitraum von 2015 bis 2024. Die Werte sind nach Anlagengrösse (in kWp) gestaffelt und in Schweizer Franken (CHF) pro Kilowattpeak (kWp) angegeben. Die Daten beruhen auf öffentlich zugänglichen Quellen und spiegeln die allgemeine Marktentwicklung wider.
+
+| Jahr | 5 kWp Anlage (CHF/kWp) | 10 kWp Anlage (CHF/kWp) | 20 kWp Anlage (CHF/kWp) |
+|------|-------------------------|--------------------------|--------------------------|
+| 2015 | 3'000                   | 2'800                    | 2'600                    |
+| 2016 | 2'900                   | 2'700                    | 2'500                    |
+| 2017 | 2'800                   | 2'600                    | 2'400                    |
+| 2018 | 2'700                   | 2'500                    | 2'300                    |
+| 2019 | 2'600                   | 2'400                    | 2'200                    |
+| 2020 | 2'500                   | 2'300                    | 2'100                    |
+| 2021 | 2'400                   | 2'200                    | 2'000                    |
+| 2022 | 2'300                   | 2'100                    | 1'900                    |
+| 2023 | 2'200                   | 2'000                    | 1'800                    |
+| 2024 | 2'100                   | 1'900                    | 1'700                    |
+
+Die angegebenen Werte verstehen sich als Durchschnittswerte und können je nach Anbieter, technischer Ausstattung, Montageart (z. B. Aufdach oder Indach), Standort sowie Förderprogrammen leicht abweichen. In den obenstehenden Preisen sind die Montagekosten typischerweise bereits enthalten.
+
+**Quellen**:  
+- [energieheld.ch – Kosten einer Photovoltaikanlage in der Schweiz](https://www.energieheld.ch/solaranlagen/photovoltaik/kosten)  
+- [solarplattform.ch – Kostenübersicht Photovoltaik 2024](https://solarplattform.ch/kosten-fuer-photovoltaikanlagen-in-der-schweiz-2024/)  
+- [Wikipedia – Photovoltaik in der Schweiz](https://de.wikipedia.org/wiki/Photovoltaik_in_der_Schweiz)
+
+
+### Einspeisevergütung in der Schweiz
+
+Die Einspeisevergütung ist ein zentraler wirtschaftlicher Anreiz für die Nutzung von Photovoltaikanlagen. Sie beschreibt den Betrag, den Betreiber von PV-Anlagen pro eingespeister Kilowattstunde Strom ins Netz erhalten. In der Schweiz wird die Höhe dieser Vergütung nicht zentral festgelegt, sondern variiert je nach Energieversorgungsunternehmen (EVU), Region und teilweise sogar Gemeinde.
+
+Die nachfolgende Tabelle gibt einen Überblick über die durchschnittlichen Einspeisevergütungen in allen Schweizer Kantonen im Jahr 2024. Die Werte basieren auf Rückmeldungen und öffentlich zugänglichen Tarifen der EVUs sowie auf aggregierten Daten des Verbandes unabhängiger Energieerzeuger (VESE). Die Tendenz zeigt, ob die Vergütung im Vergleich zum Jahr 2015 gestiegen (↑), gesunken (↓) oder weitgehend stabil geblieben ist (→).
+
+| Kanton                | Durchschnittliche Einspeisevergütung 2024 (CHF/kWh) | Tendenz 2015–2024 | Bemerkung                                |
+|-----------------------|-----------------------------------------------------|-------------------|-------------------------------------------|
+| Aargau                | 0.12                                                | →                 | Variiert stark je nach Energieversorger   |
+| Appenzell A. Rh.      | 0.11                                                | →                 | Durchschnittlich                          |
+| Appenzell I. Rh.      | 0.11                                                | →                 | Durchschnittlich                          |
+| Basel-Landschaft      | 0.13                                                | ↑                 | Leichter Anstieg in mehreren Gemeinden    |
+| Basel-Stadt           | 0.14                                                | ↑                 | Hohe Vergütung dank städtischer Programme |
+| Bern                  | 0.11                                                | →                 | Kommunale Programme teils aktiv           |
+| Freiburg              | 0.12                                                | →                 | Durchschnittlich                          |
+| Genf                  | 0.13                                                | ↑                 | Kantonale Förderprogramme aktiv           |
+| Glarus                | 0.11                                                | →                 | Durchschnittlich                          |
+| Graubünden            | 0.12                                                | →                 | Unterschiedlich je nach Region            |
+| Jura                  | 0.12                                                | →                 | Durchschnittlich                          |
+| Luzern                | 0.11                                                | →                 | Mindestvergütung bei marktpreisbasierter Berechnung |
+| Neuenburg             | 0.12                                                | →                 | Durchschnittlich                          |
+| Nidwalden             | 0.11                                                | →                 | Durchschnittlich                          |
+| Obwalden              | 0.09                                                | ↓                 | Rückgang nach Auslaufen von KEV           |
+| Schaffhausen          | 0.12                                                | →                 | Durchschnittlich                          |
+| Schwyz                | 0.11                                                | →                 | Durchschnittlich                          |
+| Solothurn             | 0.12                                                | →                 | Durchschnittlich                          |
+| St. Gallen            | 0.12                                                | →                 | Regionale Unterschiede                    |
+| Tessin                | 0.13                                                | ↑                 | Kommunale Boni treiben Vergütung nach oben|
+| Thurgau               | 0.12                                                | →                 | Durchschnittlich                          |
+| Uri                   | 0.11                                                | →                 | Durchschnittlich                          |
+| Waadt (Vaud)          | 0.13                                                | ↑                 | Anstieg durch kantonale Programme         |
+| Wallis                | 0.12                                                | →                 | Durchschnittlich                          |
+| Zug                   | 0.12                                                | →                 | Durchschnittlich                          |
+| Zürich                | 0.12                                                | →                 | Unterschied zwischen Hochtarif und Niedertarif |
+
+Die Werte verdeutlichen, dass sich die Einspeisevergütungen in vielen Kantonen seit 2015 kaum verändert haben, während einzelne Regionen – vor allem städtische Gebiete oder Kantone mit aktiven Förderprogrammen – höhere Vergütungen bieten. In Obwalden beispielsweise ist die Vergütung nach dem Auslaufen der kostendeckenden Einspeisevergütung (KEV) deutlich gesunken.
+
+#### Quellen
+
+Die angegebenen Werte basieren auf öffentlich zugänglichen Daten folgender Plattformen und Energieversorger:
+
+- [VESE – Interaktive Tarifkarte](https://www.vese.ch/pvtarif/)
+- [CKW Luzern – Rückliefervergütung](https://www.ckw.ch/energie/strom/ruecklieferverguetung)
+- [EWO Obwalden – Vergütung für Sonnenstrom](https://ewo.ch/energie/sonnenstrom/verguetung/)
+- [EKZ Zürich – Rückliefertarife](https://www.ekz.ch/de/privatkunden/solaranlage/gut-zu-wissen/rueckliefertarife.html)
+- [EWB Bern – Einspeisevergütung](https://www.ewb.ch/angebot/strom/produzieren/einspeisen-verguetung.php)
+
+Die Werte stellen Durchschnittswerte dar und können je nach Energieversorger, Tarifmodell sowie Gemeinde variieren. Für aktuelle, präzise Informationen wird die direkte Abfrage beim jeweiligen lokalen Energieversorger empfohlen.
 
 ### Glossar zur Fallstudie: Solarenergie in der Schweiz
 
@@ -127,13 +210,18 @@ NREL – Spring 2024 Solar Industry Update
 | **Installierte Leistung (kW)** | Die maximale elektrische Leistung, die eine Photovoltaikanlage unter Standardbedingungen liefern kann. |
 | **KAQ (Key Analytics Question)** | Zentrale analytische Fragestellung, die mit Daten beantwortet werden soll – dient der strategischen Entscheidungsfindung. |
 | **KEV (Kostendeckende Einspeisevergütung)** | Ehemaliges Förderinstrument des Bundes zur Unterstützung von Solarstrom; durch EIV abgelöst. |
+| **kWp (Kilowatt peak)** | Einheit zur Messung der maximalen Leistung, die eine Photovoltaikanlage unter Standardtestbedingungen liefern kann. Diese Leistung wird unter idealen Bedingungen (z. B. bei optimaler Sonneneinstrahlung) gemessen und gibt die Spitzenleistung der Anlage an. |
 | **Median** | Der mittlere Wert eines geordneten Datensatzes – teilt die Datenmenge in zwei gleich grosse Hälften. |
 | **MeteoSchweiz** | Nationale Wetter- und Klimainstitution der Schweiz – zentrale Quelle für meteorologische Langzeitdaten. |
+| **Netzstabilität** | Die Fähigkeit eines Stromnetzes, kontinuierlich und sicher zu funktionieren, ohne dass es zu Ausfällen oder Überlastungen kommt. |
+| **Netzausbau** | Der Prozess, bei dem die Infrastruktur eines Stromnetzes erweitert oder modernisiert wird, um eine höhere Kapazität und Effizienz zu ermöglichen. |
 | **opendata.swiss** | Offizielle Schweizer Plattform für offene Behördendaten – auch Quelle für Energiedaten des BFE. |
 | **Photovoltaik (PV)** | Technologie zur direkten Umwandlung von Sonnenlicht in elektrischen Strom mittels Solarzellen. |
 | **Photovoltaikanlage (PV-Anlage)** | Komplettes System aus Solarmodulen, Wechselrichtern und Installation zur Stromgewinnung aus Sonnenlicht. |
+| **Prognosemodell** | Ein mathematisches Modell, das dazu dient, zukünftige Ereignisse oder Entwicklungen, wie z. B. die Solarnutzung, basierend auf historischen Daten und Annahmen vorherzusagen. |
 | **Solarzelle** | Elektronisches Bauteil, meist aus Silizium, das Licht in elektrischen Strom umwandelt (basierend auf dem photovoltaischen Effekt). |
 | **Sonnenstunden** | Zeitspanne, während der die Globalstrahlung einen bestimmten Schwellenwert überschreitet (Schweiz: 200 W/m²). |
 | **Subvention / Förderung** | Finanzielle Anreize durch Bund, Kantone oder Gemeinden zur Förderung nachhaltiger Energieprojekte. |
 | **VESE** | Verband unabhängiger Energieerzeuger Schweiz – unterstützt Kleinproduzenten und Prosumenten. |
 | **Wirkungsgrad** | Verhältnis zwischen eingestrahlter Sonnenenergie und tatsächlich erzeugter elektrischer Energie einer PV-Anlage. |
+| **Dezentrale Energieversorgung** | Ein Modell der Energieversorgung, bei dem Strom dezentral, oft durch erneuerbare Energiequellen wie Photovoltaik, erzeugt wird, anstatt aus großen, zentralen Kraftwerken. |

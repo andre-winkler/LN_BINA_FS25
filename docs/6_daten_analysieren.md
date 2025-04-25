@@ -4,6 +4,8 @@ Hinweis: folgende Unterkapitel beziehen sich grundsätzlich auf einen Zeitraum v
 ### Wetterentwicklung in der Schweiz
 Die in diesem Kapitel präsentierten Daten stammen von MeteoSwiss, der offiziellen Wetter- und Klimainstitution der Schweiz. Die Messwerte werden von verschiedenen meteorologischen Stationen erfasst, die strategisch über das gesamte Land verteilt sind. Diese breite Streuung der Messpunkte stellt sicher, dass die erfassten Wetter- und Klimadaten eine repräsentative Abdeckung für die gesamte Schweiz bieten.
 
+#### Verteilung der Wettermessstationen in der Schweiz
+
 Die nachfolgende Karte gibt einen Überblick über die Standorte der jeweiligen Messstationen und verdeutlicht die flächendeckende Erfassung der Daten. 
 
 <iframe src="assets/diagramme/swiss_stations_map.html"></iframe> 
@@ -11,6 +13,8 @@ Die nachfolgende Karte gibt einen Überblick über die Standorte der jeweiligen 
 Zur besseren Einordnung der Wetterstationen, folgend eine Tabelle zur Höhenverteilung. Daraus kann man ableiten, dass ein Grossteil der Wetterstationen unter 500 Höhenmeter liegen und der andere Grossteil zwischen 500 und 1'500 Meter.
 
 {% include_relative assets/md/hoehenverteilung_stationen.md %}
+
+#### Monatliche Sonnenstunden in der Schweiz: Trends, Verteilung und saisonale Muster
 
 Die folgenden zwei interaktiven Grafiken veranschaulichen die Anzahl der Sonnenstunden pro Monat in der Schweiz über die vergangenen zehn Jahre.
 
@@ -33,12 +37,21 @@ Aus diesen Diagrammen kann man folgende Feststellungen ableiten:
 * **Schwankende Jahreswerte:** In den dargestellten Jahren gibt es Schwankungen bei der Gesamtzahl der Sonnenstunden, was auf jahreszeitlich bedingte Variationen hinweist, aber auch auf mögliche langfristige klimatische Veränderungen.
 
 <br>
+
+#### Regionale Analyse der Sonnenstunden: Kantonale Unterschiede und Einflussfaktoren
+
 Für die Auswertungen der Sonnenstunden pro Kanton und der Darstellung auf einer Karte mussten die Wetterdaten (Sonnenstunden) mit den  Wettermessstationen-Daten kombiniert werden. Ausserdem mussten die Daten angereichert werden, z.B. mit den Kantonen anhand der Orte der Messstationen.
 
 <iframe src="assets/diagramme/swiss_sunhours_map.html"></iframe>
 
 Aus diesem Diagramm kann man folgende Feststellungen ableiten:
-* **Regionale Unterschiede:** In den südlichen Teilen der Schweiz (z.B. Tessin) gibt es mehr Sonnenstunden als in den nördlicheren Regionen (z.B. Zürich oder Basel).
+
+* **Regionale Unterschiede:** In den südlichen Teilen der Schweiz (z. B. Tessin) gibt es mehr Sonnenstunden als in nördlicheren Regionen wie Zürich oder Basel.
+* **Sonnenreiche Kantone:** Kantone wie **Genf**, **Wallis**, **Thurgau** und **Graubünden** weisen besonders hohe Werte auf – meist über **1700 Sonnenstunden pro Jahr**.
+* **Weniger Sonnenstunden in Zentralschweiz und Alpenraum:** Kantone wie **Uri**, **Glarus**, **Schwyz** und **Obwalden** erreichen teils weniger als **1300 Sonnenstunden jährlich**.
+* **Einfluss geografischer Faktoren:** Die Unterschiede lassen sich durch eine Kombination aus **Südlage, Höhenlage und geringerer Nebelhäufigkeit** erklären.
+* **Benachteiligung durch Topografie:** Regionen in **Tälern oder mit häufigem Winternebel** (z. B. Mittelland, Zentralschweiz) haben tendenziell tiefere Werte.
+
 
 <br>
 
@@ -91,6 +104,8 @@ Erkenntnisse, welche wir gewonnen haben:
 
 Dieses Kapitel zeigt auf, wie sich die installierte Leistung und die Verteilung der Solaranlagen im Zeitraum von 2015 bis 2024 entwickelt haben. Anhand von Visualisierungen wird ersichtlich, in welchen Regionen besonders viele Anlagen gebaut wurden und wo weiteres Potenzial besteht. Die Daten geben zudem Aufschluss darüber, wie geografische und klimatische Bedingungen den Ausbau beeinflussen und welche Unterschiede sich zwischen den einzelnen Kantonen zeigen.
 
+#### Photovoltaik-Leistung in der Schweiz: Zoom auf regionale Unterschiede
+
 Die folgende Visualisierung zeigt die Verteilung der Photovoltaikanlagen (PV-Anlagen) in der Schweiz ab 2015 bis 2024. Die Kreise stehen für die kumulierte Leistung in Kilowatt (kW) pro Region. Je grösser der Kreis, desto höher die installierte Gesamtleistung in diesem Gebiet.
 
 <iframe src="assets/diagramme/elcoms_map.html"></iframe>
@@ -103,6 +118,8 @@ Zentrale Erkenntnisse:
 * Details bei genauerem Hinsehen: Beim Hineinzoomen in die Karte werden feinere regionale Unterschiede sichtbar. So lassen sich einzelne Gemeinden mit besonders hoher oder niedriger Leistung identifizieren.
 
 Die Visualisierung gibt somit einen klaren Überblick über den Stand der Solarenergie in der Schweiz. Sie macht regionale Unterschiede sichtbar und zeigt, wo bereits viel in Photovoltaik investiert wurde – und wo noch Potenzial besteht.
+
+#### Entwicklung der installierten PV-Leistung pro Kanton (2015–2024)
 
 <iframe src="assets/diagramme/elcom_entwicklung_total_power.html"></iframe>
 
@@ -119,9 +136,35 @@ Die Balkengrafik zeigt die kumulierte Gesamtkapazität der installierten Photovo
 
 Am unteren Ende der Rangliste befinden sich kleinere oder topografisch anspruchsvollere Kantone wie Appenzell Innerrhoden, Uri und Obwalden. Dort sind die Ausbaupotenziale begrenzter, was sich in der niedrigeren kumulierten Leistung widerspiegelt. Die Grafik verdeutlicht die regionalen Unterschiede beim PV-Ausbau und zeigt gleichzeitig, wo noch ungenutztes Potenzial vorhanden ist.
 
+#### Choroplethenkarte des Photovoltaik-Ausbaus auf Gemeindeebene
 
-TODO @Amel
+Die untenstehende Choroplethenkarte zeigt die aggregierte installierte Leistung von Photovoltaikanlagen (PV) in der Schweiz pro Gemeinde im Zeitraum von 2015 bis 2024. Die Karte basiert auf offiziellen Gemeindedaten und bildet die kumulierte Solarleistung (in Megawatt, MW) farblich abgestuft ab. Je dunkler eine Gemeinde eingefärbt ist, desto höher ist die installierte Gesamtleistung in diesem Zeitraum.
+
+Die Daten wurden zusammengeführt und georeferenziert, um einen räumlichen Überblick über den Ausbau der Solarenergie auf lokaler Ebene zu ermöglichen.
 
 <iframe src="assets/diagramme/map_cumulative_pv_power.html"></iframe>
 
-TODO @Amel
+Die Karte zeigt deutliche regionale Unterschiede beim Ausbau der Photovoltaik in der Schweiz. Besonders Gemeinden im Mittelland, nördlich des Genfersees und im Raum Zürich weisen hohe installierte Leistungen auf. Diese Ballungsräume verfügen über eine hohe Gebäudedichte, gute wirtschaftliche Voraussetzungen und teilweise gezielte Fördermassnahmen. In ländlicheren oder gebirgigen Regionen, insbesondere im Südosten und in Teilen des Wallis und Graubündens, fällt die installierte Leistung pro Gemeinde hingegen deutlich geringer aus. Dies deutet auf ungenutztes Potenzial für den weiteren PV-Ausbau in diesen Gebieten hin.
+
+### Fazit Datenanalyse und Erkenntnisse
+
+Die umfassende Analyse über den Zeitraum der letzten zehn Jahre liefert ein klares Bild der klimatischen, geografischen und energietechnischen Entwicklungen in der Schweiz. Im Zentrum stehen die steigende Bedeutung der Solarenergie sowie deren regional unterschiedliche Verbreitung.
+
+Wetter und Sonnenstunden:
+Die Auswertung der MeteoSchweiz-Daten zeigt eine erwartungsgemäße saisonale Verteilung der Sonnenstunden: Hohe Werte im Sommer, niedrige im Winter. Besonders auffällig ist jedoch der Trend zu mehr Sonnenstunden im Frühling und Herbst – ein positiver Faktor für die gleichmäßigere Nutzung von Solarenergie über das Jahr hinweg. Auch regional bestehen klare Unterschiede, wobei sich der Süden (z. B. Tessin) durch besonders viele Sonnenstunden auszeichnet, ebenso wie einige hochgelegene Standorte. Dies unterstreicht die Relevanz standortbezogener Analysen für zukünftige PV-Investitionen.
+
+Solarenergie und Stromproduktion:
+Der Anteil der Solarenergie an der gesamten Stromproduktion hat sich in der Dekade deutlich erhöht – fast verfünffacht – und trägt mittlerweile signifikant zur Energieversorgung bei. Dennoch bleibt ihr Anteil im Vergleich zu Wasserkraft und Kernenergie gering. Die Entwicklung des Wirkungsgrads von PV-Modulen zeigt technologische Fortschritte, die es ermöglichen, auf gleicher Fläche zunehmend mehr Energie zu erzeugen.
+
+Stromverbrauch und Elektromobilität:
+Während der Stromverbrauch in den meisten Sektoren stabil blieb oder leicht zurückging, zeigt sich ein starker Anstieg im Bereich Elektromobilität. Diese Entwicklung hebt den wachsenden Bedarf an erneuerbarem Strom hervor und betont die Notwendigkeit eines zügigen Ausbaus von Solar- und anderen erneuerbaren Energiequellen.
+
+Regionale Unterschiede beim PV-Ausbau:
+Die regionale Analyse des PV-Ausbaus zeigt klare Schwerpunkte in wirtschaftlich starken und bevölkerungsreichen Kantonen sowie in urbanen Zentren. Gleichzeitig offenbart die Choroplethenkarte ungenutztes Potenzial in alpinen und strukturschwächeren Regionen. Die Unterschiede lassen sich durch eine Kombination aus Fördermaßnahmen, wirtschaftlichen Bedingungen, technischer Umsetzbarkeit und politischem Willen erklären.
+
+Gesamtbetrachtung:
+Die Ergebnisse belegen, dass die Schweiz beim Ausbau der Solarenergie bedeutende Fortschritte gemacht hat, jedoch weiterhin regionale Disparitäten bestehen. Das Potenzial ist noch nicht ausgeschöpft – weder technologisch noch geographisch. Eine gezieltere Förderung in bisher unterrepräsentierten Regionen, gekoppelt mit weiteren Effizienzsteigerungen bei PV-Anlagen, könnte die nachhaltige Energiezukunft der Schweiz entscheidend voranbringen.
+
+Diese Erkenntnisse bieten eine solide Grundlage für politische Entscheidungen, Investitionsstrategien und die zukünftige Ausrichtung der Schweizer Energiepolitik.
+
+----
