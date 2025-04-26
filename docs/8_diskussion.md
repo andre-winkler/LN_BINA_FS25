@@ -47,29 +47,124 @@ AmFaAn Energy AG steht für die effiziente und nachhaltige Nutzung der Sonnenene
 
 Die Wahl des Hauptsitzes der AmFaAn Energy AG erfolgt im **Kanton Bern**.  
 Bern vereint mehrere Vorteile:
-- Hohe absolute Sonneneinstrahlung kombiniert mit guter Gebäudeverfügbarkeit  
-- Überdurchschnittliche Förderprogramme auf kantonaler und kommunaler Ebene  
-- Grosse Nähe zu angrenzenden Kantonen mit ebenfalls hohem Solarpotenzial (Aargau, Solothurn, Freiburg)
+- **Hohe absolute Sonneneinstrahlung**: Durchschnittlich ca. **1'600–1'700 Sonnenstunden pro Jahr** (je nach Standort, z.B. Bern-Belp oder Bern-Zollikofen laut MeteoSchweiz).
+- **Grosse Dachflächen**: Gemäss BFE und Sonnendach.ch hat der Kanton Bern ein theoretisches Solarpotenzial von über **7'800 GWh/Jahr** auf bestehenden Gebäudeflächen.
+- **Attraktive Förderprogramme**: 
+  - Bundesweite Einmalvergütung (EIV): etwa **300–400 CHF pro kWp** installierter Leistung.
+  - Kantonale Zusatzförderung Bern: **Bonus für winteroptimierte Anlagen** von **+10 %** der Standardvergütung bei ≥ 75° Neigung.
+  - Zusätzlich kommunale Programme möglich (z.B. Stadt Bern Zuschussprogramme für Speicherlösungen).
 
-Als Markteintrittsstrategie setzt AmFaAn Energy AG auf folgende Schwerpunkte:
-- Zielgerichtete Ansprache privater Hausbesitzer und KMUs in den ersten drei Jahren  
-- Zusammenarbeit mit landwirtschaftlichen Betrieben für Agri-PV-Projekte  
-- Nutzung von bestehenden Förderprogrammen zur Erhöhung der Investitionsattraktivität  
-- Aufbau eines starken lokalen Netzwerks mit Installationspartnern und Gemeinden
+- **Zentrale Lage**: Nähe zu weiteren Hochpotenzial-Kantonen wie Aargau, Solothurn und Freiburg.
+
+**Definition "ungenutztes Solarpotenzial":**  
+Gebäudeflächen (hauptsächlich Dächer), die technisch geeignet wären für Solaranlagen (mindestens 60 % Ausnutzungsgrad gemäss Sonnendach.ch), aber bislang **noch nicht** mit Photovoltaiksystemen belegt sind.
+
+| Kanton | Unbenutztes Solarpotenzial (GWh/Jahr) | Gebäudeanteil geeignet (%) |
+|:------|:-------------------------------------|:---------------------------|
+| Bern  | ~7'800                              | ~75 %                       |
+| Aargau| ~5'900                              | ~70 %                       |
+| Waadt | ~5'500                              | ~65 %                       |
+| Zürich| ~5'300                              | ~60 %                       |
 
 ---
 
 ### Entscheidungsempfehlung
 
-**Fragestellung:**  
-*In welcher Region sollte die AmFaAn Energy AG ihren Hauptsitz wählen, um den grössten Markterfolg zu erzielen?*
+---
+
+### Fragestellungen und Antworten
+
+---
+
+### In welcher Region sollte die AmFaAn Energy AG ihren Hauptsitz wählen, um den grössten Markterfolg zu erzielen?
 
 **Antwort:**  
-Basierend auf den in "Markteintrittsstrategie und Standortwahl" dargestellten Analysen sowie den Visualisierungen zu Sonnenstunden, installierter PV-Leistung und Solarpotenzial zeigt sich, dass der **Kanton Bern** die besten Voraussetzungen bietet:  
-- Überdurchschnittliche Sonneneinstrahlung (siehe regionale Sonnenstundenanalyse)  
-- Hohes ungenutztes Solarpotenzial auf Dachflächen (siehe Gebäude-Solarpotenzialanalyse)  
-- Attraktive kantonale und kommunale Förderprogramme (siehe wirtschaftliche Rahmenbedingungen)  
-- Zentrale Lage mit Anbindung an weitere Wachstumsregionen wie Aargau, Solothurn und Freiburg
+Basierend auf der Analyse der Sonnenstundenverteilung, des Solarenergiepotenzials und der Förderprogramme zeigt sich, dass der **Kanton Bern** die besten Voraussetzungen bietet:
+- **1'600–1'700 Sonnenstunden pro Jahr**
+- **~7'800 GWh/Jahr theoretisches Solarpotenzial**
+- **Attraktive Förderprogramme**: 300–400 CHF/kWp plus Bonus bei winteroptimierten Anlagen
+- **Günstige geografische Lage** für Expansion in Nachbarkantone
 
-Daher wird empfohlen, die **AmFaAn Energy AG** im Kanton Bern zu gründen und sich in der Anfangsphase auf Bern sowie angrenzende Kantone zu fokussieren.  
-Mit dieser Strategie kann das Unternehmen von Beginn an auf ein hohes Marktpotenzial zugreifen und sich erfolgreich im stark wachsenden Solarenergiemarkt etablieren.
+**Kapitelbezug:**  
+*Markteintrittsstrategie und Standortwahl*, *Regionale Sonnenstundenanalyse*, *Solarpotenzialanalyse Gebäude*
+
+---
+
+### Welche Regionen bieten das grösste ungenutzte Potenzial für neue Photovoltaikanlagen? Kann man in diesen Regionen ein verstärktes Marketing einsetzen?
+
+**Antwort:**  
+Die Kantone **Bern**, **Aargau**, **Waadt** und **Zürich** haben jeweils **über 5'000 GWh ungenutztes Solarpotenzial** auf bestehenden Dachflächen.  
+Diese Regionen sind ideal für ein verstärktes Marketing, insbesondere für gezielte Informationskampagnen, Beratungsangebote und Kooperationen mit lokalen Installationsfirmen.
+
+**Kapitelbezug:**  
+*Solarpotenzialanalyse Gebäude*, *Markteintrittsstrategie und Standortwahl*
+
+---
+
+### Welche Drohungen oder Risiken könnten das Geschäftsmodell der AmFaAn Energy AG gefährden?
+
+**Antwort:**  
+**Wettbewerbsdruck**: Besonders in Zürich gibt es bereits eine hohe Dichte an etablierten Solarinstallateuren (> 200 registrierte Firmen laut Solarcharta Zürich).  
+**Politische Unsicherheit**: Förderprogramme wie die Einmalvergütung (EIV) werden 2026 möglicherweise angepasst oder durch neue Modelle ersetzt (Quelle: BFE-Masterplan).
+
+**Kapitelbezug:**  
+*Subventionen und Förderprogramme*, *Markteintrittsstrategie und Standortwahl*
+
+---
+
+### Wie stark hat sich die installierte PV-Leistung in der Schweiz in den letzten zehn Jahren entwickelt und was bedeutet das für eine neue Firma?
+
+**Antwort:**  
+- **2015:** ~1.5 GW installierte Leistung  
+- **2024:** ~7 GW installierte Leistung  
+→ **Zunahme um fast das Fünffache**, jährliches Wachstum ca. **15 %** (BFE-Daten).
+
+Für die AmFaAn Energy AG bedeutet dies einen stark wachsenden Markt mit weiterhin steigendem Bedarf.
+
+**Kapitelbezug:**  
+*Entwicklung installierte PV-Leistung Diagramm*
+
+---
+
+### Wie wichtig ist die saisonale Verteilung der Sonnenstunden für die Standortwahl?
+
+**Antwort:**  
+Die saisonale Analyse zeigt:
+- Sommer: **Ø 250–300 Sonnenstunden/Monat**
+- Frühling/Herbst: **Ø 150–200 Sonnenstunden/Monat**
+- Winter: **Ø 50–80 Sonnenstunden/Monat**
+
+Regionen wie Bern und Wallis haben **vergleichsweise stabile Frühling- und Herbstwerte**, was eine gleichmässigere Solarstromproduktion ermöglicht und die Wirtschaftlichkeit erhöht.
+
+**Kapitelbezug:**  
+*Saisonale Sonnenstundenanalyse*
+
+---
+
+### Welche politischen Förderprogramme beeinflussen die Investitionsbereitschaft in Photovoltaik besonders stark?
+
+**Antwort:**  
+- **Einmalvergütung (EIV) Bundesebene:** 300–400 CHF pro installiertem kWp
+- **Winterbonus im Kanton Bern:** +10 % der Standardvergütung bei ≥ 75° Dachneigung
+- **Zusatzprogramme auf Gemeindeebene**, z.B. Stadt Bern: Zuschüsse für Batteriespeicher bis zu 30 % der Investitionskosten
+
+Diese Förderungen erhöhen die Amortisationsgeschwindigkeit von Projekten und machen Investitionen attraktiver.
+
+**Kapitelbezug:**  
+*Wirtschaftliche Rahmenbedingungen*, *Subventionen und Förderprogramme*
+
+---
+
+### Welche technologischen Entwicklungen haben den Markteintritt für neue Anbieter erleichtert?
+
+**Antwort:**  
+- **2015:** Ø Wirkungsgrad kristalliner PV-Module ~15–16 %  
+- **2024:** Ø Wirkungsgrad ~22–24 %
+
+Höhere Wirkungsgrade ermöglichen auch auf kleineren Dachflächen attraktive Projekte.  
+Zudem sind **moderne Speichersysteme** (z.B. Lithium-Ionen-Batterien) günstiger und verbreiteter geworden.
+
+**Kapitelbezug:**  
+*Wirkungsgrad-Entwicklung Solarmodule*
+
+---
