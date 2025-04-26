@@ -18,6 +18,11 @@ So entstand die Vision der **AmFaAn Energy AG** – benannt nach den Anfangsbuch
 
 **Firmenname:** AmFaAn Energy AG
 
+<div class="float-right-image" style="width: 250px">
+    <img src="assets/images/Logo - AmFaAn Energy AG.png">
+    <div class="image-label">"Erstellt mit ChatGPT"</div>
+</div>
+
 **Leitbild:**  
 AmFaAn Energy AG steht für die effiziente und nachhaltige Nutzung der Sonnenenergie. Unser Ziel ist es, private Haushalte, Unternehmen und die öffentliche Hand durch innovative Solarlösungen aktiv bei der Energiewende zu unterstützen.
 
@@ -37,10 +42,7 @@ AmFaAn Energy AG steht für die effiziente und nachhaltige Nutzung der Sonnenene
 - KMUs und Industrie  
 - Landwirtschaftsbetriebe  
 - Gemeinden und öffentliche Einrichtungen
-<div class="float-right-image" style="width: 250px">
-    <img src="assets/images/Logo - AmFaAn Energy AG.png">
-    <div class="image-label">"Erstellt mit ChatGPT"</div>
-</div>
+
 ---
 
 ### Markteintrittsstrategie und Standortwahl
@@ -65,6 +67,7 @@ Gebäudeflächen (hauptsächlich Dächer), die technisch geeignet wären für So
 | Aargau| ~5'900                              | ~70 %                       |
 | Waadt | ~5'500                              | ~65 %                       |
 | Zürich| ~5'300                              | ~60 %                       |
+
 
 ---
 
