@@ -156,6 +156,10 @@ die daten waren zu gross: 5 GB geo package und folium map ist abgestürzt
 
 TODO Amel
 
+<iframe src="assets/diagramme/pot_solarenergie_pro_kanton.html"></iframe>
+
+TODO Amel
+
 ### Fazit Datenanalyse und Erkenntnisse
 
 Die umfassende Analyse über den Zeitraum der letzten zehn Jahre liefert ein klares Bild der klimatischen, geografischen und energietechnischen Entwicklungen in der Schweiz. Im Zentrum stehen die steigende Bedeutung der Solarenergie sowie deren regional unterschiedliche Verbreitung.
