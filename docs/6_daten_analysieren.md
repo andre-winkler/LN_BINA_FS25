@@ -149,8 +149,10 @@ Die Karte zeigt deutliche regionale Unterschiede beim Ausbau der Photovoltaik in
 ### Solarpotential
 
 TODO Amel
+Wichtig: nicht von uns erstellt sondern von sonnendach.ch
+die daten waren zu gross: 5 GB geo package und folium map ist abgestürzt
 
-<iframe src="https://map.geo.admin.ch/#/embed?lang=de&center=2636090.62,1164788.63&z=11.535&topic=energie&layers=ch.bfe.solarenergie-eignung-daecher@features=15193228:15193227;ch.bfe.solarenergie-eignung-fassaden&bgLayer=ch.swisstopo.swissimage&featureInfo=default" style="border: 0;width: 100%;height: 450px;max-width: 100%;max-height: 100%;" allow="geolocation"></iframe>
+<iframe src="https://map.geo.admin.ch/#/embed?lang=de&center=2669890.62,1173563.63&z=0&topic=energie&layers=ch.bfe.solarenergie-eignung-daecher;ch.bfe.solarenergie-eignung-fassaden&bgLayer=ch.swisstopo.swissimage&featureInfo=default" style="border: 0;width: 100%;height: 650px;max-width: 100%;max-height: 100%;" allow="geolocation"></iframe>
 
 TODO Amel
 
