@@ -146,15 +146,23 @@ Die Daten wurden zusammengeführt und georeferenziert, um einen räumlichen Übe
 
 Die Karte zeigt deutliche regionale Unterschiede beim Ausbau der Photovoltaik in der Schweiz. Besonders Gemeinden im Mittelland, nördlich des Genfersees und im Raum Zürich weisen hohe installierte Leistungen auf. Diese Ballungsräume verfügen über eine hohe Gebäudedichte, gute wirtschaftliche Voraussetzungen und teilweise gezielte Fördermassnahmen. In ländlicheren oder gebirgigen Regionen, insbesondere im Südosten und in Teilen des Wallis und Graubündens, fällt die installierte Leistung pro Gemeinde hingegen deutlich geringer aus. Dies deutet auf ungenutztes Potenzial für den weiteren PV-Ausbau in diesen Gebieten hin.
 
-### Solarpotential
+### Solarpotenzial der Gebäude in der Schweiz: Dächer und Fassaden nach Kanton
 
-TODO Amel
-Wichtig: nicht von uns erstellt sondern von sonnendach.ch
-die daten waren zu gross: 5 GB geo package und folium map ist abgestürzt
+Die Gebäude der Schweiz – insbesondere ihre Dach- und Fassadenflächen – bergen ein erhebliches ungenutztes Potenzial für die Solarstromproduktion. In diesem Abschnitt analysieren wir, wie viel Energie theoretisch durch Photovoltaik auf bestehenden Gebäudeflächen in den einzelnen Kantonen erzeugt werden könnte.
+
+Für diese Auswertung haben wir auf die bereits aufbereiteten Daten von [sonnendach.ch](https://www.sonnendach.ch/) zurückgegriffen. Diese Plattform basiert auf umfassenden Berechnungen des Bundesamtes für Energie (BFE) und berücksichtigt Aspekte wie Dachneigung, Ausrichtung, Verschattung und Flächengrösse.
+
+Wir haben uns bewusst für diese Vorgehensweise entschieden, da die Originaldaten als Geopackage-Dateien über 5 GB gross waren. Eine direkte Verarbeitung dieser Rohdaten war technisch nicht möglich, da sowohl der verfügbare Arbeitsspeicher der Webplattform als auch die Leistungsfähigkeit des verwendeten Laptops nicht ausreichten, um diese Datenmengen effizient zu laden und zu analysieren. Insbesondere der Versuch, eine vollständige Folium-Map zu generieren, führte wiederholt zu Abstürzen aufgrund von Speicherüberlastung.
 
 <iframe src="https://map.geo.admin.ch/#/embed?lang=de&center=2669890.62,1173563.63&z=0&topic=energie&layers=ch.bfe.solarenergie-eignung-daecher;ch.bfe.solarenergie-eignung-fassaden&bgLayer=ch.swisstopo.swissimage&featureInfo=default" style="border: 0;width: 100%;height: 650px;max-width: 100%;max-height: 100%;" allow="geolocation"></iframe>
 
-TODO Amel
+Die Auswertung zeigt, dass das Solarenergiepotenzial in der Schweiz regional sehr unterschiedlich verteilt ist. Kantone mit hoher Gebäudedichte, grosser Dachflächenverfügbarkeit und günstiger Ausrichtung – wie Zürich, Bern, Waadt und Aargau – weisen das höchste theoretische Potenzial auf. Auch das Tessin erzielt dank seiner überdurchschnittlichen Sonneneinstrahlung trotz kleinerer Fläche hohe Werte.
+
+Auffällig ist, dass selbst in Kantonen mit bisher geringem Photovoltaik-Ausbau (z. B. Jura, Glarus oder Nidwalden) erhebliche ungenutzte Flächenreserven bestehen. Dies unterstreicht, dass der zukünftige Ausbau der Solarenergie in der Schweiz nicht nur von der Sonneneinstrahlung, sondern auch stark von politischen, wirtschaftlichen und infrastrukturellen Rahmenbedingungen abhängig sein wird.
+
+Ein weiterer wichtiger Punkt: Neben den Dachflächen bieten insbesondere vertikale Fassaden in städtischen Gebieten zusätzliche Ausbauchancen, die bislang vergleichsweise wenig genutzt werden.
+
+Insgesamt belegen die Ergebnisse, dass die bestehende Gebäudeinfrastruktur in der Schweiz ein zentrales Element für die Erreichung der Energiewendeziele darstellen kann – vorausgesetzt, dass das technische Potenzial konsequent erschlossen und durch geeignete Fördermassnahmen begleitet wird.
 
 ### Fazit Datenanalyse und Erkenntnisse
 
