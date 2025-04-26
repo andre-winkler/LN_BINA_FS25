@@ -164,7 +164,7 @@ Ein weiterer wichtiger Punkt: Neben den Dachflächen bieten insbesondere vertika
 
 Insgesamt belegen die Ergebnisse, dass die bestehende Gebäudeinfrastruktur in der Schweiz ein zentrales Element für die Erreichung der Energiewendeziele darstellen kann – vorausgesetzt, dass das technische Potenzial konsequent erschlossen und durch geeignete Fördermassnahmen begleitet wird.
 
-<iframe src="assets/diagramme/pot_solarenergie_pro_kanton.html"></iframe>
+<iframe src="assets/diagramme/pot_solarenergie_pro_kanton.html" style="height: 550px !important"></iframe>
 
 TODO Amel
 
