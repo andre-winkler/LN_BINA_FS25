@@ -146,6 +146,14 @@ Die Daten wurden zusammengeführt und georeferenziert, um einen räumlichen Übe
 
 Die Karte zeigt deutliche regionale Unterschiede beim Ausbau der Photovoltaik in der Schweiz. Besonders Gemeinden im Mittelland, nördlich des Genfersees und im Raum Zürich weisen hohe installierte Leistungen auf. Diese Ballungsräume verfügen über eine hohe Gebäudedichte, gute wirtschaftliche Voraussetzungen und teilweise gezielte Fördermassnahmen. In ländlicheren oder gebirgigen Regionen, insbesondere im Südosten und in Teilen des Wallis und Graubündens, fällt die installierte Leistung pro Gemeinde hingegen deutlich geringer aus. Dies deutet auf ungenutztes Potenzial für den weiteren PV-Ausbau in diesen Gebieten hin.
 
+### Solarpotential
+
+TODO Amel
+
+<iframe src="https://map.geo.admin.ch/#/embed?lang=de&center=2636090.62,1164788.63&z=11.535&topic=energie&layers=ch.bfe.solarenergie-eignung-daecher@features=15193228:15193227;ch.bfe.solarenergie-eignung-fassaden&bgLayer=ch.swisstopo.swissimage&featureInfo=default" style="border: 0;width: 100%;height: 450px;max-width: 100%;max-height: 100%;" allow="geolocation"></iframe>
+
+TODO Amel
+
 ### Fazit Datenanalyse und Erkenntnisse
 
 Die umfassende Analyse über den Zeitraum der letzten zehn Jahre liefert ein klares Bild der klimatischen, geografischen und energietechnischen Entwicklungen in der Schweiz. Im Zentrum stehen die steigende Bedeutung der Solarenergie sowie deren regional unterschiedliche Verbreitung.
