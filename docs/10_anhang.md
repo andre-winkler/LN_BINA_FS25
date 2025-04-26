@@ -174,7 +174,7 @@ Die nachfolgende Tabelle gibt einen Überblick über die durchschnittlichen Eins
 | Tessin                | 0.13                                                | ↑                 | Kommunale Boni treiben Vergütung nach oben|
 | Thurgau               | 0.12                                                | →                 | Durchschnittlich                          |
 | Uri                   | 0.11                                                | →                 | Durchschnittlich                          |
-| Waadt (Vaud)          | 0.13                                                | ↑                 | Anstieg durch kantonale Programme         |
+| Waadt          | 0.13                                                | ↑                 | Anstieg durch kantonale Programme         |
 | Wallis                | 0.12                                                | →                 | Durchschnittlich                          |
 | Zug                   | 0.12                                                | →                 | Durchschnittlich                          |
 | Zürich                | 0.12                                                | →                 | Unterschied zwischen Hochtarif und Niedertarif |
