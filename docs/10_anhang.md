@@ -90,7 +90,7 @@ Beispielhafte kantonale Programme:
 **Quellen:**
 📊 Produktionsanteile und installierte Kapazitäten
 - **IEA – Snapshot of Global PV Markets 2023**  
-  Diese Veröffentlichung bietet einen umfassenden Überblick über die weltweite Photovoltaikentwicklung, einschließlich Produktionsanteilen und installierter Kapazitäten.  
+  Diese Veröffentlichung bietet einen umfassenden Überblick über die weltweite Photovoltaikentwicklung, einschliesslich Produktionsanteilen und installierter Kapazitäten.  
   [iea-pvps.org](https://iea-pvps.org)
 
 - **IEA – Renewables 2023: Executive Summary**  

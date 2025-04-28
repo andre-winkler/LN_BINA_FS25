@@ -41,14 +41,23 @@ Für detaillierte Modellierungen und physikalisch fundierte Abschätzungen stehe
 
 ### Bundesamt für Energie (BFE) - Elektrische Produktionsanlagen 
 #### Datenquelle
-Die Datengrundlage dieses Abschnitts basiert auf einem CSV-Datensatz, der über die Plattform opendata.swiss bezogen wurde. Dieser Datensatz wird vom Bundesamt für Energie (BFE) zur Verfügung gestellt und enthält Informationen zu elektrischen Produktionsanlagen in der Schweiz.
+Die Datengrundlage dieses Abschnitts basiert auf mehreren CSV-Dateien, der über die Plattform opendata.swiss bezogen wurde. Diese Datensätze werden vom Bundesamt für Energie (BFE) zur Verfügung gestellt und enthält Informationen zu elektrischen Produktionsanlagen in der Schweiz.
 
-Für diese Analyse wurde die Datei gefiltert, sodass ausschliesslich Photovoltaikanlagen berücksichtigt wurden, deren Inbetriebnahmedatum zwischen dem 01.01.2015 und dem 31.12.2024 liegt. Die Datei enthält Angaben zur installierten Leistung (in kW), zum Standort (Kanton, Gemeinde), zur Kategorie der Anlage sowie zum Zeitpunkt der Inbetriebnahme.
+Für diese Analyse wurde die Datei gefiltert, sodass ausschliesslich Photovoltaikanlagen berücksichtigt wurden, deren Inbetriebnahmedatum zwischen dem 01.01.2015 und dem 31.12.2024 liegt. Die Datei enthält Angaben zur installierten Leistung (in kW), zum Standort (Adresse, Gemeinde und Kanton), zur Kategorie der Anlage sowie zum Zeitpunkt der Inbetriebnahme.
 
 <div class="float-right-image" style="width: 250px">
     <img src="assets/images/bfe_logo.png">
     <div class="image-label">https://www.iwf.ch/web-solutions/showcase/web-applikation-fuer-das-bundesamt-fuer-energie</div>
 </div>
+
+ Für die Erstellung einer Choroplethenkarte, die die Leistung der Photovoltaikanlagen (PV-Anlagen) pro Gemeinde darstellt, traten mehrere Herausforderungen auf. Zunächst wurden GeoJSON-Daten benötigt, um die Gemeindegrenzen darzustellen. Die Datei Gemeinden.geojson von github.com/cividi/ch-municipalities war die passendste verfügbare Ressource, jedoch bereits 4 Jahre alt. Mit Folium Choropleth konnten die Gemeindegrenzen auf einer Karte angezeigt werden, jedoch war die exportierte Karte zu gross. Daher mussten die Geometrien der GeoJSON-Features vereinfacht werden, um die Daten leichter darstellbar zu machen.
+
+Ein weiteres Problem war der Datenabgleich der PV-Anlagen mit den GeoJSON-Daten der Gemeinden. In den Geodaten war die BFS-Nummer der Gemeinden vorhanden, in den PV-Anlagendaten jedoch die Postleitzahl (PLZ). Zudem sind Gemeinden keine statischen Einheiten und verändern sich über die Jahre durch Fusionen, Namensänderungen oder Auflösungen. Diese Dynamik erschwerte den direkten Abgleich der Daten.
+
+Da keine der Optionen wie Gemeindename, Adresse oder Geodaten sinnvoll funktionierte, wurde ein Umweg über die historischen Gemeindedaten (AMTOVZ_CSV_WGS84.csv) vom Amtlichen Ortschaftenverzeichnis auf opendata.swiss genommen. Mithilfe dieser Daten konnten die meisten PLZ-Einträge zu BFS-Nummern gematched werden, bis auf 33 Fälle. Für diese Fälle wurden Standardwerte verwendet.
+
+
+
 
 #### Datenqualität und Bereinigung
 Die Daten basieren auf Einträgen im offiziellen Produktionsanlagenregister und gelten als konsistent sowie gut strukturiert. Da es sich um Primärdaten handelt, wurden sie nicht verändert oder ergänzt. Es fanden weder Aggregationen noch Schätzungen statt. Die Inbetriebnahmedaten erlauben zeitlich präzise Auswertungen pro Jahr, während die Standortinformationen eine regionale Analyse ermöglichen.

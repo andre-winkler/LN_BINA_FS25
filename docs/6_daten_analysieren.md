@@ -33,7 +33,7 @@ Und hier noch als Violinplot:
 
 Aus diesen Diagrammen kann man folgende Feststellungen ableiten:
 * **Hohe Sonnenstunden im Sommer, niedrige im Winter:** Die Sonnenstunden pro Monat erreichen ihren Höhepunkt in den Sommermonaten (Mai bis August), mit einem deutlichen Rückgang in den Wintermonaten (November bis Februar).
-* **Eindeutiger Trend zu mehr Sonnenstunden im Frühling und Herbst:** Frühling und Herbst weisen eine moderate Anzahl an Sonnenstunden auf, was für die Solarproduktion außerhalb der Sommermonate von Bedeutung ist.
+* **Eindeutiger Trend zu mehr Sonnenstunden im Frühling und Herbst:** Frühling und Herbst weisen eine moderate Anzahl an Sonnenstunden auf, was für die Solarproduktion ausserhalb der Sommermonate von Bedeutung ist.
 * **Schwankende Jahreswerte:** In den dargestellten Jahren gibt es Schwankungen bei der Gesamtzahl der Sonnenstunden, was auf jahreszeitlich bedingte Variationen hinweist, aber auch auf mögliche langfristige klimatische Veränderungen.
 
 <br>
@@ -173,7 +173,7 @@ TODO Amel
 Die umfassende Analyse über den Zeitraum der letzten zehn Jahre liefert ein klares Bild der klimatischen, geografischen und energietechnischen Entwicklungen in der Schweiz. Im Zentrum stehen die steigende Bedeutung der Solarenergie sowie deren regional unterschiedliche Verbreitung.
 
 Wetter und Sonnenstunden:
-Die Auswertung der MeteoSchweiz-Daten zeigt eine erwartungsgemäße saisonale Verteilung der Sonnenstunden: Hohe Werte im Sommer, niedrige im Winter. Besonders auffällig ist jedoch der Trend zu mehr Sonnenstunden im Frühling und Herbst – ein positiver Faktor für die gleichmäßigere Nutzung von Solarenergie über das Jahr hinweg. Auch regional bestehen klare Unterschiede, wobei sich der Süden (z. B. Tessin) durch besonders viele Sonnenstunden auszeichnet, ebenso wie einige hochgelegene Standorte. Dies unterstreicht die Relevanz standortbezogener Analysen für zukünftige PV-Investitionen.
+Die Auswertung der MeteoSchweiz-Daten zeigt eine erwartungsgemässe saisonale Verteilung der Sonnenstunden: Hohe Werte im Sommer, niedrige im Winter. Besonders auffällig ist jedoch der Trend zu mehr Sonnenstunden im Frühling und Herbst – ein positiver Faktor für die gleichmässigere Nutzung von Solarenergie über das Jahr hinweg. Auch regional bestehen klare Unterschiede, wobei sich der Süden (z. B. Tessin) durch besonders viele Sonnenstunden auszeichnet, ebenso wie einige hochgelegene Standorte. Dies unterstreicht die Relevanz standortbezogener Analysen für zukünftige PV-Investitionen.
 
 Solarenergie und Stromproduktion:
 Der Anteil der Solarenergie an der gesamten Stromproduktion hat sich in der Dekade deutlich erhöht – fast verfünffacht – und trägt mittlerweile signifikant zur Energieversorgung bei. Dennoch bleibt ihr Anteil im Vergleich zu Wasserkraft und Kernenergie gering. Die Entwicklung des Wirkungsgrads von PV-Modulen zeigt technologische Fortschritte, die es ermöglichen, auf gleicher Fläche zunehmend mehr Energie zu erzeugen.
@@ -182,7 +182,7 @@ Stromverbrauch und Elektromobilität:
 Während der Stromverbrauch in den meisten Sektoren stabil blieb oder leicht zurückging, zeigt sich ein starker Anstieg im Bereich Elektromobilität. Diese Entwicklung hebt den wachsenden Bedarf an erneuerbarem Strom hervor und betont die Notwendigkeit eines zügigen Ausbaus von Solar- und anderen erneuerbaren Energiequellen.
 
 Regionale Unterschiede beim PV-Ausbau:
-Die regionale Analyse des PV-Ausbaus zeigt klare Schwerpunkte in wirtschaftlich starken und bevölkerungsreichen Kantonen sowie in urbanen Zentren. Gleichzeitig offenbart die Choroplethenkarte ungenutztes Potenzial in alpinen und strukturschwächeren Regionen. Die Unterschiede lassen sich durch eine Kombination aus Fördermaßnahmen, wirtschaftlichen Bedingungen, technischer Umsetzbarkeit und politischem Willen erklären.
+Die regionale Analyse des PV-Ausbaus zeigt klare Schwerpunkte in wirtschaftlich starken und bevölkerungsreichen Kantonen sowie in urbanen Zentren. Gleichzeitig offenbart die Choroplethenkarte ungenutztes Potenzial in alpinen und strukturschwächeren Regionen. Die Unterschiede lassen sich durch eine Kombination aus Fördermassnahmen, wirtschaftlichen Bedingungen, technischer Umsetzbarkeit und politischem Willen erklären.
 
 Gesamtbetrachtung:
 Die Ergebnisse belegen, dass die Schweiz beim Ausbau der Solarenergie bedeutende Fortschritte gemacht hat, jedoch weiterhin regionale Disparitäten bestehen. Das Potenzial ist noch nicht ausgeschöpft – weder technologisch noch geographisch. Eine gezieltere Förderung in bisher unterrepräsentierten Regionen, gekoppelt mit weiteren Effizienzsteigerungen bei PV-Anlagen, könnte die nachhaltige Energiezukunft der Schweiz entscheidend voranbringen.
