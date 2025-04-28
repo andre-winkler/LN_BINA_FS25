@@ -2,9 +2,11 @@
 <html lang="de-CH">
 
   <head>
+    <title>{{ site.title }}</title>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{{ site.description }}">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
 
@@ -13,19 +15,12 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
-          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+          <h1 id="project_title">{{ site.title }}</h1>
+          <h2 id="project_tagline">{{ site.description }}</h2>
         </header>
     </div>
 
     <!-- MAIN CONTENT -->
-
-    <p>Debug: {{ site.title }}</p>
-    <p>Debug: {{ site.description }}</p>
-
-    <p>Debug2: {{ title }}</p>
-    <p>Debug2: {{ description }}</p>
-
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         {{ content }}
