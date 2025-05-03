@@ -71,13 +71,8 @@ Gebäudeflächen (hauptsächlich Dächer), die technisch geeignet wären für So
 
 ---
 
-### Entscheidungsempfehlung
+# Entscheidungsempfehlung
 
----
-
-### Fragestellungen und Antworten
-
----
 
 ### In welcher Region sollte die AmFaAn Energy AG ihren Hauptsitz wählen, um den grössten Markterfolg zu erzielen?
 

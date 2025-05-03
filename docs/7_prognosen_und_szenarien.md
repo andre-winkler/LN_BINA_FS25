@@ -1,5 +1,4 @@
 ## Prognosen und Szenarien
-
 Die Schweiz steht vor der Herausforderung, ihre Energieversorgung nachhaltiger, unabhängiger und klimafreundlicher zu gestalten. Die Solarenergie spielt in diesem Wandel eine Schlüsselrolle. Nachdem die vergangenen zehn Jahre eine starke Dynamik im Ausbau der Photovoltaik (PV) gezeigt haben, richtet sich der Blick nun in die Zukunft: Welche Entwicklungen sind bis 2030 zu erwarten – und welche Potenziale bleiben noch ungenutzt?
 
 Dieses Kapitel untersucht auf datenbasierter Grundlage, wie sich die Nutzung der Solarenergie in der Schweiz voraussichtlich weiterentwickeln wird. Ziel ist es, tragfähige Prognosen zu erstellen, die sowohl die historische Entwicklung als auch aktuelle Trends und Rahmenbedingungen berücksichtigen. Im Fokus stehen unter anderem:
