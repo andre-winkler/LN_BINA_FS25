@@ -31,8 +31,8 @@ In dieser Phase wird besonders darauf geachtet, dass die Analyseergebnisse valid
 Im vierten Schritt werden die Ergebnisse der Analyse so aufbereitet, dass sie wiedergegeben werden können. Die Präsentation erfolgt durch verschiedene Medien, darunter: 
 - Link auf Google-Colab-Notebook: Diese werden genutzt, um die wichtigsten Ergebnisse und Empfehlungen klar und prägnant darzustellen. 
 - Dokument der Präsentation: 5-6 Slides mit den wichtigsten Erkenntnissen. 
-- Video: Ein ergänzendes Video wird visuelle Eindrücke und die wichtigsten Daten anschaulich vermitteln, mit der Dauer von 3 Minuten. 
+- Video: Ein ergänzendes Video, mit der Dauer von drei Minuten, wird visuelle Eindrücke und die wichtigsten Daten anschaulich vermitteln. 
 Die Präsentation sollte die Kernfragen im Fokus behalten und auf geeignete Visualisierungen zurückgreifen, die durch erläuternde Texte ergänzt werden. Es wird darauf geachtet, dass die Kommunikation zielgruppenorientiert erfolgt, um eine effiziente Entscheidungsfindung zu ermöglichen.
 
 ### Schritt 5: Datenbasierte Entscheidungen treffen
-Im letzten Schritt werden aufgrund der gesammelten und verarbeiteten Daten Entscheidungen getroffen. Angewandt auf diese Arbeit, könnten die Leser, potentiell in Schritt 5, basierend auf den Erkenntnissen aus der Vorliegenden Arbeit sich dafür oder dagegen entscheiden auf Ihrem Dach eine Photovoltaikanlage zu montieren.
+Im letzten Schritt werden aufgrund der gesammelten und verarbeiteten Daten Entscheidungen getroffen. Angewandt auf diese Arbeit, könnten die Leser und oder Zuhörer potentiell in Schritt 5, basierend auf den Erkenntnissen aus der Vorliegenden Arbeit, sich dafür oder dagegen entscheiden auf Ihrem Dach eine Photovoltaikanlage zu installieren.
