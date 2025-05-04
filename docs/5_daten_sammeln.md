@@ -41,7 +41,7 @@ Für detaillierte Modellierungen und physikalisch fundierte Abschätzungen stehe
 
 ### Bundesamt für Energie (BFE) - Elektrische Produktionsanlagen 
 #### Datenquelle
-Die Datengrundlage dieses Abschnitts basiert auf mehreren CSV-Dateien, der über die Plattform opendata.swiss bezogen wurde. Diese Datensätze werden vom Bundesamt für Energie (BFE) zur Verfügung gestellt und enthält Informationen zu elektrischen Produktionsanlagen und zum durchschnittlichen Verbrauch von Elektrizität pro Haushalt pro Jahr in der Schweiz.
+Die Datengrundlage dieses Abschnitts basiert auf mehreren CSV-Dateien, der über die Plattform opendata.swiss bezogen wurde. Diese Datensätze werden vom Bundesamt für Energie (BFE) zur Verfügung gestellt und enthält Informationen zu elektrischen Produktionsanlagen in der Schweiz.
 
 Für diese Analyse wurde die Datei gefiltert, sodass ausschliesslich Photovoltaikanlagen berücksichtigt wurden, deren Inbetriebnahmedatum zwischen dem 01.01.2015 und dem 31.12.2024 liegt. Die Datei enthält Angaben zur installierten Leistung (in kW), zum Standort (Adresse, Gemeinde und Kanton), zur Kategorie der Anlage sowie zum Zeitpunkt der Inbetriebnahme.
 
@@ -55,7 +55,6 @@ Für diese Analyse wurde die Datei gefiltert, sodass ausschliesslich Photovoltai
 Ein weiteres Problem war der Datenabgleich der PV-Anlagen mit den GeoJSON-Daten der Gemeinden. In den Geodaten war die BFS-Nummer der Gemeinden vorhanden, in den PV-Anlagendaten jedoch die Postleitzahl (PLZ). Zudem sind Gemeinden keine statischen Einheiten und verändern sich über die Jahre durch Fusionen, Namensänderungen oder Auflösungen. Diese Dynamik erschwerte den direkten Abgleich der Daten.
 
 Da keine der Optionen wie Gemeindename, Adresse oder Geodaten sinnvoll funktionierte, wurde ein Umweg über die historischen Gemeindedaten (AMTOVZ_CSV_WGS84.csv) vom Amtlichen Ortschaftenverzeichnis auf opendata.swiss genommen. Mithilfe dieser Daten konnten die meisten PLZ-Einträge zu BFS-Nummern gematched werden, bis auf 33 Fälle. Für diese Fälle wurden Standardwerte verwendet.
-
 
 
 
