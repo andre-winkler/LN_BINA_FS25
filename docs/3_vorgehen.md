@@ -28,8 +28,11 @@ Nachdem die relevanten Daten gesammelt wurden, werden diese nun mit verschiedene
 In dieser Phase wird besonders darauf geachtet, dass die Analyseergebnisse valide sind und sich an den Fragen aus Schritt 1. Die gewonnenen Erkenntnisse müssen so aufbereitet werden, dass sie zur Beantwortung der Fragen dienen und Inhalt der Präsentation sind. Dies beinhaltet auch die Verwendung von Visualisierungen und klaren Darstellungstechniken, die eine einfache Interpretation der Ergebnisse ermöglichen. 
 
 ### Schritt 4: Informationen präsentieren
-Im letzten Schritt werden die Ergebnisse der Analyse so aufbereitet, dass sie wiedergegeben werden können. Die Präsentation erfolgt durch verschiedene Medien, darunter: 
+Im vierten Schritt werden die Ergebnisse der Analyse so aufbereitet, dass sie wiedergegeben werden können. Die Präsentation erfolgt durch verschiedene Medien, darunter: 
 - Link auf Google-Colab-Notebook: Diese werden genutzt, um die wichtigsten Ergebnisse und Empfehlungen klar und prägnant darzustellen. 
 - Dokument der Präsentation: 5-6 Slides mit den wichtigsten Erkenntnissen. 
 - Video: Ein ergänzendes Video wird visuelle Eindrücke und die wichtigsten Daten anschaulich vermitteln, mit der Dauer von 3 Minuten. 
-Die Präsentation sollte die Kernfragen im Fokus behalten und auf geeignete Visualisierungen zurückgreifen, die durch erläuternde Texte ergänzt werden. Es wird darauf geachtet, dass die Kommunikation zielgruppenorientiert erfolgt, um eine effiziente Entscheidungsfindung zu ermöglichen. 
+Die Präsentation sollte die Kernfragen im Fokus behalten und auf geeignete Visualisierungen zurückgreifen, die durch erläuternde Texte ergänzt werden. Es wird darauf geachtet, dass die Kommunikation zielgruppenorientiert erfolgt, um eine effiziente Entscheidungsfindung zu ermöglichen.
+
+### Schritt 5: Datenbasierte Entscheidungen treffen
+Im letzten Schritt werden aufgrund der gesammelten und verarbeiteten Daten Entscheidungen getroffen. Wie etwa in unserem Beispiel wo und wie könnten 
