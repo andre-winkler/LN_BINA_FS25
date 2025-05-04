@@ -58,7 +58,6 @@ Da keine der Optionen wie Gemeindename, Adresse oder Geodaten sinnvoll funktioni
 
 
 
-
 #### Datenqualität und Bereinigung
 Die Daten basieren auf Einträgen im offiziellen Produktionsanlagenregister und gelten als konsistent sowie gut strukturiert. Da es sich um Primärdaten handelt, wurden sie nicht verändert oder ergänzt. Es fanden weder Aggregationen noch Schätzungen statt. Die Inbetriebnahmedaten erlauben zeitlich präzise Auswertungen pro Jahr, während die Standortinformationen eine regionale Analyse ermöglichen.
 

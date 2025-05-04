@@ -168,6 +168,18 @@ Insgesamt belegen die Ergebnisse, dass die bestehende Gebäudeinfrastruktur in d
 
 TODO Amel
 
+### PV-Vergütungen
+
+TODO Amel
+
+<iframe src="assets/diagramme/pv_vergütungen.html"></iframe>
+
+TODO Amel
+
+<iframe src="assets/diagramme/map_pv_vergütungen.html"></iframe>
+
+TODO Amel
+
 ### Fazit Datenanalyse und Erkenntnisse
 
 Die umfassende Analyse über den Zeitraum der letzten zehn Jahre liefert ein klares Bild der klimatischen, geografischen und energietechnischen Entwicklungen in der Schweiz. Im Zentrum stehen die steigende Bedeutung der Solarenergie sowie deren regional unterschiedliche Verbreitung.
