@@ -35,4 +35,4 @@ Im vierten Schritt werden die Ergebnisse der Analyse so aufbereitet, dass sie wi
 Die Präsentation sollte die Kernfragen im Fokus behalten und auf geeignete Visualisierungen zurückgreifen, die durch erläuternde Texte ergänzt werden. Es wird darauf geachtet, dass die Kommunikation zielgruppenorientiert erfolgt, um eine effiziente Entscheidungsfindung zu ermöglichen.
 
 ### Schritt 5: Datenbasierte Entscheidungen treffen
-Im letzten Schritt werden aufgrund der gesammelten und verarbeiteten Daten Entscheidungen getroffen. Wie etwa in unserem Beispiel wo und wie könnten 
+Im letzten Schritt werden aufgrund der gesammelten und verarbeiteten Daten Entscheidungen getroffen. Angewandt auf diese Arbeit, könnten die Leser, potentiell in Schritt 5, basierend auf den Erkenntnissen aus der Vorliegenden Arbeit sich dafür oder dagegen entscheiden auf Ihrem Dach eine Photovoltaikanlage zu montieren.
