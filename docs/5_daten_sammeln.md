@@ -41,7 +41,7 @@ Für detaillierte Modellierungen und physikalisch fundierte Abschätzungen stehe
 
 ### Bundesamt für Energie (BFE) - Elektrische Produktionsanlagen 
 #### Datenquelle
-Die Datengrundlage dieses Abschnitts basiert auf mehreren CSV-Dateien, der über die Plattform opendata.swiss bezogen wurde. Diese Datensätze werden vom Bundesamt für Energie (BFE) zur Verfügung gestellt und enthält Informationen zu elektrischen Produktionsanlagen in der Schweiz.
+Die Datengrundlage dieses Abschnitts basiert auf mehreren CSV-Dateien, der über die Plattform opendata.swiss bezogen wurde. Diese Datensätze werden vom Bundesamt für Energie (BFE) zur Verfügung gestellt und enthält Informationen zu elektrischen Produktionsanlagen und zum durchschnittlichen Verbrauch von Elektrizität pro Haushalt pro Jahr in der Schweiz.
 
 Für diese Analyse wurde die Datei gefiltert, sodass ausschliesslich Photovoltaikanlagen berücksichtigt wurden, deren Inbetriebnahmedatum zwischen dem 01.01.2015 und dem 31.12.2024 liegt. Die Datei enthält Angaben zur installierten Leistung (in kW), zum Standort (Adresse, Gemeinde und Kanton), zur Kategorie der Anlage sowie zum Zeitpunkt der Inbetriebnahme.
 
