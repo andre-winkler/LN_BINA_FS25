@@ -15,6 +15,13 @@ Ziel ist es, Entscheidungsträgern in Politik, Verwaltung, Energieversorgung und
 
 ### Prognosen im Überblick (Tabellarisch)  
 
+### Prognose Sonnenstunden
+
+TODO Text
+
+<iframe src="assets/diagramme/sunhours_forecast.html"></iframe>
+
+TODO Text
 
 ### Prognose: Entwicklung der installierten PV-Leistung (CH & Kantone)  
 
