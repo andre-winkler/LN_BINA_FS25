@@ -31,6 +31,9 @@ TODO Text
 
 TODO Text
 
+<iframe src="assets/diagramme/cumulative_power_forecast_switzerland.html"></iframe>
+
+
 ### Prognose: Solarstromproduktion (gesamte Schweiz)  
 
 
