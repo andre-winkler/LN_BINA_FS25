@@ -34,7 +34,7 @@
     </blockquote>
   </div>
 
-  <div class="float-right-image" style="width: 250px; text-align: center;">
+  <div class="float-right-image" style="width: 350px; text-align: center;">
     <img src="assets/images/SolarTeam.png" alt="Teamfoto" style="width: 100%; border-radius: 8px;">
     <div class="image-label" style="font-size: 0.9em; margin-top: 0.5em; color: #666;">Erstellt mit ChatGPT</div>
   </div>
