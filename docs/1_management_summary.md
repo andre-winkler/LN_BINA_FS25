@@ -16,3 +16,19 @@ Die im Rahmen dieser Fallstudie entwickelte Strategie prognostiziert eine **Verd
 
 > **Investoren erhalten Zugang zu einem stark wachsenden Markt mit planbaren Fördermechanismen, steigender Nachfrage und gesellschaftlichem Rückenwind.**  
 > Die AmFaAn Energy AG ist bereit, diese Chance zu nutzen – **datenbasiert, regional fokussiert und unternehmerisch mutig**.
+
+<div style="display: flex; gap: 20px; align-items: flex-start; margin: 2rem 0;">
+  <div style="flex: 1;">
+    <h2>Management Summary</h2>
+    <p>
+      Die <strong>AmFaAn Energy AG</strong> ist ein neu gegründetes, datengesteuertes Solarunternehmen mit Sitz in Bern...
+    </p>
+    <!-- Weitere Absätze hier -->
+  </div>
+
+  <div class="float-right-image" style="width: 250px; text-align: center;">
+    <img src="assets/images/SolarTeam.png" alt="Teamfoto" style="width: 100%; border-radius: 8px;">
+    <div class="image-label" style="font-size: 0.9em; margin-top: 0.5em; color: #666;">Erstellt mit ChatGPT</div>
+  </div>
+</div>
+
