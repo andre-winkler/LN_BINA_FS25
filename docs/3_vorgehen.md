@@ -6,7 +6,7 @@ Die Vorgehensweise orientiert sich am **CPA Framework**, einem bewährten Analys
 
 <div class="center-image">
     <img src="assets/images/CPA - Steps.png">
-    <div class="image-label">Die vier ersten Schritte aus dem Framework der CPA | selbst erstellt</div>
+    <div class="image-label">Die fünf Schritte aus dem Framework der CPA | selbst erstellt</div>
 </div>
 
 ---
