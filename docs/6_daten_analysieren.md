@@ -196,19 +196,26 @@ Die nachfolgenden interaktiven Visualisierungen zeigen die durchschnittlichen Ve
 
 ### Choroplethenkarte: PV-Vergütung auf Gemeindeebene
 
-Die folgende Karte zeigt die Einspeisevergütung je Gemeinde für das Jahr **2024**. Diese Detailtiefe erlaubt eine gezielte Standortanalyse – insbesondere für Unternehmen wie die AmFaAn Energy AG, die regionale Unterschiede bei der Vergütung systematisch für Marktstrategien nutzen wollen.
+Die folgende Karte zeigt die durchschnittliche Einspeisevergütung pro Gemeinde für das Jahr **2024** (in Rp./kWh). Diese Visualisierung ermöglicht eine **gezielte, kleinräumige Standortanalyse** – ein entscheidender Vorteil für datengetriebene Unternehmen wie die AmFaAn Energy AG, die regionale Unterschiede systematisch für ihre Markterschliessung nutzen möchten.
 
 <iframe src="assets/diagramme/map_pv_vergütungen.html" style="height: 600px; width: 100%; border: none;"></iframe>
 
 #### Unternehmensbezug:
 
-Die identifizierten Potenziale auf Dach- und Fassadenflächen bieten der AmFaAn Energy AG eine konkrete Datengrundlage für Standortanalysen, Vertriebsstrategien und individuelle Beratung. Besonders in Regionen mit hoher Vergütung (z. B. Jura, Nidwalden oder Zug) können gezielte Kampagnen zur Gewinnung von Kund*innen lohnend sein – vor allem bei kleinteiligen Anlagen, bei denen der Einspeisetarif einen hohen Einfluss auf die Rentabilität hat.
+Die dargestellten Unterschiede in der Einspeisevergütung bilden eine wertvolle **strategische Entscheidungsgrundlage für die AmFaAn Energy AG**. Insbesondere:
+
+- **Hohe Vergütungsregionen** wie **Jura**, **Nidwalden** oder **Zug** eignen sich hervorragend für gezielte Markteintritte und Marketingkampagnen – vor allem im Segment kleiner bis mittelgrosser Anlagen, wo der Vergütungssatz einen direkten Einfluss auf die Amortisationszeit hat.
+- Gemeinden mit **unterdurchschnittlicher Vergütung** können durch alternative Geschäftsmodelle wie **Eigenverbrauchsoptimierung, Speicherlösungen** oder **Direktvermarktung** adressiert werden.
+- Durch die Kombination mit Daten zum ungenutzten Solarpotenzial (vgl. vorherige Kapitel) lassen sich **Gebiete mit hohem Marktpotenzial und gleichzeitig attraktiven Vergütungssätzen identifizieren** – ideal für priorisierte Kundenansprache und Projektplanung.
+
+Insgesamt eröffnet die Analyse der Einspeisevergütung auf Gemeindeebene der AmFaAn Energy AG einen datenbasierten Zugang zur **feingranularen Markterschliessung und Angebotsgestaltung**.
 
 ---
 
 **Quellen:**  
 - VESE – Verband unabhängiger Energieerzeuger  
 - Energieversorgungsunternehmen (EVU), Datenstand: April 2025
+
 
 
 ### Fazit Datenanalyse und Erkenntnisse
