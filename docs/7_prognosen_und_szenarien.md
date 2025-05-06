@@ -40,7 +40,11 @@ TODO Text
 
 ### Prognose: Kosten pro kWp  
 
+TODO Text
 
+<iframe src="assets/diagramme/avg_remuneration_forecast.html"></iframe>
+
+TODO Text
 
 
 ### Politische Entwicklungen und regulatorische Szenarien (qualitativ)
