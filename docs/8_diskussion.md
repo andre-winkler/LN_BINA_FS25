@@ -31,6 +31,4 @@ Gleichzeitig sollten Unternehmen folgende Risiken im Auge behalten:
 - Politische Unsicherheiten (z. B. Änderung der Einspeisevergütung ab 2026) können Geschäftsmodelle destabilisieren.
 - Logistische Engpässe, Fachkräftemangel oder Verzögerungen bei der Bewilligung grösserer Anlagen sind realistische Herausforderungen.
 
-### Fazit
 
-Die Solarenergie in der Schweiz befindet sich auf einem stabilen Wachstumspfad – mit technologischen Fortschritten, solider Förderung und wachsender gesellschaftlicher Akzeptanz. Dennoch bestehen regionale Unterschiede und Unsicherheiten, die bei Strategie- und Investitionsentscheidungen berücksichtigt werden müssen. Die Analyse liefert eine datenbasierte Grundlage, um fundierte Entscheidungen für den Ausbau und die Nutzung von Photovoltaik zu treffen.
