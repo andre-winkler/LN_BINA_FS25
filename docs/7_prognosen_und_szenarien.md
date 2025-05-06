@@ -23,8 +23,13 @@ TODO Text
 
 TODO Text
 
-### Prognose: Entwicklung der installierten PV-Leistung (CH & Kantone)  
+### Prognose: Entwicklung der installierten PV-Leistung
 
+TODO Text
+
+<iframe src="assets/diagramme/cumulative_power_forecast.html"></iframe>
+
+TODO Text
 
 ### Prognose: Solarstromproduktion (gesamte Schweiz)  
 
