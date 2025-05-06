@@ -100,6 +100,10 @@ Erkenntnisse, welche wir gewonnen haben:
 * **Elektromobilität**: Ein deutlicher Anstieg ist im Bereich Elektromobilität zu erkennen, insbesondere ab 2020, was auf die zunehmende Verbreitung von Elektrofahrzeugen hinweist.
 * **Verkehr Beleuchtung und übriger Verkehr**: Diese Kategorien zeigen einen leichten Rückgang, was auf Effizienzsteigerungen oder Änderungen in der Infrastruktur hindeuten könnte.
 
+**Unternehmensbezug:**  
+Die zunehmende Elektrifizierung – insbesondere durch Elektromobilität – signalisiert einen steigenden Bedarf an dezentralem, erneuerbarem Strom. Die AmFaAn Energy AG sollte gezielt Kunden in diesen wachstumsstarken Sektoren ansprechen, z. B. durch kombinierte Angebote für PV-Anlagen und E-Mobility-Ladelösungen.
+
+
 ### Solaranlagen in der Schweiz
 
 Dieses Kapitel zeigt auf, wie sich die installierte Leistung und die Verteilung der Solaranlagen im Zeitraum von 2015 bis 2024 entwickelt haben. Anhand von Visualisierungen wird ersichtlich, in welchen Regionen besonders viele Anlagen gebaut wurden und wo weiteres Potenzial besteht. Die Daten geben zudem Aufschluss darüber, wie geografische und klimatische Bedingungen den Ausbau beeinflussen und welche Unterschiede sich zwischen den einzelnen Kantonen zeigen.
@@ -146,13 +150,17 @@ Die Daten wurden zusammengeführt und georeferenziert, um einen räumlichen Übe
 
 Die Karte zeigt deutliche regionale Unterschiede beim Ausbau der Photovoltaik in der Schweiz. Besonders Gemeinden im Mittelland, nördlich des Genfersees und im Raum Zürich weisen hohe installierte Leistungen auf. Diese Ballungsräume verfügen über eine hohe Gebäudedichte, gute wirtschaftliche Voraussetzungen und teilweise gezielte Fördermassnahmen. In ländlicheren oder gebirgigen Regionen, insbesondere im Südosten und in Teilen des Wallis und Graubündens, fällt die installierte Leistung pro Gemeinde hingegen deutlich geringer aus. Dies deutet auf ungenutztes Potenzial für den weiteren PV-Ausbau in diesen Gebieten hin.
 
+**Unternehmensbezug:**  
+Die Analyse zeigt, wo Photovoltaik bereits weit verbreitet ist und wo Nachholbedarf besteht. Die AmFaAn Energy AG kann diese Erkenntnisse für eine gezielte Marktbearbeitung nutzen – mit besonderem Fokus auf Regionen mit geringer PV-Dichte, um dort First-Mover-Vorteile zu erzielen und Förderprogramme optimal auszuschöpfen.
+
+
 ### Solarpotenzial der Gebäude in der Schweiz: Dächer und Fassaden nach Kanton
 
 Die Gebäude der Schweiz – insbesondere ihre Dach- und Fassadenflächen – bergen ein erhebliches ungenutztes Potenzial für die Solarstromproduktion. In diesem Abschnitt analysieren wir, wie viel Energie theoretisch durch Photovoltaik auf bestehenden Gebäudeflächen in den einzelnen Kantonen erzeugt werden könnte.
 
 Für diese Auswertung haben wir auf die bereits aufbereiteten Daten von [sonnendach.ch](https://www.sonnendach.ch/) zurückgegriffen. Diese Plattform basiert auf umfassenden Berechnungen des Bundesamtes für Energie (BFE) und berücksichtigt Aspekte wie Dachneigung, Ausrichtung, Verschattung und Flächengrösse.
 
-Wir haben uns bewusst für diese Vorgehensweise entschieden, da die Originaldaten als Geopackage-Dateien über 5 GB gross waren. Eine direkte Verarbeitung dieser Rohdaten war technisch nicht möglich, da sowohl der verfügbare Arbeitsspeicher der Webplattform als auch die Leistungsfähigkeit des verwendeten Laptops nicht ausreichten, um diese Datenmengen effizient zu laden und zu analysieren. Insbesondere der Versuch, eine vollständige Folium-Map zu generieren, führte wiederholt zu Abstürzen aufgrund von Speicherüberlastung.
+Wir haben uns bewusst für diese Vorgehensweise entschieden, da die Originaldaten als Geopackage-Dateien über 5 GB gross waren. Eine direkte Verarbeitung dieser Rohdaten war technisch nicht möglich, da sowohl der verfügbare Arbeitsspeicher der Webplattform als auch die Leistungsfähigkeit des verwendeten Laptops nicht ausreichten, um diese Datenmengen effizient zu laden und zu analysieren. Insbesondere der Versuch, eine vollständige Folium-Map zu generieren, führte wiederholt zu Abstürzen aufgrund von Speicherüberlastung.
 
 <iframe src="https://map.geo.admin.ch/#/embed?lang=de&center=2669890.62,1173563.63&z=0&topic=energie&layers=ch.bfe.solarenergie-eignung-daecher;ch.bfe.solarenergie-eignung-fassaden&bgLayer=ch.swisstopo.swissimage&featureInfo=default" style="border: 0;width: 100%;height: 650px;max-width: 100%;max-height: 100%;" allow="geolocation"></iframe>
 
@@ -166,39 +174,70 @@ Insgesamt belegen die Ergebnisse, dass die bestehende Gebäudeinfrastruktur in d
 
 <iframe src="assets/diagramme/pot_solarenergie_pro_kanton.html" style="height: 550px !important"></iframe>
 
-TODO Amel
+**Unternehmensbezug:**  
+Für die AmFaAn Energy AG bieten die kantonalen Unterschiede im Solarpotenzial eine klare Orientierung für Markterschliessung und Vertriebsstrategie. Besonders in Kantonen mit hohem Potenzial und bisher geringer Ausbaudichte – wie Jura, Nidwalden oder Glarus – ergeben sich attraktive Chancen für First-Mover-Positionierungen. Auch die gezielte Erschliessung von Fassadenflächen in urbanen Räumen könnte für die Firma ein innovatives Alleinstellungsmerkmal darstellen.
+
 
 ### PV-Vergütungen
 
-TODO Amel
+Die durchschnittlichen Einspeisevergütungen für Solarstrom unterscheiden sich in der Schweiz stark zwischen den Kantonen – sowohl in ihrer Höhe als auch in ihrer Entwicklung über die letzten Jahre. Die Höhe dieser Vergütung (in Rp./kWh) beeinflusst wesentlich die Wirtschaftlichkeit einer PV-Anlage und kann ein entscheidender Faktor bei Investitionsentscheidungen sein.
 
-<iframe src="assets/diagramme/pv_vergütungen.html"></iframe>
+Die nachfolgenden interaktiven Visualisierungen zeigen die durchschnittlichen Vergütungssätze pro Kanton und Jahr (2017–2024). Besonders auffällig sind die kantonalen Ausreisser mit sehr hohen oder sehr niedrigen Tarifen. Kantone wie Obwalden, Nidwalden oder Jura zeigen teils überdurchschnittliche Werte in einzelnen Jahren, während andere Kantone konstant unter dem Durchschnitt liegen.
 
-TODO Amel
+<iframe src="assets/diagramme/pv_vergütungen.html" style="height: 550px; width: 100%; border: none;"></iframe>
 
-<iframe src="assets/diagramme/map_pv_vergütungen.html"></iframe>
+#### Zentrale Beobachtungen:
 
-TODO Amel
+- **Starke regionale Unterschiede**: Während manche Kantone wie OW, JU oder ZG in bestimmten Jahren sehr hohe Vergütungssätze (> 20 Rp./kWh) aufwiesen, liegen andere wie ZH oder AR konstant im unteren Bereich (< 10 Rp./kWh).
+- **Spitzenwerte 2022**: Besonders 2022 kam es in mehreren Kantonen zu deutlichen Ausschlägen nach oben – teilweise mit über 30 Rp./kWh. Dies könnte auf temporäre Sondertarife oder Anpassungen durch lokale EVUs zurückzuführen sein.
+- **Tendenz zur Angleichung**: Ab 2023 ist eine gewisse Konvergenz erkennbar – viele Kantone bewegen sich zwischen 13 und 18 Rp./kWh.
+
+---
+
+### Choroplethenkarte: PV-Vergütung auf Gemeindeebene
+
+Die folgende Karte zeigt die durchschnittliche Einspeisevergütung pro Gemeinde für das Jahr **2024** (in Rp./kWh). Diese Visualisierung ermöglicht eine **gezielte, kleinräumige Standortanalyse** – ein entscheidender Vorteil für datengetriebene Unternehmen wie die AmFaAn Energy AG, die regionale Unterschiede systematisch für ihre Markterschliessung nutzen möchten.
+
+<iframe src="assets/diagramme/map_pv_vergütungen.html" style="height: 600px; width: 100%; border: none;"></iframe>
+
+#### Unternehmensbezug:
+
+Die dargestellten Unterschiede in der Einspeisevergütung bilden eine wertvolle **strategische Entscheidungsgrundlage für die AmFaAn Energy AG**. Insbesondere:
+
+- **Hohe Vergütungsregionen** wie **Jura**, **Nidwalden** oder **Zug** eignen sich hervorragend für gezielte Markteintritte und Marketingkampagnen – vor allem im Segment kleiner bis mittelgrosser Anlagen, wo der Vergütungssatz einen direkten Einfluss auf die Amortisationszeit hat.
+- Gemeinden mit **unterdurchschnittlicher Vergütung** können durch alternative Geschäftsmodelle wie **Eigenverbrauchsoptimierung, Speicherlösungen** oder **Direktvermarktung** adressiert werden.
+- Durch die Kombination mit Daten zum ungenutzten Solarpotenzial (vgl. vorherige Kapitel) lassen sich **Gebiete mit hohem Marktpotenzial und gleichzeitig attraktiven Vergütungssätzen identifizieren** – ideal für priorisierte Kundenansprache und Projektplanung.
+
+Insgesamt eröffnet die Analyse der Einspeisevergütung auf Gemeindeebene der AmFaAn Energy AG einen datenbasierten Zugang zur **feingranularen Markterschliessung und Angebotsgestaltung**.
+
+---
+
+**Quellen:**  
+- VESE – Verband unabhängiger Energieerzeuger  
+- Energieversorgungsunternehmen (EVU), Datenstand: April 2025
+
+
 
 ### Fazit Datenanalyse und Erkenntnisse
 
 Die umfassende Analyse über den Zeitraum der letzten zehn Jahre liefert ein klares Bild der klimatischen, geografischen und energietechnischen Entwicklungen in der Schweiz. Im Zentrum stehen die steigende Bedeutung der Solarenergie sowie deren regional unterschiedliche Verbreitung.
 
-Wetter und Sonnenstunden:
+**Wetter und Sonnenstunden:**  
 Die Auswertung der MeteoSchweiz-Daten zeigt eine erwartungsgemässe saisonale Verteilung der Sonnenstunden: Hohe Werte im Sommer, niedrige im Winter. Besonders auffällig ist jedoch der Trend zu mehr Sonnenstunden im Frühling und Herbst – ein positiver Faktor für die gleichmässigere Nutzung von Solarenergie über das Jahr hinweg. Auch regional bestehen klare Unterschiede, wobei sich der Süden (z. B. Tessin) durch besonders viele Sonnenstunden auszeichnet, ebenso wie einige hochgelegene Standorte. Dies unterstreicht die Relevanz standortbezogener Analysen für zukünftige PV-Investitionen.
 
-Solarenergie und Stromproduktion:
+**Solarenergie und Stromproduktion:**  
 Der Anteil der Solarenergie an der gesamten Stromproduktion hat sich in der Dekade deutlich erhöht – fast verfünffacht – und trägt mittlerweile signifikant zur Energieversorgung bei. Dennoch bleibt ihr Anteil im Vergleich zu Wasserkraft und Kernenergie gering. Die Entwicklung des Wirkungsgrads von PV-Modulen zeigt technologische Fortschritte, die es ermöglichen, auf gleicher Fläche zunehmend mehr Energie zu erzeugen.
 
-Stromverbrauch und Elektromobilität:
+**Stromverbrauch und Elektromobilität:**  
 Während der Stromverbrauch in den meisten Sektoren stabil blieb oder leicht zurückging, zeigt sich ein starker Anstieg im Bereich Elektromobilität. Diese Entwicklung hebt den wachsenden Bedarf an erneuerbarem Strom hervor und betont die Notwendigkeit eines zügigen Ausbaus von Solar- und anderen erneuerbaren Energiequellen.
 
-Regionale Unterschiede beim PV-Ausbau:
+**Regionale Unterschiede beim PV-Ausbau:**  
 Die regionale Analyse des PV-Ausbaus zeigt klare Schwerpunkte in wirtschaftlich starken und bevölkerungsreichen Kantonen sowie in urbanen Zentren. Gleichzeitig offenbart die Choroplethenkarte ungenutztes Potenzial in alpinen und strukturschwächeren Regionen. Die Unterschiede lassen sich durch eine Kombination aus Fördermassnahmen, wirtschaftlichen Bedingungen, technischer Umsetzbarkeit und politischem Willen erklären.
 
-Gesamtbetrachtung:
+**Gesamtbetrachtung:**  
 Die Ergebnisse belegen, dass die Schweiz beim Ausbau der Solarenergie bedeutende Fortschritte gemacht hat, jedoch weiterhin regionale Disparitäten bestehen. Das Potenzial ist noch nicht ausgeschöpft – weder technologisch noch geographisch. Eine gezieltere Förderung in bisher unterrepräsentierten Regionen, gekoppelt mit weiteren Effizienzsteigerungen bei PV-Anlagen, könnte die nachhaltige Energiezukunft der Schweiz entscheidend voranbringen.
 
-Diese Erkenntnisse bieten eine solide Grundlage für politische Entscheidungen, Investitionsstrategien und die zukünftige Ausrichtung der Schweizer Energiepolitik.
+**Unternehmensbezug:**  
+Die gewonnenen Erkenntnisse sind nicht nur für Politik und Gesellschaft relevant, sondern auch direkt auf unternehmerische Entscheidungen übertragbar. Unternehmen, insbesondere aus Industrie, Energieversorgung und Immobilienwirtschaft, können die regionalen Analysen und Prognosen nutzen, um gezielt in PV-Anlagen zu investieren – sei es zur Eigenstromproduktion, zur CO₂-Reduktion oder zur Verbesserung der ESG-Bilanz. Die Daten zur Sonneneinstrahlung, zur Förderlandschaft und zur Entwicklung der Einspeisevergütung bieten eine fundierte Grundlage für Investitionsentscheidungen in der Schweiz. Auch Unternehmen ohne direkten Energiefokus können von einer strategischen Auseinandersetzung mit Solarenergie profitieren, etwa durch Kooperationen, Flächennutzung oder als Beitrag zur Dekarbonisierung ihrer Lieferkette.
 
 ----

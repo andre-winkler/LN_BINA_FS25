@@ -1,15 +1,22 @@
 ## Daten sammeln
-Eine fundierte Analyse der Solarenergie in der Schweiz basiert auf vielfältigen Datenquellen. Für diese Fallstudie wurden meteorologische, technische und wirtschaftliche Daten erhoben und in ein gemeinsames Datenmodell überführt. Für die Analyse des Solarpotenzials in der Schweiz wurden umfassende Datensätze aus offiziellen Quellen zusammengetragen und aufbereitet. Die wichtigsten Daten stammen vom Bundesamt für Energie (BFE) und MeteoSwiss. Das BFE liefert detaillierte Informationen zur installierten Solarleistung, der Anzahl an Photovoltaikanlagen, den Einspeisevergütungen sowie zu Subventionen und Förderprogrammen. Diese Daten ermöglichen eine genaue Untersuchung der Entwicklung der Solarenergie in der Schweiz über die letzten zehn Jahre und helfen dabei, wirtschaftliche und politische Einflussfaktoren zu bewerten.
 
-Neben den wirtschaftlichen und technischen Aspekten ist die Sonneneinstrahlung der entscheidende Faktor für die Effizienz und Leistungsfähigkeit von Solaranlagen. Um diesen Einfluss zu quantifizieren, wurden die Daten von MeteoSwiss herangezogen. Sie enthalten Messwerte zur Globalstrahlung, den täglichen Sonnenstunden und den Temperaturen an verschiedenen Wetterstationen in der Schweiz. Diese Parameter sind essenziell, um den Zusammenhang zwischen Sonnenenergie und Stromproduktion zu analysieren. Darüber hinaus erlauben sie eine saisonale Betrachtung, da die Solarleistung im Sommer deutlich höher ist als in den Wintermonaten.
+Für die Entwicklung einer fundierten Markteintrittsstrategie der **AmFaAn Energy AG** ist eine belastbare Datenbasis entscheidend. In dieser Arbeit wurden meteorologische, technische und wirtschaftliche Daten erhoben, um regionale Potenziale für Photovoltaik (PV) in der Schweiz zu identifizieren. Die Daten dienen dazu, strategische Entscheidungen der AmFaAn Energy AG – wie etwa Standortwahl, Zielregionen oder Produktausrichtung – datenbasiert vorzubereiten.
+
+Im Folgenden werden die genutzten Datenquellen, deren Qualität und Aufbereitung sowie die Datenmodellierung beschrieben. Die daraus abgeleiteten Kennzahlen bilden die Grundlage für alle nachfolgenden Analysen, Prognosen und Geschäftsempfehlungen.
+
+Eine fundierte Analyse der Solarenergie in der Schweiz basiert auf vielfältigen Datenquellen. Für diese Fallstudie wurden meteorologische, technische und wirtschaftliche Daten erhoben und in ein gemeinsames Datenmodell überführt. Für die Analyse des Solarpotenzials in der Schweiz wurden umfassende Datensätze aus offiziellen Quellen zusammengetragen und aufbereitet. Die wichtigsten Daten stammen vom Bundesamt für Energie (BFE) und MeteoSchweiz. Das BFE liefert detaillierte Informationen zur installierten Solarleistung, der Anzahl an Photovoltaikanlagen, den Einspeisevergütungen sowie zu Subventionen und Förderprogrammen. Diese Daten ermöglichen eine genaue Untersuchung der Entwicklung der Solarenergie in der Schweiz über die letzten zehn Jahre und helfen dabei, wirtschaftliche und politische Einflussfaktoren zu bewerten.
+
+Neben den wirtschaftlichen und technischen Aspekten ist die Sonneneinstrahlung der entscheidende Faktor für die Effizienz und Leistungsfähigkeit von Solaranlagen. Um diesen Einfluss zu quantifizieren, wurden die Daten von MeteoSchweiz herangezogen. Sie enthalten Messwerte zur Globalstrahlung, den täglichen Sonnenstunden und den Temperaturen an verschiedenen Wetterstationen in der Schweiz. Diese Parameter sind essenziell, um den Zusammenhang zwischen Sonnenenergie und Stromproduktion zu analysieren. Darüber hinaus erlauben sie eine saisonale Betrachtung, da die Solarleistung im Sommer deutlich höher ist als in den Wintermonaten.
 
 Die gesammelten Daten wurden nach ihrer Bereinigung in ein einheitliches Format überführt. Um eine präzisere Analyse zu ermöglichen, erfolgte die Aggregation auf Stundenbasis. Dies erlaubt eine genauere Untersuchung von Trends und Schwankungen im Tagesverlauf sowie eine präzisere Modellierung der Solarstromproduktion. Die Kombination dieser umfangreichen Datensätze bildet die Grundlage für die Untersuchung der Vergangenheit und ermöglicht es, Prognosen für die zukünftige Entwicklung der Solarenergie in der Schweiz abzuleiten.
 
-### MeteoSchweiz - Sonnenstunden je Wetterstation
-#### Datenquelle
-Die meteorologischen Daten stammen von MeteoSchweiz und wurden über die Plattform IDAWeb bezogen. Die Datengrundlage basiert auf einem Netz von 132 automatisierten Wetterstationen, die flächendeckend in der ganzen Schweiz verteilt sind. Eine Ausnahme bildet der Kanton Appenzell Ausserrhoden (AR), in dem derzeit keine Wetterstation betrieben wird, siehe Kapitel "Wetterentwicklung in der Schweiz".
+### MeteoSchweiz – Sonnenstunden je Wetterstation
 
-Für die vorliegende Analyse wurde der Zeitraum vom 01.01.2015 bis zum 31.12.2024 ausgewertet. In IDAWeb wurde gezielt nach dem Parameter «Sonnenstunden» gefiltert. Zusätzlich wurde ein Stationsfilter angewendet, um ausschliesslich Wetterstationen innerhalb der Schweiz auszuwählen. Die so extrahierten Daten bilden die Grundlage für die Analyse der saisonalen und regionalen Unterschiede in der Sonneneinstrahlung.
+#### Datenquelle
+
+Die meteorologischen Daten stammen von MeteoSchweiz und wurden über die Plattform IDAWeb bezogen. Die Datengrundlage basiert auf einem Netz von 132 automatisierten Wetterstationen, die flächendeckend in der ganzen Schweiz verteilt sind. Eine Ausnahme bildet der Kanton Appenzell Ausserrhoden (AR), in dem derzeit keine Wetterstation betrieben wird.
+
+Für die vorliegende Analyse wurde der Zeitraum vom 01.01.2015 bis zum 31.12.2024 ausgewertet. In IDAWeb wurde gezielt nach dem Parameter «Sonnenstunden» gefiltert. Zusätzlich wurde ein Stationsfilter angewendet, um ausschliesslich Wetterstationen innerhalb der Schweiz auszuwählen.
 
 Der Zugriff auf die Daten erforderte eine offizielle Registrierung bei MeteoSchweiz. Zu diesem Zweck wurde ein entsprechendes Formular unterzeichnet und eingereicht. Die Daten dürfen ausschliesslich für Lehre und Forschung verwendet werden.
 
@@ -19,96 +26,104 @@ Der Zugriff auf die Daten erforderte eine offizielle Registrierung bei MeteoSchw
 </div>
 
 #### Datenqualität und Bereinigung
-Die Messdaten von MeteoSchweiz gelten als sehr zuverlässig, da sie vom nationalen Wetterdienst kontinuierlich erhoben, validiert und überwacht werden. Gemäss Rückmeldung von MeteoSchweiz wurden zwischen 2020 und 2023 sämtliche relevanten Wetterstationen auf direkte Messung der Sonnenscheindauer umgerüstet. Seit dem 4. August 2023 liegen daher ausschliesslich gemessene Daten vor. Frühere Werte basieren teilweise auf berechneten Modellen.
 
-In der Datenaufbereitung zeigte sich, dass nicht für alle Stationen in allen Jahren vollständige Werte vorlagen – sei es, weil eine Station noch nicht in Betrieb war, oder weil sie temporär ausser Betrieb war (z. B. durch Wartungen oder technische Störungen). Für diese Fälle wurden jährliche Durchschnittswerte anderer Stationen desselben Kantons als Näherung verwendet. Insgesamt waren davon 2'561 von 15'960 Datensätzen betroffen, was einem Anteil von 16.05 % entspricht. Diese Verrechnungen wurden bei der Interpretation entsprechend berücksichtigt.
+Die Messdaten von MeteoSchweiz gelten als sehr zuverlässig. Zwischen 2020 und 2023 wurden alle relevanten Wetterstationen auf direkte Messung der Sonnenscheindauer umgerüstet. Seit August 2023 liegen daher ausschliesslich gemessene Daten vor. Frühere Werte basieren teilweise auf Modellrechnungen.
 
-Technisch mussten folgende Daten-Bereinigungen und - Anpassungen vorgenommen werden (siehe ipynb\meteo_swiss_data.ipynb):
-* Die Datensets der Wetterdaten und Wetterstationen zusammenführen
-* Lichtenstein filtern
-* Konvertieren in Datumsformat zum zusätzlichen filtern
-* Konvertieren in Zahlenformate
-* Gruppieren von Daten
-* ...
+Lückenhafte Messwerte (z. B. durch Ausfälle oder Wartungen) wurden durch Näherungswerte anderer Stationen im selben Kanton ersetzt (2'561 von 15'960 Datensätzen betroffen – 16.05 %). Diese Näherungen wurden bei der Analyse entsprechend berücksichtigt.
 
+Technische Schritte in der Datenaufbereitung:
+
+- Zusammenführen von Wetterdaten und Stationsdaten
+- Herausfiltern von Liechtenstein
+- Umwandlung von Datums- und Zahlenformaten
+- Gruppierung nach Zeit und Ort
 
 #### Messmethoden und Annahmen
-Die Bestimmung der Sonnenscheindauer erfolgt bei MeteoSchweiz auf Basis eines festgelegten Schwellenwerts für die Globalstrahlung. Überschreitet die Strahlung einen Wert von 200 W/m², gilt der entsprechende Zeitraum als sonnig. Dieser Schwellenwert ist im internationalen Vergleich relativ hoch – in vielen anderen Ländern wird ein Wert von nur 120 W/m² verwendet. Dies hat Einfluss auf die ausgewiesene Anzahl an Sonnenstunden und muss bei internationalen Vergleichen entsprechend berücksichtigt werden.
 
-Ein weiterer relevanter Punkt betrifft die Messgeometrie: Die Globalstrahlung wird horizontal zur Erdoberfläche gemessen. Photovoltaikanlagen hingegen sind in der Regel geneigt montiert, um den Einfallswinkel des Sonnenlichts zu optimieren. Dadurch unterscheidet sich die effektive Einstrahlung auf Solarpanels von den gemessenen Werten. Eine direkte Übertragung der gemessenen Strahlung auf die reale Stromproduktion ist deshalb nur eingeschränkt möglich.
+Sonnenstunden werden bei MeteoSchweiz registriert, sobald die Globalstrahlung über 200 W/m² liegt – ein im internationalen Vergleich hoher Schwellenwert. Das beeinflusst die Vergleichbarkeit mit anderen Ländern.
 
-Für detaillierte Modellierungen und physikalisch fundierte Abschätzungen stehen ergänzend Messwerte zur diffusen und teilweise auch zur direkten Strahlung zur Verfügung – alle in der Einheit Watt pro Quadratmeter (W/m²). Diese ermöglichen eine differenziertere Betrachtung der lokalen Einstrahlungsverhältnisse.
+Zudem erfolgt die Messung horizontal, während PV-Anlagen geneigt montiert sind. Daher sind die Werte für Planungszwecke nur bedingt direkt übertragbar.
 
-### Bundesamt für Energie (BFE) - Elektrische Produktionsanlagen 
+---
+
+### Bundesamt für Energie (BFE) – Elektrische Produktionsanlagen
+
 #### Datenquelle
-Die Datengrundlage dieses Abschnitts basiert auf mehreren CSV-Dateien, der über die Plattform opendata.swiss bezogen wurde. Diese Datensätze werden vom Bundesamt für Energie (BFE) zur Verfügung gestellt und enthält Informationen zu elektrischen Produktionsanlagen in der Schweiz.
 
-Für diese Analyse wurde die Datei gefiltert, sodass ausschliesslich Photovoltaikanlagen berücksichtigt wurden, deren Inbetriebnahmedatum zwischen dem 01.01.2015 und dem 31.12.2024 liegt. Die Datei enthält Angaben zur installierten Leistung (in kW), zum Standort (Adresse, Gemeinde und Kanton), zur Kategorie der Anlage sowie zum Zeitpunkt der Inbetriebnahme.
+Die Daten des Bundesamts für Energie wurden via [opendata.swiss](https://www.iwf.ch/web-solutions/showcase/web-applikation-fuer-das-bundesamt-fuer-energie) bezogen. Für die Analyse wurden ausschliesslich Photovoltaikanlagen berücksichtigt, die zwischen dem 01.01.2015 und dem 31.12.2024 in Betrieb genommen wurden.
+
+Enthalten sind:
+
+- Inbetriebnahmedatum
+- Installierte Leistung (kW)
+- Standortdaten (Gemeinde, Kanton)
+- Anlagentyp
 
 <div class="float-right-image" style="width: 250px">
     <img src="assets/images/bfe_logo.png">
     <div class="image-label">https://www.iwf.ch/web-solutions/showcase/web-applikation-fuer-das-bundesamt-fuer-energie</div>
 </div>
 
- Für die Erstellung einer Choroplethenkarte, die die Leistung der Photovoltaikanlagen (PV-Anlagen) pro Gemeinde darstellt, traten mehrere Herausforderungen auf. Zunächst wurden GeoJSON-Daten benötigt, um die Gemeindegrenzen darzustellen. Die Datei Gemeinden.geojson von github.com/cividi/ch-municipalities war die passendste verfügbare Ressource, jedoch bereits 4 Jahre alt. Mit Folium Choropleth konnten die Gemeindegrenzen auf einer Karte angezeigt werden, jedoch war die exportierte Karte zu gross. Daher mussten die Geometrien der GeoJSON-Features vereinfacht werden, um die Daten leichter darstellbar zu machen.
-
-Ein weiteres Problem war der Datenabgleich der PV-Anlagen mit den GeoJSON-Daten der Gemeinden. In den Geodaten war die BFS-Nummer der Gemeinden vorhanden, in den PV-Anlagendaten jedoch die Postleitzahl (PLZ). Zudem sind Gemeinden keine statischen Einheiten und verändern sich über die Jahre durch Fusionen, Namensänderungen oder Auflösungen. Diese Dynamik erschwerte den direkten Abgleich der Daten.
-
-Da keine der Optionen wie Gemeindename, Adresse oder Geodaten sinnvoll funktionierte, wurde ein Umweg über die historischen Gemeindedaten (AMTOVZ_CSV_WGS84.csv) vom Amtlichen Ortschaftenverzeichnis auf opendata.swiss genommen. Mithilfe dieser Daten konnten die meisten PLZ-Einträge zu BFS-Nummern gematched werden, bis auf 33 Fälle. Für diese Fälle wurden Standardwerte verwendet.
-
-
-
 #### Datenqualität und Bereinigung
-Die Daten basieren auf Einträgen im offiziellen Produktionsanlagenregister und gelten als konsistent sowie gut strukturiert. Da es sich um Primärdaten handelt, wurden sie nicht verändert oder ergänzt. Es fanden weder Aggregationen noch Schätzungen statt. Die Inbetriebnahmedaten erlauben zeitlich präzise Auswertungen pro Jahr, während die Standortinformationen eine regionale Analyse ermöglichen.
 
-#### Messmethoden und Annahmen
-Der Datensatz enthält Angaben zur installierten Leistung (in kW), zum Inbetriebnahmedatum sowie zu Standortangaben. Er enthält keine Informationen zur effektiven Stromproduktion, zu Einspeisewerten oder zu technischen Details wie Ausrichtung oder Verschattung. Die Analyse beschränkt sich entsprechend auf die zeitliche und geografische Verteilung der installierten PV-Leistung.
+Die Daten gelten als strukturiert, vollständig und konsistent. Alle Angaben stammen aus offiziellen Registern. Aggregationen oder Schätzungen wurden nicht vorgenommen.
 
-### Verband unabhängiger Energieerzeuger (VESE) - Einspeisevergütung
+#### Technische Herausforderungen bei der Visualisierung
+
+- Die GeoJSON-Datei zur Gemeindedarstellung war veraltet und musste vereinfacht werden.
+- BFS-Nummern waren in den Geo-Daten, aber nicht in den PV-Daten enthalten.
+- Die Zuordnung der PLZ zu BFS-Nummern erfolgte über historische Gemeindedaten (AMTOVZ_CSV_WGS84.csv).
+- 33 Gemeinden konnten nicht eindeutig zugeordnet werden – hier wurden Standardwerte verwendet.
+
+---
+
+### Verband unabhängiger Energieerzeuger (VESE) – Einspeisevergütungen
+
 #### Datenquelle
+
+Die VESE-Daten enthalten Angaben zu Einspeisetarifen pro Energieversorgungsunternehmen und Jahr. Diese Informationen wurden über eine API bezogen, die gegen Lizenzvereinbarung zur Verfügung gestellt wurde.
+
+Alternativ stand eine Excel-Version zur Verfügung (CHF 75, akademische Nutzung), jedoch wurde aus Effizienzgründen die API-Variante verwendet.
 
 <div class="float-right-image" style="width: 250px">
     <img src="assets/images/vese_logo.png">
     <div class="image-label">https://www.sses.ch/de/regional-und-fachgruppen/vese/</div>
 </div>
-Für die Analyse der wirtschaftlichen Rahmenbedingungen im Bereich der Solarenergie wurde ergänzend auf Daten des VESE – Verband unabhängiger Energieerzeuger zurückgegriffen. Der VESE ist eine Fachgruppe der Schweizerischen Vereinigung für Sonnenenergie (SSES) und unterstützt insbesondere Kleinproduzenten und Prosumenten bei regulatorischen, technischen und wirtschaftlichen Fragestellungen rund um die Stromproduktion aus erneuerbaren Energien.
-
-Die von VESE bereitgestellten Daten beziehen sich auf die Einspeisevergütungen für Photovoltaik-Anlagen in der Schweiz. Die Vergütungen werden dabei pro Energieversorgungsunternehmen (EVU) und pro Jahr angegeben und ermöglichen eine präzise wirtschaftliche Analyse auf regionaler Ebene.
-
-Der Zugang zu den vollständigen historischen Rohdaten wurde über eine API-Schnittstelle realisiert, welche durch eine individuelle Lizenzvereinbarung zur Verfügung gestellt wurde. Die API enthält Daten ab dem Jahr 2015 bis mindestens Anfang 2025. Alternativ wurde vom VESE auch ein Excel-Datensatz angeboten, der jedoch mit Kosten verbunden war (CHF 75 für akademische Nutzung), weshalb die API-Variante bevorzugt wurde.
 
 #### Datenqualität und Bereinigung
+
+Die Einspeisevergütungen gelten als realitätsnah und wurden direkt von den EVUs gemeldet. Es handelt sich um Durchschnittswerte je Jahr und Netzregion. Lokale Spezialtarife oder zeitlich gestaffelte Modelle sind nicht explizit enthalten.
+
 #### Messmethoden und Annahmen
-Die Einspeisevergütung wird von den Energieversorgern individuell festgelegt. VESE erhebt jährlich die Tarife und aggregiert diese nach Regionen und Netzbetreibern. Die gelieferten Daten geben daher einen realitätsnahen Überblick über die wirtschaftlichen Anreize für die Einspeisung von Solarstrom ins Netz. Da es sich bei den meisten Werten um gemeldete Durchschnittswerte handelt, können lokale Sondertarife, Eigenverbrauchsmodelle oder zeitlich gestaffelte Tarife in Einzelfällen abweichen.
 
-Die Aggregation in der Analyse erfolgte auf Jahressicht. Monatliche oder saisonale Vergütungsschwankungen sind in den VESE-Daten nicht enthalten. Für die Einbindung in die Prognosemodelle wurde angenommen, dass sich die durchschnittliche Einspeisevergütung bei gleichbleibender regulatorischer Lage stabil entwickelt.
+- Aggregation auf **Jahresbasis**
+- Annahme: **Vergütung bleibt bei stabiler Gesetzeslage konstant**
+- Keine monatliche oder saisonale Granularität verfügbar
 
------Monats oder Jahressicht, bitte klären!!!!!!----- (Notiz an mich selbst - Amel)
+---
 
-### Datenmodellierung
-#### Ziel der Datenmodellierung
-Die Datenmodellierung hatte zum Ziel, die verschiedenen Datenquellen dieser Fallstudie – MeteoSchweiz, Bundesamt für Energie (BFE) und der Verband VESE – in eine einheitliche Struktur zu überführen. Nur so war es möglich, die Daten sinnvoll miteinander zu verknüpfen, zu analysieren und Prognosen zu erstellen. Ein besonderer Fokus lag auf der zeitlichen und regionalen Vergleichbarkeit der Werte.
+## Datenmodellierung
 
-#### Vorgehen bei der Modellierung
-Die Modellierung erfolgte auf Basis der bereits bereinigten Datensätze (siehe Kapitel "Datenqualität und Bereinigung"). Dabei wurden folgende Schritte durchgeführt:
+### Ziel der Datenmodellierung
 
-- Standardisierung der Zeitdimension:
-    Alle Datensätze wurden auf Monats- oder Jahreswerte aggregiert, abhängig von der Datenverfügbarkeit (z. B. MeteoSchweiz: monatlich, VESE: jährlich).
+Die drei Datenquellen (MeteoSchweiz, BFE, VESE) wurden in ein gemeinsames Modell überführt, um:
 
-- Geografische Zuordnung:
-    Die Daten wurden soweit möglich kantonal oder kommunal aufbereitet. Wetterstationen wurden Gemeinden bzw. Kantonen zugewiesen, Einspeisevergütungen den Netzbetreibern und damit ebenfalls geografischen Regionen.
+- Regionen mit hohem Solarpotenzial zu identifizieren
+- wirtschaftliche, technische und klimatische Faktoren zu verknüpfen
+- Prognosen bis 2030 zu ermöglichen (z. B. bei PV-Ausbau oder Stromproduktion)
 
-- Einheitliche Formate und Einheiten:
-    Die Werte wurden vereinheitlicht (z. B. kW → MW, CHF/kWh), um eine konsistente Darstellung in den Visualisierungen zu ermöglichen.
+### Vorgehen bei der Modellierung
 
-- Verknüpfung der Datenquellen:
-    Die bereinigten und standardisierten Datensätze wurden in einem gemeinsamen Datenmodell zusammengeführt. Dies ermöglichte z. B. die Kombination von meteorologischen Daten mit installierter Solarleistung oder Einspeisevergütungen auf regionaler Ebene.
+- **Zeitliche Standardisierung:** Monats- oder Jahreswerte je nach Quelle
+- **Geografische Verknüpfung:** Wetterstationen → Gemeinden → Kantone / EVUs → Netzregionen
+- **Einheitskonvertierung:** z. B. kW → MW, CHF/kWh
+- **Datenzusammenführung:** meteorologische, technische und wirtschaftliche Daten
+- **Prognosefähigkeit:** Aufbau einer Zeitreihe für zukünftige Modellierungen
 
-- Strukturierung für Prognosen:
-    Für die Erstellung der Prognose wurde eine geeignete Datenbasis mit Zeitreihe aufgebaut, um diese später modellgestützt fortzuschreiben. Dabei wurden auch externe Faktoren wie Förderung oder Stromverbrauch berücksichtigt.
+### Tools und Umsetzung
 
-#### Tools und Umsetzung
-Die technische Umsetzung der Modellierung erfolgte mit Python in einem Google-Colab-Notebook. Die Daten wurden überwiegend im CSV-Format verarbeitet und mit Pandas sowie weiteren Bibliotheken transformiert. Für die Visualisierung kamen Plotly und Matplotlib zum Einsatz. Die Prognose-Modelle befinden sich derzeit in Bearbeitung und werden im Kapitel „Prognosen und Szenarien“ dokumentiert.
+- **Python (Google Colab)** für Bereinigung, Analyse und Visualisierung
+- **Pandas** für Datenmanipulation, **Plotly** und **Matplotlib** für Grafiken
+- Datenspeicherung primär im **CSV-Format**, vereinzelt GeoJSON (Gemeinden)
 
-
-
+Die Prognosemodelle werden im Kapitel „Prognosen und Szenarien“ näher beschrieben.
