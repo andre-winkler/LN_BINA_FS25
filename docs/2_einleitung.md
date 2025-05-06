@@ -1,3 +1,39 @@
+## Unternehmensprofil: AmFaAn Energy AG
+
+Im Rahmen des Masterstudiums an der FFHS haben **Fabienne Ghirardin**, **Amel Kujovic** und **André Winkler** die fiktive Geschäftsidee der **AmFaAn Energy AG** entwickelt. Die Namensgebung setzt sich aus den Anfangsbuchstaben der drei Vornamen zusammen – als Symbol für Teamgeist, Innovation und nachhaltige Energiezukunft.
+
+Die AmFaAn Energy AG versteht sich als datengetriebenes Unternehmen im Bereich der erneuerbaren Energien mit Fokus auf **Photovoltaiklösungen für Privatpersonen, Unternehmen und öffentliche Institutionen**. Ziel ist es, das **ungenutzte Solarpotenzial** in der Schweiz systematisch zu erschliessen und **maßgeschneiderte PV-Anlagen** anzubieten – basierend auf fundierter Analyse von Sonnenstunden, regionaler Eignung und wirtschaftlichen Rahmenbedingungen.
+
+### Vision
+
+> „Wir machen regionale Sonnenenergie messbar, nutzbar und wirtschaftlich – für eine unabhängige und klimafreundliche Schweiz.“
+
+### Leitbild
+
+- **Nachhaltigkeit:** Unsere Lösungen orientieren sich an den Prinzipien ökologischer Verantwortung und CO₂-Reduktion.
+- **Transparenz:** Wir beraten objektiv, datengestützt und unabhängig.
+- **Innovation:** Wir nutzen modernste Technologien, um intelligente PV-Konzepte zu entwickeln.
+- **Regionalität:** Wir fördern lokale Wertschöpfung durch Kooperationen mit Installationsbetrieben und Gemeinden.
+
+### Dienstleistungsportfolio
+
+- Standortanalyse und Machbarkeitsstudien basierend auf realen Wetterdaten
+- Planung und Umsetzung von PV-Anlagen (Dach, Fassade, Agri-PV, Carports)
+- Integration von Speicherlösungen, E-Mobility-Ladepunkten und Smart-Home-Systemen
+- Fördermittelberatung (EIV, kantonale Programme, Winterboni)
+- Monitoring, Wartung und Wirtschaftlichkeitsoptimierung bestehender Anlagen
+
+### Zielgruppen
+
+- Private Hausbesitzer*innen mit Interesse an Autarkie oder Rendite
+- KMUs mit Energiebedarf und Dachflächen
+- Landwirtschaftliche Betriebe (Agri-PV)
+- Gemeinden und kantonale Stellen mit Interesse an nachhaltigen Infrastrukturen
+
+---
+
+**Standortwahl und Markteintrittsstrategie** werden im Verlauf dieser Fallstudie datenbasiert abgeleitet. Die Erkenntnisse aus Wetteranalysen, Potenzialkarten und Förderprogrammen dienen als Entscheidungsgrundlage für das konkrete Geschäftsmodell.
+
 ## Einleitung
 
 ### Ausgangslage
