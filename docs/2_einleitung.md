@@ -11,6 +11,11 @@ Die Schweiz befindet sich mitten in einer energiepolitischen Transformation. Der
 
 Auf Grundlage dieser Entwicklung wurde im Rahmen des Masterstudiums an der FFHS die fiktive Geschäftsidee der **AmFaAn Energy AG** entwickelt. Das Unternehmen hat sich zum Ziel gesetzt, mit datengetriebenen Analysen regionales Solarpotenzial zu identifizieren und in konkrete Photovoltaik-Lösungen für private, gewerbliche und öffentliche Kunden umzusetzen. Die Ergebnisse dieser Fallstudie bilden das Fundament für strategische Entscheidungen im Bereich Standortwahl, Kundenakquise und Produktentwicklung.
 
+<div class="float-right-image" style="width: 250px">
+    <img src="assets/images/Logo - AmFaAn Energy AG.png">
+    <div class="image-label">"Erstellt mit ChatGPT"</div>
+</div>
+
 ---
 
 ### Ziele der Fallstudie
