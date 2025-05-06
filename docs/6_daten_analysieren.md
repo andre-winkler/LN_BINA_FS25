@@ -160,7 +160,7 @@ Die Gebäude der Schweiz – insbesondere ihre Dach- und Fassadenflächen – be
 
 Für diese Auswertung haben wir auf die bereits aufbereiteten Daten von [sonnendach.ch](https://www.sonnendach.ch/) zurückgegriffen. Diese Plattform basiert auf umfassenden Berechnungen des Bundesamtes für Energie (BFE) und berücksichtigt Aspekte wie Dachneigung, Ausrichtung, Verschattung und Flächengrösse.
 
-Wir haben uns bewusst für diese Vorgehensweise entschieden, da die Originaldaten als Geopackage-Dateien über 5 GB gross waren. Eine direkte Verarbeitung dieser Rohdaten war technisch nicht möglich, da sowohl der verfügbare Arbeitsspeicher der Webplattform als auch die Leistungsfähigkeit des verwendeten Laptops nicht ausreichten, um diese Datenmengen effizient zu laden und zu analysieren. Insbesondere der Versuch, eine vollständige Folium-Map zu generieren, führte wiederholt zu Abstürzen aufgrund von Speicherüberlastung.
+Wir haben uns bewusst für diese Vorgehensweise entschieden, da die Originaldaten als Geopackage-Dateien über 5 GB gross waren. Eine direkte Verarbeitung dieser Rohdaten war technisch nicht möglich, da sowohl der verfügbare Arbeitsspeicher der Webplattform als auch die Leistungsfähigkeit des verwendeten Laptops nicht ausreichten, um diese Datenmengen effizient zu laden und zu analysieren. Insbesondere der Versuch, eine vollständige Folium-Map zu generieren, führte wiederholt zu Abstürzen aufgrund von Speicherüberlastung.
 
 <iframe src="https://map.geo.admin.ch/#/embed?lang=de&center=2669890.62,1173563.63&z=0&topic=energie&layers=ch.bfe.solarenergie-eignung-daecher;ch.bfe.solarenergie-eignung-fassaden&bgLayer=ch.swisstopo.swissimage&featureInfo=default" style="border: 0;width: 100%;height: 650px;max-width: 100%;max-height: 100%;" allow="geolocation"></iframe>
 
@@ -174,22 +174,41 @@ Insgesamt belegen die Ergebnisse, dass die bestehende Gebäudeinfrastruktur in d
 
 <iframe src="assets/diagramme/pot_solarenergie_pro_kanton.html" style="height: 550px !important"></iframe>
 
-TODO Amel
+**Unternehmensbezug:**  
+Für die AmFaAn Energy AG bieten die kantonalen Unterschiede im Solarpotenzial eine klare Orientierung für Markterschliessung und Vertriebsstrategie. Besonders in Kantonen mit hohem Potenzial und bisher geringer Ausbaudichte – wie Jura, Nidwalden oder Glarus – ergeben sich attraktive Chancen für First-Mover-Positionierungen. Auch die gezielte Erschliessung von Fassadenflächen in urbanen Räumen könnte für die Firma ein innovatives Alleinstellungsmerkmal darstellen.
+
 
 ### PV-Vergütungen
 
-TODO Amel
+Die durchschnittlichen Einspeisevergütungen für Solarstrom unterscheiden sich in der Schweiz stark zwischen den Kantonen – sowohl in ihrer Höhe als auch in ihrer Entwicklung über die letzten Jahre. Die Höhe dieser Vergütung (in Rp./kWh) beeinflusst wesentlich die Wirtschaftlichkeit einer PV-Anlage und kann ein entscheidender Faktor bei Investitionsentscheidungen sein.
 
-<iframe src="assets/diagramme/pv_vergütungen.html"></iframe>
+Die nachfolgenden interaktiven Visualisierungen zeigen die durchschnittlichen Vergütungssätze pro Kanton und Jahr (2017–2024). Besonders auffällig sind die kantonalen Ausreisser mit sehr hohen oder sehr niedrigen Tarifen. Kantone wie Obwalden, Nidwalden oder Jura zeigen teils überdurchschnittliche Werte in einzelnen Jahren, während andere Kantone konstant unter dem Durchschnitt liegen.
 
-TODO Amel
+<iframe src="assets/diagramme/pv_vergütungen.html" style="height: 550px; width: 100%; border: none;"></iframe>
 
-<iframe src="assets/diagramme/map_pv_vergütungen.html"></iframe>
+#### Zentrale Beobachtungen:
 
-TODO Amel
+- **Starke regionale Unterschiede**: Während manche Kantone wie OW, JU oder ZG in bestimmten Jahren sehr hohe Vergütungssätze (> 20 Rp./kWh) aufwiesen, liegen andere wie ZH oder AR konstant im unteren Bereich (< 10 Rp./kWh).
+- **Spitzenwerte 2022**: Besonders 2022 kam es in mehreren Kantonen zu deutlichen Ausschlägen nach oben – teilweise mit über 30 Rp./kWh. Dies könnte auf temporäre Sondertarife oder Anpassungen durch lokale EVUs zurückzuführen sein.
+- **Tendenz zur Angleichung**: Ab 2023 ist eine gewisse Konvergenz erkennbar – viele Kantone bewegen sich zwischen 13 und 18 Rp./kWh.
 
-**Unternehmensbezug:**  
-Die identifizierten Potenziale auf Dach- und Fassadenflächen bieten der AmFaAn Energy AG eine konkrete Datengrundlage für Standortanalysen, Vertriebsstrategien und individuelle Beratung. Besonders in urbanen Regionen oder bei öffentlichen Liegenschaften könnten datenbasierte Empfehlungen einen Wettbewerbsvorteil darstellen.
+---
+
+### Choroplethenkarte: PV-Vergütung auf Gemeindeebene
+
+Die folgende Karte zeigt die Einspeisevergütung je Gemeinde für das Jahr **2024**. Diese Detailtiefe erlaubt eine gezielte Standortanalyse – insbesondere für Unternehmen wie die AmFaAn Energy AG, die regionale Unterschiede bei der Vergütung systematisch für Marktstrategien nutzen wollen.
+
+<iframe src="assets/diagramme/map_pv_vergütungen.html" style="height: 600px; width: 100%; border: none;"></iframe>
+
+#### Unternehmensbezug:
+
+Die identifizierten Potenziale auf Dach- und Fassadenflächen bieten der AmFaAn Energy AG eine konkrete Datengrundlage für Standortanalysen, Vertriebsstrategien und individuelle Beratung. Besonders in Regionen mit hoher Vergütung (z. B. Jura, Nidwalden oder Zug) können gezielte Kampagnen zur Gewinnung von Kund*innen lohnend sein – vor allem bei kleinteiligen Anlagen, bei denen der Einspeisetarif einen hohen Einfluss auf die Rentabilität hat.
+
+---
+
+**Quellen:**  
+- VESE – Verband unabhängiger Energieerzeuger  
+- Energieversorgungsunternehmen (EVU), Datenstand: April 2025
 
 
 ### Fazit Datenanalyse und Erkenntnisse
