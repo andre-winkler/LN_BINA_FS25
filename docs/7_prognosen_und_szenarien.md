@@ -72,7 +72,7 @@ Die folgende Grafik zeigt die kumulierte Entwicklung der installierten Photovolt
 
 TODO Text
 
-<iframe src="assets/diagramme/avg_remuneration_forecast.html"></iframe>
+<iframe src="assets/diagramme/avg_remuneration_forecast.html"></iframe> 
 
 TODO Text
 
