@@ -1,17 +1,24 @@
 ## Management Summary
 
-Die Schweiz befindet sich in einem tiefgreifenden Wandel ihrer Energieversorgung. Mit dem geplanten Atomausstieg, dem steigenden Strombedarf und ambitionierten Klimazielen rückt die Solarenergie zunehmend ins Zentrum der politischen und wirtschaftlichen Aufmerksamkeit. Diese Fallstudie untersucht das Potenzial und die Entwicklung der Photovoltaik in der Schweiz im Zeitraum von 2015 bis 2024 und gibt datenbasierte Prognosen bis 2030 ab.
+Die **AmFaAn Energy AG** ist ein neu gegründetes, datengetriebenes Solarunternehmen mit Sitz in Bern. Ziel ist es, das ungenutzte Solarpotenzial in der Schweiz systematisch zu erschliessen und intelligente, lokal angepasste PV-Lösungen für Privatpersonen, Unternehmen und öffentliche Institutionen bereitzustellen.
 
-Basierend auf umfangreichen Datensätzen von MeteoSchweiz, dem Bundesamt für Energie (BFE) und dem Verband unabhängiger Energieerzeuger (VESE) wurde eine detaillierte Analyse der Sonnenstunden, der installierten PV-Leistung, der wirtschaftlichen Rahmenbedingungen sowie regionaler Unterschiede durchgeführt.
+Die Schweiz steht vor einer energiepolitischen Transformation: Bis 2050 sollen Atomkraftwerke ersetzt, die Elektrifizierung vorangetrieben und CO₂-Emissionen drastisch gesenkt werden. Die Photovoltaik wird dabei zur tragenden Säule – doch noch immer ist über 75 % des Potenzials auf Gebäuden ungenutzt.
 
-Zentrale Erkenntnisse:
+Unsere datenbasierte Analyse (2015–2024) zeigt: Kantone wie **Bern, Zürich, Aargau und Waadt** bieten durch hohe Einstrahlungswerte, grosse Dachflächenreserven und attraktive Förderprogramme ideale Voraussetzungen für ein schnelles Wachstum. Gleichzeitig fehlen dort spezialisierte, skalierbare Anbieter mit datengetriebenem Geschäftsansatz.
 
-- Die installierte PV-Leistung hat sich in zehn Jahren nahezu verfünffacht.
-- Der durchschnittliche Wirkungsgrad moderner PV-Module liegt 2024 bei rund 22–24 %.
-- Regionen wie Bern, Aargau, Zürich und Waadt verfügen über das grösste ungenutzte Solarpotenzial.
-- Förderprogramme wie die Einmalvergütung (EIV) und kantonale Boni haben eine zentrale Rolle beim Marktwachstum gespielt.
-- Prognosen deuten auf einen weiteren dynamischen Ausbau bis 2030 hin – bei stabilen Rahmenbedingungen.
+Die **AmFaAn Energy AG** schliesst diese Lücke:
 
-Auf Basis der Analyse wurde ein fiktives Unternehmenskonzept – die **AmFaAn Energy AG** – entwickelt, das das regionale Solarpotenzial gezielt erschliesst und auf datengetriebene Photovoltaiklösungen spezialisiert ist. 
+- **Marktzugang durch Datenintelligenz**: Identifikation profitabler Standorte & Kundensegmente via KI-gestützter Potenzialanalysen  
+- **Modularer Lösungsansatz**: PV-Anlagen, Speicher, Smart-Metering & E-Mobility aus einer Hand  
+- **Schnelle Skalierbarkeit**: Kooperationen mit lokalen Installateuren & Gemeinden
 
-Diese Arbeit liefert damit nicht nur wissenschaftliche Erkenntnisse, sondern auch praxisnahe Anwendungsbezüge für Politik, Wirtschaft und potenzielle Marktteilnehmer.
+Die im Rahmen dieser Fallstudie entwickelte Strategie prognostiziert eine **Verdreifachung der installierten PV-Leistung in der Schweiz bis 2030**. Die AmFaAn Energy AG positioniert sich als **First Mover** in ausgewählten Regionen mit hohem Potenzial und geringem Wettbewerb.
+
+> **Investoren erhalten Zugang zu einem stark wachsenden Markt mit planbaren Fördermechanismen, steigender Nachfrage und gesellschaftlichem Rückenwind.**  
+> Die AmFaAn Energy AG ist bereit, diese Chance zu nutzen – **datenbasiert, regional fokussiert und unternehmerisch mutig**.
+
+<div class="float-right-image" style="width: 250px">
+    <img src="assets/images/SolarTeam.png">
+    <div class="image-label">"Erstellt mit ChatGPT"</div>
+</div>
+
