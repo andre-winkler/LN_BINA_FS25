@@ -16,9 +16,3 @@ Die im Rahmen dieser Fallstudie entwickelte Strategie prognostiziert eine **Verd
 
 > **Investoren erhalten Zugang zu einem stark wachsenden Markt mit planbaren Fördermechanismen, steigender Nachfrage und gesellschaftlichem Rückenwind.**  
 > Die AmFaAn Energy AG ist bereit, diese Chance zu nutzen – **datenbasiert, regional fokussiert und unternehmerisch mutig**.
-
-<div class="float-right-image" style="width: 250px">
-    <img src="assets/images/SolarTeam.png">
-    <div class="image-label">"Erstellt mit ChatGPT"</div>
-</div>
-
