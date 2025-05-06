@@ -100,6 +100,10 @@ Erkenntnisse, welche wir gewonnen haben:
 * **Elektromobilität**: Ein deutlicher Anstieg ist im Bereich Elektromobilität zu erkennen, insbesondere ab 2020, was auf die zunehmende Verbreitung von Elektrofahrzeugen hinweist.
 * **Verkehr Beleuchtung und übriger Verkehr**: Diese Kategorien zeigen einen leichten Rückgang, was auf Effizienzsteigerungen oder Änderungen in der Infrastruktur hindeuten könnte.
 
+**Unternehmensbezug:**  
+Die zunehmende Elektrifizierung – insbesondere durch Elektromobilität – signalisiert einen steigenden Bedarf an dezentralem, erneuerbarem Strom. Die AmFaAn Energy AG sollte gezielt Kunden in diesen wachstumsstarken Sektoren ansprechen, z. B. durch kombinierte Angebote für PV-Anlagen und E-Mobility-Ladelösungen.
+
+
 ### Solaranlagen in der Schweiz
 
 Dieses Kapitel zeigt auf, wie sich die installierte Leistung und die Verteilung der Solaranlagen im Zeitraum von 2015 bis 2024 entwickelt haben. Anhand von Visualisierungen wird ersichtlich, in welchen Regionen besonders viele Anlagen gebaut wurden und wo weiteres Potenzial besteht. Die Daten geben zudem Aufschluss darüber, wie geografische und klimatische Bedingungen den Ausbau beeinflussen und welche Unterschiede sich zwischen den einzelnen Kantonen zeigen.
@@ -146,6 +150,10 @@ Die Daten wurden zusammengeführt und georeferenziert, um einen räumlichen Übe
 
 Die Karte zeigt deutliche regionale Unterschiede beim Ausbau der Photovoltaik in der Schweiz. Besonders Gemeinden im Mittelland, nördlich des Genfersees und im Raum Zürich weisen hohe installierte Leistungen auf. Diese Ballungsräume verfügen über eine hohe Gebäudedichte, gute wirtschaftliche Voraussetzungen und teilweise gezielte Fördermassnahmen. In ländlicheren oder gebirgigen Regionen, insbesondere im Südosten und in Teilen des Wallis und Graubündens, fällt die installierte Leistung pro Gemeinde hingegen deutlich geringer aus. Dies deutet auf ungenutztes Potenzial für den weiteren PV-Ausbau in diesen Gebieten hin.
 
+**Unternehmensbezug:**  
+Die Analyse zeigt, wo Photovoltaik bereits weit verbreitet ist und wo Nachholbedarf besteht. Die AmFaAn Energy AG kann diese Erkenntnisse für eine gezielte Marktbearbeitung nutzen – mit besonderem Fokus auf Regionen mit geringer PV-Dichte, um dort First-Mover-Vorteile zu erzielen und Förderprogramme optimal auszuschöpfen.
+
+
 ### Solarpotenzial der Gebäude in der Schweiz: Dächer und Fassaden nach Kanton
 
 Die Gebäude der Schweiz – insbesondere ihre Dach- und Fassadenflächen – bergen ein erhebliches ungenutztes Potenzial für die Solarstromproduktion. In diesem Abschnitt analysieren wir, wie viel Energie theoretisch durch Photovoltaik auf bestehenden Gebäudeflächen in den einzelnen Kantonen erzeugt werden könnte.
@@ -180,25 +188,30 @@ TODO Amel
 
 TODO Amel
 
+**Unternehmensbezug:**  
+Die identifizierten Potenziale auf Dach- und Fassadenflächen bieten der AmFaAn Energy AG eine konkrete Datengrundlage für Standortanalysen, Vertriebsstrategien und individuelle Beratung. Besonders in urbanen Regionen oder bei öffentlichen Liegenschaften könnten datenbasierte Empfehlungen einen Wettbewerbsvorteil darstellen.
+
+
 ### Fazit Datenanalyse und Erkenntnisse
 
 Die umfassende Analyse über den Zeitraum der letzten zehn Jahre liefert ein klares Bild der klimatischen, geografischen und energietechnischen Entwicklungen in der Schweiz. Im Zentrum stehen die steigende Bedeutung der Solarenergie sowie deren regional unterschiedliche Verbreitung.
 
-Wetter und Sonnenstunden:
+**Wetter und Sonnenstunden:**  
 Die Auswertung der MeteoSchweiz-Daten zeigt eine erwartungsgemässe saisonale Verteilung der Sonnenstunden: Hohe Werte im Sommer, niedrige im Winter. Besonders auffällig ist jedoch der Trend zu mehr Sonnenstunden im Frühling und Herbst – ein positiver Faktor für die gleichmässigere Nutzung von Solarenergie über das Jahr hinweg. Auch regional bestehen klare Unterschiede, wobei sich der Süden (z. B. Tessin) durch besonders viele Sonnenstunden auszeichnet, ebenso wie einige hochgelegene Standorte. Dies unterstreicht die Relevanz standortbezogener Analysen für zukünftige PV-Investitionen.
 
-Solarenergie und Stromproduktion:
+**Solarenergie und Stromproduktion:**  
 Der Anteil der Solarenergie an der gesamten Stromproduktion hat sich in der Dekade deutlich erhöht – fast verfünffacht – und trägt mittlerweile signifikant zur Energieversorgung bei. Dennoch bleibt ihr Anteil im Vergleich zu Wasserkraft und Kernenergie gering. Die Entwicklung des Wirkungsgrads von PV-Modulen zeigt technologische Fortschritte, die es ermöglichen, auf gleicher Fläche zunehmend mehr Energie zu erzeugen.
 
-Stromverbrauch und Elektromobilität:
+**Stromverbrauch und Elektromobilität:**  
 Während der Stromverbrauch in den meisten Sektoren stabil blieb oder leicht zurückging, zeigt sich ein starker Anstieg im Bereich Elektromobilität. Diese Entwicklung hebt den wachsenden Bedarf an erneuerbarem Strom hervor und betont die Notwendigkeit eines zügigen Ausbaus von Solar- und anderen erneuerbaren Energiequellen.
 
-Regionale Unterschiede beim PV-Ausbau:
+**Regionale Unterschiede beim PV-Ausbau:**  
 Die regionale Analyse des PV-Ausbaus zeigt klare Schwerpunkte in wirtschaftlich starken und bevölkerungsreichen Kantonen sowie in urbanen Zentren. Gleichzeitig offenbart die Choroplethenkarte ungenutztes Potenzial in alpinen und strukturschwächeren Regionen. Die Unterschiede lassen sich durch eine Kombination aus Fördermassnahmen, wirtschaftlichen Bedingungen, technischer Umsetzbarkeit und politischem Willen erklären.
 
-Gesamtbetrachtung:
+**Gesamtbetrachtung:**  
 Die Ergebnisse belegen, dass die Schweiz beim Ausbau der Solarenergie bedeutende Fortschritte gemacht hat, jedoch weiterhin regionale Disparitäten bestehen. Das Potenzial ist noch nicht ausgeschöpft – weder technologisch noch geographisch. Eine gezieltere Förderung in bisher unterrepräsentierten Regionen, gekoppelt mit weiteren Effizienzsteigerungen bei PV-Anlagen, könnte die nachhaltige Energiezukunft der Schweiz entscheidend voranbringen.
 
-Diese Erkenntnisse bieten eine solide Grundlage für politische Entscheidungen, Investitionsstrategien und die zukünftige Ausrichtung der Schweizer Energiepolitik.
+**Unternehmensbezug:**  
+Die gewonnenen Erkenntnisse sind nicht nur für Politik und Gesellschaft relevant, sondern auch direkt auf unternehmerische Entscheidungen übertragbar. Unternehmen, insbesondere aus Industrie, Energieversorgung und Immobilienwirtschaft, können die regionalen Analysen und Prognosen nutzen, um gezielt in PV-Anlagen zu investieren – sei es zur Eigenstromproduktion, zur CO₂-Reduktion oder zur Verbesserung der ESG-Bilanz. Die Daten zur Sonneneinstrahlung, zur Förderlandschaft und zur Entwicklung der Einspeisevergütung bieten eine fundierte Grundlage für Investitionsentscheidungen in der Schweiz. Auch Unternehmen ohne direkten Energiefokus können von einer strategischen Auseinandersetzung mit Solarenergie profitieren, etwa durch Kooperationen, Flächennutzung oder als Beitrag zur Dekarbonisierung ihrer Lieferkette.
 
 ----
