@@ -112,7 +112,7 @@ Die Nutzung der Daten ist gemäss den Nutzungsbedingungen des BFS für wissensch
 https://www.bfs.admin.ch/bfs/de/home/statistiken/energie.html
 
 <div class="float-right-image" style="width: 250px">
-    <img src="assets/images/Bundesamt-fuer-Statistik.webp">
+    <img src="assets/images/BFS.png">
     <div class="image-label">[https://www.gastrofacts.ch/einkaufsguide/bundesamt-fuer-statistik-bfs]</div>
 </div>
 
