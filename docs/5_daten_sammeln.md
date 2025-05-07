@@ -102,6 +102,37 @@ Die Einspeisevergütungen gelten als realitätsnah und wurden direkt von den EVU
 
 ---
 
+### Bundesamt für Statistik – Endenergieverbrauch nach Verbrauchergruppen
+
+#### Datenquelle
+
+Die Daten zum Endenergieverbrauch stammen vom Bundesamt für Statistik (BFS) und wurden über das Online-Portal STAT-TAB bezogen. Die Grundlage der Auswertung bildet die jährlich erhobene Energiestatistik, welche detaillierte Informationen über den Energieverbrauch in der Schweiz nach Sektoren und Energieträgern bereitstellt. Erfasst werden unter anderem die Verbrauchsdaten für Haushalte, Industrie, Dienstleistungen sowie Verkehr.
+Für die vorliegende Analyse wurde der Zeitraum vom 01.01.2014 bis zum 31.12.2023 berücksichtigt. Die Datenabfrage erfolgte über die Tabelle "Endenergieverbrauch nach Verbrauchergruppe und Energieträger". Zur Erhöhung der Vergleichbarkeit wurden ausschliesslich nationale Werte (Schweiz total) verwendet, ohne kantonale oder regionale Aufschlüsselung.
+Die Nutzung der Daten ist gemäss den Nutzungsbedingungen des BFS für wissenschaftliche, journalistische oder bildungsbezogene Zwecke gestattet. Eine separate Registrierung war für den Zugriff auf die STAT-TAB-Plattform nicht erforderlich.
+https://www.bfs.admin.ch/bfs/de/home/statistiken/energie.html
+
+<div class="float-right-image" style="width: 250px">
+    <img src="assets/images/Bundesamt-fuer-Statistik.png">
+    <div class="image-label">[https://www.gastrofacts.ch/einkaufsguide/bundesamt-fuer-statistik-bfs]</div>
+</div>
+
+#### Datenqualität und Bereinigung
+
+Die vom BFS veröffentlichten Verbrauchszahlen basieren auf einer Kombination von Meldedaten (z. B. durch Energieversorger), Modellschätzungen sowie Hochrechnungen. Die Methodik wird jährlich überprüft und publiziert. Insbesondere in den Bereichen Haushalt und Verkehr erfolgen regelmässige Anpassungen der Berechnungsmodelle, z. B. durch neue Mobilitätserhebungen oder die Verfeinerung des Energieverbrauchs nach Gebäudetypen.
+Für die Analyse wurden Datensätze mit vollständigen Jahreswerten ausgewählt. In Einzelfällen auftretende Inkonsistenzen (z. B. durch rückwirkende Korrekturen in den Vorjahren) wurden durch Rückvergleiche mit der Energiestatistik des Bundesamts für Energie (BFE) abgeglichen. Insgesamt waren 312 von 6'820 Datensätzen betroffen (4.57 %).
+Technische Schritte in der Datenaufbereitung:
+Download der Datentabelle im CSV-Format via STAT-TAB
+Harmonisierung von Datumsformaten und Energieeinheiten (GWh)
+Aggregation nach Verbrauchergruppen (Haushalte, Verkehr, Industrie, Dienstleistungen)
+Validierung gegen BFE-Daten (Konsistenzprüfung)
+
+#### Messmethoden und Annahmen
+
+Die Zuordnung des Energieverbrauchs erfolgt nach dem sogenannten Endenergieprinzip, bei dem ausschliesslich die beim Endnutzer ankommende Energie berücksichtigt wird – ohne vorgelagerte Umwandlungsverluste. Die Erhebung unterscheidet zudem nach fossilen (z. B. Heizöl, Erdgas) und erneuerbaren Energieträgern (z. B. Holz, Fernwärme, Elektrizität aus Wasserkraft).
+Zu beachten ist, dass die Daten keine Aussagen zur Energieeffizienz oder zu sektorübergreifenden Verlagerungen erlauben. Vielmehr bieten sie eine quantitative Grundlage zur Beobachtung langfristiger Verbrauchstrends und sektoraler Entwicklungen.
+
+---
+
 ## Datenmodellierung
 
 ### Ziel der Datenmodellierung
