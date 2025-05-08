@@ -49,7 +49,7 @@ Anhand der gesammelten Daten wurden verschiedene Analyseverfahren angewandt, um 
 - **Zeitreihenanalysen:** zur Ermittlung langfristiger Trends (z. B. Ausbaugeschwindigkeit, Kostenentwicklung)
 - **Geografische Analysen:** Visualisierung regionaler Unterschiede mittels Karten, Bubble Charts und Choroplethen
 - **Clusterbildung und Potenzialklassifizierung:** z. B. Einstufung von Gemeinden nach Eignung für PV-Ausbau
-- **Szenarienentwicklung:** Prognosen bis 2030 unter Berücksichtigung technischer und politischer Rahmenbedingungen
+- **Prognosen:** Prognosen bis 2030 unter Berücksichtigung technischer und politischer Rahmenbedingungen
 
 Ziel dieser Phase war es, für die AmFaAn Energy AG eine datenbasierte Entscheidungsgrundlage für Investitionen, Marketing und Geschäftsentwicklung zu schaffen.
 
@@ -60,7 +60,7 @@ Ziel dieser Phase war es, für die AmFaAn Energy AG eine datenbasierte Entscheid
 Die Analyseergebnisse wurden zielgruppengerecht und multimedial aufbereitet:
 
 - **Google-Colab-Notebook:** Interaktive Ergebnisse, Visualisierungen, Datenmodellierung und Forecasts
-- **Präsentation (5–6 Folien):** Zusammenfassung der strategisch relevanten Erkenntnisse
+- **Präsentation:** Zusammenfassung der strategisch relevanten Erkenntnisse
 - **Video (3 Minuten):** Visuelle Zusammenfassung für externe Stakeholder (Investoren, Kunden, Förderstellen)
 
 Die Darstellung erfolgt stets entlang der KAQs und ist auf Entscheidungsträger ausgerichtet, die sich ein schnelles Bild über Marktpotenziale und Handlungsmöglichkeiten verschaffen möchten.

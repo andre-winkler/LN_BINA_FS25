@@ -1,5 +1,5 @@
 ## Datenanalyse und Erkenntnisse
-Hinweis: folgende Unterkapitel beziehen sich grundsätzlich auf einen Zeitraum von den letzten 10 Jahren (01.01.2015 - 31.12.2024).
+> Hinweis: folgende Unterkapitel beziehen sich grundsätzlich auf einen Zeitraum von den letzten 10 Jahren (01.01.2015 - 31.12.2024).
 
 ### Wetterentwicklung in der Schweiz
 Die in diesem Kapitel präsentierten Daten stammen von MeteoSwiss, der offiziellen Wetter- und Klimainstitution der Schweiz. Die Messwerte werden von verschiedenen meteorologischen Stationen erfasst, die strategisch über das gesamte Land verteilt sind. Diese breite Streuung der Messpunkte stellt sicher, dass die erfassten Wetter- und Klimadaten eine repräsentative Abdeckung für die gesamte Schweiz bieten.
@@ -116,9 +116,7 @@ Die folgende Visualisierung zeigt die Verteilung der Photovoltaikanlagen (PV-Anl
 
 Zentrale Erkenntnisse:
 * Starke Konzentration in Städten: In urbanen Zentren wie Zürich, Lausanne, Bern und Basel sind besonders viele und leistungsstarke PV-Anlagen installiert. Dies lässt sich durch eine hohe Gebäudedichte und ein gesteigertes Interesse an nachhaltiger Energie erklären.
-
 * Auffällige regionale Unterschiede: Während im Mittelland und in der Nordwestschweiz viele leistungsstarke Anlagen installiert wurden, ist die Dichte in alpinen Regionen geringer. Dennoch sind auch dort einzelne Standorte mit hoher Gesamtleistung sichtbar.
-
 * Details bei genauerem Hinsehen: Beim Hineinzoomen in die Karte werden feinere regionale Unterschiede sichtbar. So lassen sich einzelne Gemeinden mit besonders hoher oder niedriger Leistung identifizieren.
 
 Die Visualisierung gibt somit einen klaren Überblick über den Stand der Solarenergie in der Schweiz. Sie macht regionale Unterschiede sichtbar und zeigt, wo bereits viel in Photovoltaik investiert wurde – und wo noch Potenzial besteht.
@@ -239,5 +237,3 @@ Die Ergebnisse belegen, dass die Schweiz beim Ausbau der Solarenergie bedeutende
 
 **Unternehmensbezug:**  
 Die gewonnenen Erkenntnisse sind nicht nur für Politik und Gesellschaft relevant, sondern auch direkt auf unternehmerische Entscheidungen übertragbar. Unternehmen, insbesondere aus Industrie, Energieversorgung und Immobilienwirtschaft, können die regionalen Analysen und Prognosen nutzen, um gezielt in PV-Anlagen zu investieren – sei es zur Eigenstromproduktion, zur CO₂-Reduktion oder zur Verbesserung der ESG-Bilanz. Die Daten zur Sonneneinstrahlung, zur Förderlandschaft und zur Entwicklung der Einspeisevergütung bieten eine fundierte Grundlage für Investitionsentscheidungen in der Schweiz. Auch Unternehmen ohne direkten Energiefokus können von einer strategischen Auseinandersetzung mit Solarenergie profitieren, etwa durch Kooperationen, Flächennutzung oder als Beitrag zur Dekarbonisierung ihrer Lieferkette.
-
-----

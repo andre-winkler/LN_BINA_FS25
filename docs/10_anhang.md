@@ -175,4 +175,4 @@ Die angegebenen Werte verstehen sich als Durchschnittswerte und können je nach 
 | **Subvention / Förderung** | Finanzielle Anreize durch Bund, Kantone oder Gemeinden zur Förderung nachhaltiger Energieprojekte. |
 | **VESE** | Verband unabhängiger Energieerzeuger Schweiz – unterstützt Kleinproduzenten und Prosumenten. |
 | **Wirkungsgrad** | Verhältnis zwischen eingestrahlter Sonnenenergie und tatsächlich erzeugter elektrischer Energie einer PV-Anlage. |
-| **Dezentrale Energieversorgung** | Ein Modell der Energieversorgung, bei dem Strom dezentral, oft durch erneuerbare Energiequellen wie Photovoltaik, erzeugt wird, anstatt aus großen, zentralen Kraftwerken. |
+| **Dezentrale Energieversorgung** | Ein Modell der Energieversorgung, bei dem Strom dezentral, oft durch erneuerbare Energiequellen wie Photovoltaik, erzeugt wird, anstatt aus grossen, zentralen Kraftwerken. |

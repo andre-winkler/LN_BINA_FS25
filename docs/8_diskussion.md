@@ -15,7 +15,7 @@ Trotz der umfassenden Datenbasis gibt es Einschränkungen:
 - **Datenverfügbarkeit und Granularität**: Einige Werte, insbesondere zur Einspeisevergütung (VESE), lagen nur auf Jahresbasis oder als Durchschnittswerte vor. Monatliche Schwankungen oder tagesaktuelle Tarifmodelle konnten daher nicht berücksichtigt werden.
 - **Regionale Verzerrungen**: In gewissen Kantonen – z. B. Appenzell Ausserrhoden – fehlen vollständige meteorologische Daten. Hier mussten Näherungsverfahren eingesetzt werden, was die Aussagekraft leicht einschränkt.
 - **Modellannahmen bei Prognosen**: Die Vorhersagemodelle basieren auf historischen Trends und setzen eine gewisse Stabilität politischer, wirtschaftlicher und klimatischer Rahmenbedingungen voraus. Unerwartete Ereignisse (z. B. Energiekrisen, Gesetzesänderungen, neue Fördermodelle) können die tatsächliche Entwicklung stark beeinflussen.
-- **Technologischer Wandel**: Die Entwicklung von PV-Technologien (z. B. bifaziale Module, Agri-PV) schreitet schnell voran. Die Analyse basiert bewusst auf der gängigen kristallinen Siliziumtechnologie, was neue Konzepte noch nicht vollständig abbildet.
+- **Technologischer Wandel**: Die Entwicklung von PV-Technologien (z. B. bifaziale Module) schreitet schnell voran. Die Analyse basiert bewusst auf der gängigen kristallinen Siliziumtechnologie, was neue Konzepte noch nicht vollständig abbildet.
 
 ### Bedeutung für Unternehmen und Investoren
 

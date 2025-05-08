@@ -4,11 +4,11 @@ Für die Entwicklung einer fundierten Markteintrittsstrategie der **AmFaAn Energ
 
 Im Folgenden werden die genutzten Datenquellen, deren Qualität und Aufbereitung sowie die Datenmodellierung beschrieben. Die daraus abgeleiteten Kennzahlen bilden die Grundlage für alle nachfolgenden Analysen, Prognosen und Geschäftsempfehlungen.
 
-Eine fundierte Analyse der Solarenergie in der Schweiz basiert auf vielfältigen Datenquellen. Für diese Fallstudie wurden meteorologische, technische und wirtschaftliche Daten erhoben und in ein gemeinsames Datenmodell überführt. Für die Analyse des Solarpotenzials in der Schweiz wurden umfassende Datensätze aus offiziellen Quellen zusammengetragen und aufbereitet. Die wichtigsten Daten stammen vom Bundesamt für Energie (BFE) und MeteoSchweiz. Das BFE liefert detaillierte Informationen zur installierten Solarleistung, der Anzahl an Photovoltaikanlagen, den Einspeisevergütungen sowie zu Subventionen und Förderprogrammen. Diese Daten ermöglichen eine genaue Untersuchung der Entwicklung der Solarenergie in der Schweiz über die letzten zehn Jahre und helfen dabei, wirtschaftliche und politische Einflussfaktoren zu bewerten.
+Eine fundierte Analyse der Solarenergie in der Schweiz basiert auf vielfältigen Datenquellen. Für diese Fallstudie wurden meteorologische, technische und wirtschaftliche Daten erhoben. Für die Analyse des Solarpotenzials in der Schweiz wurden umfassende Datensätze aus offiziellen Quellen zusammengetragen und aufbereitet. Die wichtigsten Daten stammen vom Bundesamt für Energie (BFE) und MeteoSchweiz. Das BFE liefert detaillierte Informationen zur installierten Solarleistung, der Anzahl an Photovoltaikanlagen, sowie zu Subventionen und Förderprogrammen. Diese Daten ermöglichen eine genaue Untersuchung der Entwicklung der Solarenergie in der Schweiz über die letzten zehn Jahre und helfen dabei, wirtschaftliche und politische Einflussfaktoren zu bewerten.
 
 Neben den wirtschaftlichen und technischen Aspekten ist die Sonneneinstrahlung der entscheidende Faktor für die Effizienz und Leistungsfähigkeit von Solaranlagen. Um diesen Einfluss zu quantifizieren, wurden die Daten von MeteoSchweiz herangezogen. Sie enthalten Messwerte zur Globalstrahlung, den täglichen Sonnenstunden und den Temperaturen an verschiedenen Wetterstationen in der Schweiz. Diese Parameter sind essenziell, um den Zusammenhang zwischen Sonnenenergie und Stromproduktion zu analysieren. Darüber hinaus erlauben sie eine saisonale Betrachtung, da die Solarleistung im Sommer deutlich höher ist als in den Wintermonaten.
 
-Die gesammelten Daten wurden nach ihrer Bereinigung in ein einheitliches Format überführt. Um eine präzisere Analyse zu ermöglichen, erfolgte die Aggregation auf Stundenbasis. Dies erlaubt eine genauere Untersuchung von Trends und Schwankungen im Tagesverlauf sowie eine präzisere Modellierung der Solarstromproduktion. Die Kombination dieser umfangreichen Datensätze bildet die Grundlage für die Untersuchung der Vergangenheit und ermöglicht es, Prognosen für die zukünftige Entwicklung der Solarenergie in der Schweiz abzuleiten.
+Die Kombination dieser umfangreichen Datensätze bildet die Grundlage für die Untersuchung der Vergangenheit und ermöglicht es, Prognosen für die zukünftige Entwicklung der Solarenergie in der Schweiz abzuleiten.
 
 ### MeteoSchweiz – Sonnenstunden je Wetterstation
 
@@ -94,6 +94,11 @@ Alternativ stand eine Excel-Version zur Verfügung (CHF 75, akademische Nutzung)
 
 Die Einspeisevergütungen gelten als realitätsnah und wurden direkt von den EVUs gemeldet. Es handelt sich um Durchschnittswerte je Jahr und Netzregion. Lokale Spezialtarife oder zeitlich gestaffelte Modelle sind nicht explizit enthalten.
 
+#### Technische Herausforderungen bei der Visualisierung
+Über die API mussten zuerst die Liste der Elektrizitätswerke geholt werden und dann die entsprechenden Gemeinde-Ergebnisse. Bei beiden API-Anfragen gab es viele Unterbrüche, Timeouts und sonstige Fehler. Daher musste ein Retry-Mechanismus eingebaut werden, damit alle Daten abgeholt werden konnten. Ausserdem war die Performance ein Thema, da es viele Daten über die entsprechenden Jahre bei den Gemeinde-Ergebnissen waren.
+
+Für die Auswertungen mussten dann wieder die beiden CSV-Dateien zusammengebracht werden und mit zusätzlichen Gemeindedaten auch wieder fähig für eine Kartendarstellung gemacht werden.
+
 #### Messmethoden und Annahmen
 
 - Aggregation auf **Jahresbasis**
@@ -131,13 +136,11 @@ Validierung gegen BFE-Daten (Konsistenzprüfung)
 Die Zuordnung des Energieverbrauchs erfolgt nach dem sogenannten Endenergieprinzip, bei dem ausschliesslich die beim Endnutzer ankommende Energie berücksichtigt wird – ohne vorgelagerte Umwandlungsverluste. Die Erhebung unterscheidet zudem nach fossilen (z. B. Heizöl, Erdgas) und erneuerbaren Energieträgern (z. B. Holz, Fernwärme, Elektrizität aus Wasserkraft).
 Zu beachten ist, dass die Daten keine Aussagen zur Energieeffizienz oder zu sektorübergreifenden Verlagerungen erlauben. Vielmehr bieten sie eine quantitative Grundlage zur Beobachtung langfristiger Verbrauchstrends und sektoraler Entwicklungen.
 
----
-
 ## Datenmodellierung
 
 ### Ziel der Datenmodellierung
 
-Die drei Datenquellen (MeteoSchweiz, BFE, VESE) wurden in ein gemeinsames Modell überführt, um:
+Die verschiedenen Datenquellen wurden entsprechend aufbereitet, kombiniert und ergänzt, um:
 
 - Regionen mit hohem Solarpotenzial zu identifizieren
 - wirtschaftliche, technische und klimatische Faktoren zu verknüpfen

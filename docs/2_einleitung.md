@@ -2,7 +2,7 @@
 
 Im Rahmen des Masterstudiums an der FFHS haben **Fabienne Ghirardin**, **Amel Kujovic** und **André Winkler** die fiktive Geschäftsidee der **AmFaAn Energy AG** entwickelt. Die Namensgebung setzt sich aus den Anfangsbuchstaben der drei Vornamen zusammen – als Symbol für Teamgeist, Innovation und nachhaltige Energiezukunft.
 
-Die AmFaAn Energy AG versteht sich als datengetriebenes Unternehmen im Bereich der erneuerbaren Energien mit Fokus auf **Photovoltaiklösungen für Privatpersonen, Unternehmen und öffentliche Institutionen**. Ziel ist es, das **ungenutzte Solarpotenzial** in der Schweiz systematisch zu erschliessen und **maßgeschneiderte PV-Anlagen** anzubieten – basierend auf fundierter Analyse von Sonnenstunden, regionaler Eignung und wirtschaftlichen Rahmenbedingungen.
+Die AmFaAn Energy AG versteht sich als datengetriebenes Unternehmen im Bereich der erneuerbaren Energien mit Fokus auf **Photovoltaiklösungen für Privatpersonen, Unternehmen und öffentliche Institutionen**. Ziel ist es, das **ungenutzte Solarpotenzial** in der Schweiz systematisch zu erschliessen und **massgeschneiderte PV-Anlagen** anzubieten – basierend auf fundierter Analyse von Sonnenstunden, regionaler Eignung und wirtschaftlichen Rahmenbedingungen.
 
 ### Vision
 
@@ -24,7 +24,7 @@ Die AmFaAn Energy AG versteht sich als datengetriebenes Unternehmen im Bereich d
 ### Dienstleistungsportfolio
 
 - Standortanalyse und Machbarkeitsstudien basierend auf realen Wetterdaten
-- Planung und Umsetzung von PV-Anlagen (Dach, Fassade, Agri-PV, Carports)
+- Planung und Umsetzung von PV-Anlagen (Dach, Fassade, Carports)
 - Integration von Speicherlösungen, E-Mobility-Ladepunkten und Smart-Home-Systemen
 - Fördermittelberatung (EIV, kantonale Programme, Winterboni)
 - Monitoring, Wartung und Wirtschaftlichkeitsoptimierung bestehender Anlagen
@@ -33,7 +33,6 @@ Die AmFaAn Energy AG versteht sich als datengetriebenes Unternehmen im Bereich d
 
 - Private Hausbesitzer*innen mit Interesse an Autarkie oder Rendite
 - KMUs mit Energiebedarf und Dachflächen
-- Landwirtschaftliche Betriebe (Agri-PV)
 - Gemeinden und kantonale Stellen mit Interesse an nachhaltigen Infrastrukturen
 
 ---
@@ -74,6 +73,6 @@ Zur gezielten Analyse wurden folgende sieben **Key Analytics Questions (KAQs)** 
 4. **Wie hat sich der Stromverbrauch in der Schweiz entwickelt – gesamt und nach Sektoren?**  
 5. **Wie stark variiert die installierte PV-Leistung zwischen den Kantonen und Gemeinden – und welche Einflussfaktoren erklären diese Unterschiede?**  
 6. **Wo in der Schweiz besteht das grösste ungenutzte Solarpotenzial auf bestehenden Gebäuden – und wie stark wird dieses bisher ausgeschöpft?**  
-7. **Wie könnte sich die installierte PV-Leistung und Solarstromproduktion in der Schweiz bis 2030 entwickeln – unter verschiedenen politischen und wirtschaftlichen Szenarien?**
+7. **Wie könnte sich die installierte PV-Leistung und Solarstromproduktion in der Schweiz bis 2030 entwickeln – mittels Prognosen und Szenarien?**
 
 Die vorliegende Fallstudie soll als fundierte Entscheidungsgrundlage für politische Entscheidungsträger, Investoren und Gründer*innen im Bereich Solarenergie dienen – insbesondere im Hinblick auf die Markteintrittsstrategie der AmFaAn Energy AG.

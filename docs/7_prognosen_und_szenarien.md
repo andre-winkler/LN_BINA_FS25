@@ -4,16 +4,18 @@ Die Schweiz steht vor der Herausforderung, ihre Energieversorgung nachhaltiger, 
 Dieses Kapitel untersucht auf datenbasierter Grundlage, wie sich die Nutzung der Solarenergie in der Schweiz voraussichtlich weiterentwickeln wird. Ziel ist es, tragfähige Prognosen zu erstellen, die sowohl die historische Entwicklung als auch aktuelle Trends und Rahmenbedingungen berücksichtigen. Im Fokus stehen unter anderem:
 
 - Die Entwicklung der jährlichen Sonnenstunden in der Schweiz auf Basis meteorologischer Daten,
-- Der mögliche Ausbau der installierten PV-Leistung in verschiedenen Regionen und Nutzungskonzepten (z. B. Dächer, Fassaden, Agri-PV),
+- Der mögliche Ausbau der installierten PV-Leistung in verschiedenen Regionen und Nutzungskonzepten (z. B. Dächer, Fassaden),
 - Technologische Fortschritte in der Effizienz von Solarmodulen,
 - Die Rolle der Solarenergie im Zusammenhang mit einem steigenden Strombedarf, etwa durch Elektromobilität und Wärmepumpen,
 - Die saisonale Schwankung der Solarstromproduktion und deren Einfluss auf Netzstabilität und Speicherbedarf.
 
-Die Prognosemodelle beruhen auf Zeitreihenanalysen der gesammelten Daten von MeteoSchweiz und dem Bundesamt für Energie (BFE). Dabei werden historische Entwicklungen extrapoliert und mit verschiedenen Annahmen zu politischen, technologischen und klimatischen Einflussfaktoren kombiniert.
+Die Prognosemodelle beruhen auf Zeitreihenanalysen der gesammelten Daten von verschiedenen Quellen. Dabei werden historische Entwicklungen extrapoliert und mit verschiedenen Annahmen zu politischen, technologischen und klimatischen Einflussfaktoren kombiniert.
 
 Ziel ist es, Entscheidungsträgern in Politik, Verwaltung, Energieversorgung und Wirtschaft eine fundierte Grundlage für zukunftsgerichtete Strategien zu bieten. Die resultierenden Szenarien sollen aufzeigen, in welchem Umfang die Solarenergie zur Deckung des zukünftigen Strombedarfs beitragen kann – und welche Schritte erforderlich sind, um das volle Potenzial dieser Technologie in der Schweiz zu erschliessen.
 
-### Prognosen im Überblick (Tabellarisch)  
+### Prognosen im Überblick 
+
+TODO --> Tabellarisch
 
 ### Prognose: Sonnenstunden
 
@@ -106,7 +108,4 @@ In der Schweiz bildet das Energiegesetz die Grundlage für den Ausbau erneuerbar
 
 Der aktuelle Handelskonflikt zwischen den USA und China könnte **erhebliche indirekte Auswirkungen auf Europa** haben – auch auf den Solarmarkt:
 
-- **China als weltweit führender Hersteller von Solarpanels** (mit einem globalen Produktionsanteil von rund 78 %) sucht angesichts neuer US-Zölle und Exportbeschränkungen **verstärkt nach alternativen Absatzmärkten**.
-- **Europa könnte dabei in den Fokus geraten**, insbesondere wenn die USA chinesische Produkte mit hohen Strafzöllen belegen.  
-- Dies könnte dazu führen, dass **chinesische Solarpanels in Europa deutlich günstiger angeboten werden** – was den Preisverfall auf dem europäischen Markt beschleunigen könnte.  
-- Für die Schweiz könnte dies sowohl **eine Chance für kostengünstige Installationen** als auch **ein Risiko für lokale oder europäische Hersteller** bedeuten, die nicht konkurrenzfähig produzieren können.
+**China als weltweit führender Hersteller von Solarpanels** (mit einem globalen Produktionsanteil von rund 78 %) sucht angesichts neuer US-Zölle und Exportbeschränkungen **verstärkt nach alternativen Absatzmärkten**. **Europa könnte dabei in den Fokus geraten**, insbesondere wenn die USA chinesische Produkte mit hohen Strafzöllen belegen. Dies könnte dazu führen, dass **chinesische Solarpanels in Europa deutlich günstiger angeboten werden** – was den Preisverfall auf dem europäischen Markt beschleunigen könnte. Für die Schweiz könnte dies sowohl **eine Chance für kostengünstige Installationen** als auch **ein Risiko für lokale oder europäische Hersteller** bedeuten, die nicht konkurrenzfähig produzieren können.
