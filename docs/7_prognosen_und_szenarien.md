@@ -33,31 +33,31 @@ Die folgende Grafik zeigt die Entwicklung der monatlichen Sonnenstunden von 2015
 Für energieintensive Betriebe, Immobilienentwickler oder öffentliche Institutionen bietet diese Prognose eine fundierte Grundlage zur Standortwahl und zur Planung von PV-Investitionen. Regionen mit stabil hoher Sonneneinstrahlung sind besonders attraktiv für langfristige Solarprojekte.
 
 
-### Prognose: Entwicklung der installierten PV-Leistung (Kantonal)
+### Prognose: Entwicklung der installierten PV-Kapazität (Kantonal)
 
-Basierend auf den historischen Daten der installierten Photovoltaikleistung zwischen 2015 und 2024 wurde eine polynomiale Regression angewendet, um die zukünftige Entwicklung der kumulierten PV-Leistung bis zum Jahr 2030 für ausgewählte Kantone zu prognostizieren. Die Analyse fokussiert sich auf die vier bevölkerungsstarken und wirtschaftlich relevanten Kantone: Bern (BE), Zürich (ZH), Waadt (VD) und St. Gallen (SG).
+Basierend auf den historischen Daten der installierten Photovoltaikleistung zwischen 2015 und 2024 wurde eine polynomiale Regression angewendet, um die zukünftige Entwicklung der kumulierten PV-Kapazität bis zum Jahr 2030 für ausgewählte Kantone zu prognostizieren. Die Analyse fokussiert sich auf die vier bevölkerungsstarken und wirtschaftlich relevanten Kantone: Bern (BE), Zürich (ZH), Waadt (VD) und St. Gallen (SG).
 
 <iframe src="assets/diagramme/cumulative_power_forecast.html"></iframe>
 
 **Erkenntnisse:**
-- **Alle vier Kantone zeigen einen klaren Aufwärtstrend**, wobei Bern weiterhin die höchste kumulierte Leistung aufweist.
-- Die Prognose deutet auf eine **Verdopplung bis Verdreifachung der installierten Leistung bis 2030** hin – abhängig vom Kanton und der bisherigen Ausbaudynamik.
+- **Alle vier Kantone zeigen einen klaren Aufwärtstrend**, wobei Bern weiterhin die höchste kumulierte Kapazität aufweist.
+- Die Prognose deutet auf eine **Verdopplung bis Verdreifachung der installierten Kapazität bis 2030** hin – abhängig vom Kanton und der bisherigen Ausbaudynamik.
 - Besonders Zürich und Waadt weisen eine sehr lineare und stetige Zunahme auf, was auf stabile politische Rahmenbedingungen und Investitionsbereitschaft schliessen lässt.
 - Bern hebt sich durch eine überproportional starke Steigung der Kurve ab – hier könnte eine führende Rolle im nationalen PV-Ausbau entstehen.
 
 **Implikation für Unternehmen:**
-- Die Analyse bietet Unternehmen und Investoren eine solide Entscheidungsgrundlage für die Standortwahl. Regionen mit stark wachsender PV-Leistung bieten Vorteile in Bezug auf Versorgungssicherheit, Netzstabilität und mögliche Synergien mit bestehenden Energieprojekten.
+- Die Analyse bietet Unternehmen und Investoren eine solide Entscheidungsgrundlage für die Standortwahl. Regionen mit stark wachsender PV-Kapazität bieten Vorteile in Bezug auf Versorgungssicherheit, Netzstabilität und mögliche Synergien mit bestehenden Energieprojekten.
 - Für Installationsbetriebe, Energieversorger und öffentliche Institutionen ergeben sich Chancen zur gezielten Expansion in Kantonen mit starkem Ausbaupotenzial.
 
 ### Prognose: Solarstromproduktion (gesamte Schweiz)
 
-Die folgende Grafik zeigt die kumulierte Entwicklung der installierten Photovoltaik-Leistung in der gesamten Schweiz von 2015 bis zur Prognose für das Jahr 2030. Die historische Datenreihe basiert auf Angaben des Bundesamtes für Energie (BFE), während die Prognosewerte mithilfe eines polynomialen Regressionsmodells extrapoliert wurden.
+Die folgende Grafik zeigt die kumulierte Entwicklung der installierten Photovoltaik-Kapazität in der gesamten Schweiz von 2015 bis zur Prognose für das Jahr 2030. Die historische Datenreihe basiert auf Angaben des Bundesamtes für Energie (BFE), während die Prognosewerte mithilfe eines polynomialen Regressionsmodells extrapoliert wurden.
 
 <iframe src="assets/diagramme/cumulative_power_forecast_switzerland.html"></iframe>
 
 **Erkenntnisse:**
-- Zwischen 2015 und 2024 ist die installierte PV-Leistung in der Schweiz kontinuierlich gestiegen und hat sich mehr als vervierfacht.
-- Die Prognose bis 2030 deutet auf einen **weiterhin starken Zuwachs** hin: Die kumulierte Leistung könnte sich nochmals **verdoppeln**, was einem Anstieg auf über **17 Millionen kWp** entspricht.
+- Zwischen 2015 und 2024 ist die installierte PV-Kapazität in der Schweiz kontinuierlich gestiegen und hat sich mehr als vervierfacht.
+- Die Prognose bis 2030 deutet auf einen **weiterhin starken Zuwachs** hin: Die kumulierte Kapazität könnte sich nochmals **verdoppeln**, was einem Anstieg auf über **17 Millionen kWp** entspricht.
 - Der Anstieg zeigt eine **leicht exponentielle Tendenz**, was auf eine Beschleunigung des Ausbaus hindeutet – unterstützt durch Fördermassnahmen, technologische Verbesserungen und gesteigerte gesellschaftliche Akzeptanz.
 
 **Implikation für Politik und Wirtschaft:**
@@ -66,13 +66,20 @@ Die folgende Grafik zeigt die kumulierte Entwicklung der installierten Photovolt
 - Unternehmen der Solarwirtschaft, Bauindustrie und Energietechnik können sich auf **stark wachsende Nachfrage** in den kommenden Jahren einstellen – insbesondere im Bereich Planung, Installation, Wartung und Integration von PV-Systemen.
 
 
-
-
-### Prognose: Kosten pro kWp  
+### Prognose: Vergütungen
 
 TODO Text
 
 <iframe src="assets/diagramme/avg_remuneration_forecast.html"></iframe> 
+
+TODO Text
+
+
+### Prognose: Effizienz der PV-Anlagen in der Schweiz
+
+TODO Text
+
+<iframe src="assets/diagramme/wirkungsgrad_forecast.html"></iframe> 
 
 TODO Text
 
