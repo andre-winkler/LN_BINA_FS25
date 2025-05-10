@@ -13,10 +13,6 @@ Die Prognosemodelle beruhen auf Zeitreihenanalysen der gesammelten Daten von ver
 
 Ziel ist es, Entscheidungsträgern in Politik, Verwaltung, Energieversorgung und Wirtschaft eine fundierte Grundlage für zukunftsgerichtete Strategien zu bieten. Die resultierenden Szenarien sollen aufzeigen, in welchem Umfang die Solarenergie zur Deckung des zukünftigen Strombedarfs beitragen kann – und welche Schritte erforderlich sind, um das volle Potenzial dieser Technologie in der Schweiz zu erschliessen.
 
-### Prognosen im Überblick 
-
-TODO --> Tabellarisch
-
 ### Prognose: Sonnenstunden
 
 Basierend auf den historischen Wetterdaten der letzten zehn Jahre lassen sich vorsichtige Prognosen zur Entwicklung der jährlichen Sonnenstunden in der Schweiz ableiten. Mithilfe eines saisonalen Zeitreihenmodells (SARIMA) wurde eine Vorhersage bis ins Jahr 2030 erstellt, ergänzt durch ein Konfidenzintervall zur Darstellung der Unsicherheiten.
@@ -70,20 +66,41 @@ Die folgende Grafik zeigt die kumulierte Entwicklung der installierten Photovolt
 
 ### Prognose: Vergütungen
 
-TODO Text
+Die folgende Visualisierung zeigt die durchschnittliche Einspeisevergütung für Solarstrom in der Schweiz von 2017 bis 2024 (blaue Linie) sowie eine lineare Prognose bis 2030 (orange Linie, gestrichelt). Die Vergütung wird in Rappen pro Kilowattstunde (Rp./kWh) dargestellt. Grundlage der historischen Daten sind die jährlich gemeldeten Durchschnittswerte der Energieversorgungsunternehmen (EVU), bezogen über den Verband unabhängiger Energieerzeuger (VESE).
+
+Die Prognose wurde mittels einfacher Regressionsanalyse erstellt und dient der groben Einschätzung der wirtschaftlichen Rahmenbedingungen für zukünftige PV-Investitionen in der Schweiz.
 
 <iframe src="assets/diagramme/avg_remuneration_forecast.html"></iframe> 
 
-TODO Text
+**Erkenntnisse aus der Visualisierung:**
+
+- **Stabile bis steigende Vergütungssätze:** Die durchschnittliche Einspeisevergütung lag bis 2020 konstant bei unter 10 Rp./kWh. Ab 2021 ist ein deutlicher Anstieg zu erkennen, mit einem vorläufigen Höhepunkt im Jahr 2022.
+- **Anhaltender Trend nach oben:** Die Prognose deutet auf eine Fortsetzung dieses Trends hin, mit einem Anstieg auf über 20 Rp./kWh bis 2030 – sofern die politischen Rahmenbedingungen stabil bleiben.
+- **Planungssicherheit für Investoren:** Ein moderat wachsender Vergütungssatz verbessert die Wirtschaftlichkeit von PV-Anlagen – insbesondere in Kombination mit steigenden Strompreisen und technologischen Effizienzgewinnen.
+
+**Unternehmensbezug:**
+
+Für die AmFaAn Energy AG sind diese Ergebnisse strategisch bedeutsam. Regionen mit attraktiven Vergütungssätzen (z. B. Jura, Nidwalden oder Zug) können gezielt priorisiert werden, insbesondere bei kleinen bis mittelgrossen Projekten. Die prognostizierte Entwicklung spricht für eine wachsende Investitionsbereitschaft und eröffnet zusätzliche Spielräume für neue Geschäftsmodelle – etwa in der Direktvermarktung oder beim Eigenverbrauch.
 
 
 ### Prognose: Effizienz der PV-Anlagen in der Schweiz
 
-TODO Text
+Die folgende Visualisierung zeigt die Entwicklung des durchschnittlichen Modulwirkungsgrads von Photovoltaikanlagen (PV) in der Schweiz für den Zeitraum 2015 bis 2024 (blaue Linie) sowie eine Prognose bis 2030 (orange Linie, gestrichelt). Der Modulwirkungsgrad bezeichnet den Anteil der eingestrahlten Sonnenenergie, der in elektrische Energie umgewandelt werden kann – ein zentraler technologischer Leistungsindikator für PV-Systeme.
+
+Die historischen Daten basieren auf öffentlich zugänglichen Quellen (u. a. BFE, Swissolar) und wurden für die Prognose mittels linearer Regression extrapoliert.
+
 
 <iframe src="assets/diagramme/wirkungsgrad_forecast.html"></iframe> 
 
-TODO Text
+**Erkenntnisse aus der Visualisierung:**
+
+- **Kontinuierliche Effizienzsteigerung:** Zwischen 2015 und 2024 stieg der durchschnittliche Modulwirkungsgrad von rund 15,5 % auf über 24 %. Dieser Zuwachs ist primär auf technologische Fortschritte bei kristallinen Siliziumzellen zurückzuführen.
+- **Stabile Verbesserung bis 2030 erwartet:** Die Prognose geht von einem weiteren Anstieg des Wirkungsgrads auf ca. 29 % bis zum Jahr 2030 aus – bei anhaltender Innovationsdynamik in der Zelltechnologie.
+- **Wirtschaftlicher Hebel:** Höhere Wirkungsgrade bedeuten mehr Ertrag pro installierter Fläche – ein klarer Vorteil insbesondere in urbanen Regionen mit begrenztem Platzangebot.
+
+**Unternehmensbezug:**
+
+Für die AmFaAn Energy AG ergeben sich aus dieser Entwicklung klare strategische Chancen. Die kontinuierliche Verbesserung des Wirkungsgrads macht PV-Anlagen zunehmend effizienter und wirtschaftlicher. Gerade in dicht bebauten Regionen kann durch modernste Module der Ertrag maximiert werden – ein starkes Verkaufsargument gegenüber Endkund:innen. Zudem steigt die Attraktivität von Fassadenanlagen, da auch vertikale Flächen durch bessere Module effizienter genutzt werden können.
 
 
 ### Politische Entwicklungen und regulatorische Szenarien (qualitativ)
