@@ -131,7 +131,7 @@ Besonders auffällig ist der starke Anstieg in einzelnen Kantonen, die bereits f
 
 Der stetige Zuwachs über alle Jahre hinweg verdeutlicht die zunehmende Bedeutung der Solarenergie in der Schweiz. Die unterschiedlichen Ausgangsniveaus und Wachstumsraten liefern zudem wichtige Hinweise auf das regionale Potenzial, aber auch auf bestehende Unterschiede bei Fördermassnahmen, Flächenverfügbarkeit oder politischem Engagement.
 
-<iframe src="assets/diagramme/elcom_total_power_2024.html"></iframe>
+<iframe src="assets/diagramme/elcom_total_power_2015_2024_kumuliert.html"></iframe>
 
 Die Balkengrafik zeigt die kumulierte Gesamtkapazität der installierten Photovoltaikanlagen pro Kanton in der Schweiz im Zeitraum von 2015 bis 2024. An der Spitze liegen die Kantone Bern und Zürich mit jeweils rund 150 MW installierter Leistung, gefolgt von Aargau, St. Gallen und Waadt. Diese Kantone verfügen über günstige Rahmenbedingungen, eine hohe Gebäudedichte und engagierte Förderprogramme, was den Ausbau begünstigt hat.
 
