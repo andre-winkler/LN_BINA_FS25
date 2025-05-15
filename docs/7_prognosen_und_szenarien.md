@@ -4,8 +4,9 @@ Die Schweiz steht vor der Herausforderung, ihre Energieversorgung nachhaltiger, 
 Dieses Kapitel untersucht auf datenbasierter Grundlage, wie sich die Nutzung der Solarenergie in der Schweiz voraussichtlich weiterentwickeln wird. Ziel ist es, tragfähige Prognosen zu erstellen, die sowohl die historische Entwicklung als auch aktuelle Trends und Rahmenbedingungen berücksichtigen. Im Fokus stehen unter anderem:
 
 - Die Entwicklung der jährlichen Sonnenstunden in der Schweiz auf Basis meteorologischer Daten,
-- Der mögliche Ausbau der installierten PV-Leistung in verschiedenen Regionen und Nutzungskonzepten (z. B. Dächer, Fassaden),
+- Der mögliche Ausbau der installierten PV-Leistung in verschiedenen Regionen und Nutzungskonzepten (z.B. Dächer, Fassaden),
 - Technologische Fortschritte in der Effizienz von Solarmodulen,
+- Die mögliche Entwicklung der Einspeisevergütung,
 - Die Rolle der Solarenergie im Zusammenhang mit einem steigenden Strombedarf, etwa durch Elektromobilität und Wärmepumpen,
 - Die saisonale Schwankung der Solarstromproduktion und deren Einfluss auf Netzstabilität und Speicherbedarf.
 
