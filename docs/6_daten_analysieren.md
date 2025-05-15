@@ -133,9 +133,9 @@ Der stetige Zuwachs über alle Jahre hinweg verdeutlicht die zunehmende Bedeutun
 
 <iframe src="assets/diagramme/elcom_total_power_2015_2024_kumuliert.html"></iframe>
 
-Die Balkengrafik zeigt die kumulierte Gesamtkapazität der installierten Photovoltaikanlagen pro Kanton in der Schweiz im Zeitraum von 2015 bis 2024. An der Spitze liegen die Kantone Bern und Zürich mit jeweils rund 150 MW installierter Leistung, gefolgt von Aargau, St. Gallen und Waadt. Diese Kantone verfügen über günstige Rahmenbedingungen, eine hohe Gebäudedichte und engagierte Förderprogramme, was den Ausbau begünstigt hat.
+Die kumulative installierte Photovoltaik-Leistung in der Schweiz von 2015 bis 2024 zeigt, dass Bern mit rund 710 MW und Zürich mit etwa 630 MW an der Spitze liegen. Vaud (VD) und Aargau (AG) folgen mit ca. 520 MW bzw. 515 MW. Diese Kantone profitieren von günstigen Rahmenbedingungen und einer hohen Gebäudedichte.
 
-Am unteren Ende der Rangliste befinden sich kleinere oder topografisch anspruchsvollere Kantone wie Appenzell Innerrhoden, Uri und Obwalden. Dort sind die Ausbaupotenziale begrenzter, was sich in der niedrigeren kumulierten Leistung widerspiegelt. Die Grafik verdeutlicht die regionalen Unterschiede beim PV-Ausbau und zeigt gleichzeitig, wo noch ungenutztes Potenzial vorhanden ist.
+Am unteren Ende befinden sich Appenzell Innerrhoden, Uri und Obwalden mit Werten unter 50 MW. Die Visualisierung verdeutlicht die großen regionalen Unterschiede beim PV-Ausbau und das weiterhin vorhandene Potenzial in vielen Regionen.
 
 #### Choroplethenkarte des Photovoltaik-Ausbaus auf Gemeindeebene
 
