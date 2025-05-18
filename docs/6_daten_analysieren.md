@@ -175,6 +175,8 @@ Insgesamt belegen die Ergebnisse, dass die bestehende Gebäudeinfrastruktur in d
 
 <iframe src="assets/diagramme/pot_solarenergie_pro_kanton.html" style="height: 550px !important"></iframe>
 
+<iframe src="assets/diagramme/pot_solarenergie_vs_strom_endverbrauch.html" style="height: 550px !important"></iframe>
+
 **Unternehmensbezug:**  
 Für die AmFaAn Energy AG bieten die kantonalen Unterschiede im Solarpotenzial eine klare Orientierung für Markterschliessung und Vertriebsstrategie. Besonders in Kantonen mit hohem Potenzial und bisher geringer Ausbaudichte – wie Jura, Nidwalden oder Glarus – ergeben sich attraktive Chancen für First-Mover-Positionierungen. Auch die gezielte Erschliessung von Fassadenflächen in urbanen Räumen könnte für die Firma ein innovatives Alleinstellungsmerkmal darstellen.
 
