@@ -61,7 +61,7 @@ Die Analyseergebnisse wurden zielgruppengerecht und multimedial aufbereitet:
 
 - **Google-Colab-Notebook:** Interaktive Ergebnisse, Visualisierungen, Datenmodellierung und Forecasts
 - **Präsentation:** Zusammenfassung der strategisch relevanten Erkenntnisse
-- **Video (3 Minuten):** Visuelle Zusammenfassung für externe Stakeholder (Investoren, Kunden, Förderstellen)
+- **Video (3 Minuten):** Visuelle Zusammenfassung des Google-Colab-Notebooks
 
 Die Darstellung erfolgt stets entlang der KAQs und ist auf Entscheidungsträger ausgerichtet, die sich ein schnelles Bild über Marktpotenziale und Handlungsmöglichkeiten verschaffen möchten.
 
