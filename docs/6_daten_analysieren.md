@@ -22,6 +22,8 @@ Das Liniendiagramm stellt die Entwicklung der monatlichen Sonnenstunden im Verla
 
 <iframe src="assets/diagramme/sunhours_per_month.html"></iframe>
 
+<iframe src="assets/diagramme/sunhours_per_year_bar.html"></iframe>
+
 
 Die folgende Grafik stellt die Verteilung der Sonnenstunden in einer alternativen Darstellungsform als Boxplot dar. Diese Visualisierung ermöglicht eine präzisere Analyse der Spannweite, Medianwerte und möglicher Ausreisser innerhalb der Daten.
 
@@ -71,6 +73,8 @@ Folgende zwei Grafiken präsentieren die Energie-Entwicklung in der Schweiz der 
 Die Grafik zeigt, dass der Strombedarf in der Schweiz von 2015 bis 2024 insgesamt angestiegen ist – besonders ab 2022. Den zusätzlichen Bedarf deckten vor allem die Wasserkraft, die deutlich zulegte, und die Photovoltaik, die stetig ausgebaut wurde. Kernkraft und thermische Energie blieben weitgehend konstant, während andere erneuerbare Quellen nur einen kleinen Anteil beitrugen. Damit wird klar: Der Mehrbedarf wurde primär durch erneuerbare Energien gedeckt.
 
 <iframe src="assets/diagramme/stromproduktion_kuchendiagramm_slider.html"></iframe>
+
+<iframe src="assets/diagramme/stromproduktion_treemap_slider.html"></iframe>
 
 Aus der Grafik kann eine deutliche Zunahme der Solarenergie (Photovoltaik) herausgelesen werden. Von 2015 bis 2024 war das eine Zunahme von fast dem 5-fachen. Im Vergleich zu den zwei Hauptenergiequellen Wasserkraft und Kernkraft ist es immer noch ein sehr kleiner Anteil.
 
@@ -170,6 +174,8 @@ Ein weiterer wichtiger Punkt: Neben den Dachflächen bieten insbesondere vertika
 Insgesamt belegen die Ergebnisse, dass die bestehende Gebäudeinfrastruktur in der Schweiz ein zentrales Element für die Erreichung der Energiewendeziele darstellen kann – vorausgesetzt, dass das technische Potenzial konsequent erschlossen und durch geeignete Fördermassnahmen begleitet wird.
 
 <iframe src="assets/diagramme/pot_solarenergie_pro_kanton.html" style="height: 550px !important"></iframe>
+
+<iframe src="assets/diagramme/pot_solarenergie_vs_strom_endverbrauch.html" style="height: 550px !important"></iframe>
 
 **Unternehmensbezug:**  
 Für die AmFaAn Energy AG bieten die kantonalen Unterschiede im Solarpotenzial eine klare Orientierung für Markterschliessung und Vertriebsstrategie. Besonders in Kantonen mit hohem Potenzial und bisher geringer Ausbaudichte – wie Jura, Nidwalden oder Glarus – ergeben sich attraktive Chancen für First-Mover-Positionierungen. Auch die gezielte Erschliessung von Fassadenflächen in urbanen Räumen könnte für die Firma ein innovatives Alleinstellungsmerkmal darstellen.
