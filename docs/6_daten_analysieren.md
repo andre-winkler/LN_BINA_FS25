@@ -187,7 +187,7 @@ Die durchschnittlichen Einspeisevergütungen für Solarstrom unterscheiden sich 
 
 Die nachfolgenden interaktiven Visualisierungen zeigen die durchschnittlichen Vergütungssätze pro Kanton und Jahr (2017–2024). Besonders auffällig sind die kantonalen Ausreisser mit sehr hohen oder sehr niedrigen Tarifen. Kantone wie Obwalden, Nidwalden oder Jura zeigen teils überdurchschnittliche Werte in einzelnen Jahren, während andere Kantone konstant unter dem Durchschnitt liegen.
 
-<iframe src="assets/diagramme/pv_vergütungen.html" style="height: 550px; width: 100%; border: none;"></iframe>
+<iframe src="assets/diagramme/pv_verguetungen_sortiert_korrekt.html" style="height: 550px; width: 100%; border: none;"></iframe>
 
 #### Zentrale Beobachtungen:
 
