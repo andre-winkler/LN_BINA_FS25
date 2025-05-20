@@ -42,9 +42,7 @@ Technische Schritte in der Datenaufbereitung:
 
 Im Zuge der Analyse der Sonnenstunden-Daten von MeteoSchweiz traten mehrere technische Herausforderungen auf, die für die Datenqualität und die Vergleichbarkeit der Ergebnisse besonders relevant waren. Die Daten aus verschiedenen Quellen mussten zunächst miteinander verknüpft werden, um geografische und topografische Analysen zu ermöglichen. Dabei wurden nur Stationen innerhalb der Schweiz berücksichtigt, Stationen aus Liechtenstein wurden konsequent ausgeschlossen.
 
-Zudem mussten die Zeitangaben vereinheitlicht, numerische Formate bereinigt und die Daten auf Monats- und Jahresebene aggregiert werden. Während dieser Schritte zeigte sich, dass für das Jahr 2024 zwei Wetterstationen keine Sonnenstundenwerte aufwiesen, obwohl sie in der offiziellen Stammliste enthalten waren. Um die Vollständigkeit und Konsistenz der Analyse zu gewährleisten, wurden diese beiden Stationen manuell ergänzt und für alle zwölf Monate im Jahr 2024 mit 0 Sonnenstunden belegt.
-
-Diese Ergänzungen hatten keinen Einfluss auf Mittelwerte oder Trendanalysen, da die Nullwerte korrekt in die Berechnungen einflossen. Gleichzeitig konnte so sichergestellt werden, dass alle 132 Wetterstationen – wie ursprünglich vorgesehen – vollständig in die Auswertung einbezogen wurden.
+Zudem mussten die Zeitangaben vereinheitlicht, numerische Formate bereinigt und die Daten auf Monats- und Jahresebene aggregiert werden.
 
 
 #### Messmethoden und Annahmen
