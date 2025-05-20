@@ -175,11 +175,36 @@ Insgesamt belegen die Ergebnisse, dass die bestehende Gebäudeinfrastruktur in d
 
 <iframe src="assets/diagramme/pot_solarenergie_pro_kanton.html" style="height: 550px !important"></iframe>
 
-<iframe src="assets/diagramme/pot_solarenergie_vs_strom_endverbrauch.html" style="height: 550px !important"></iframe>
-
 **Unternehmensbezug:**  
 Für die AmFaAn Energy AG bieten die kantonalen Unterschiede im Solarpotenzial eine klare Orientierung für Markterschliessung und Vertriebsstrategie. Besonders in Kantonen mit hohem Potenzial und bisher geringer Ausbaudichte – wie Jura, Nidwalden oder Glarus – ergeben sich attraktive Chancen für First-Mover-Positionierungen. Auch die gezielte Erschliessung von Fassadenflächen in urbanen Räumen könnte für die Firma ein innovatives Alleinstellungsmerkmal darstellen.
 
+Die nächste Visualisierung zeigt drei zentrale Werte im Überblick:
+
+- **Technisch nutzbares Solarpotenzial (2025):**
+  - Dächer: 64’829 GWh  
+  - Fassaden: 21’191 GWh  
+  - **Total: 86’020 GWh**
+
+- **Strom-Endverbrauch Schweiz (2024):**
+  - 56’068 GWh
+
+- **Tatsächlich erzeugter Strom (2024):**
+  - 80’014 GWh (alle Energiequellen)
+
+<iframe src="assets/diagramme/pot_solarenergie_vs_strom_endverbrauch.html" style="height: 550px !important"></iframe>
+
+#### Erkenntnisse:
+- Das **gesamte Solarpotenzial** auf Gebäuden übersteigt den Stromverbrauch deutlich.
+- Auch im Vergleich zur **tatsächlichen Stromproduktion** wäre das Solarpotenzial ausreichend.
+- Trotzdem wird der grösste Teil dieses Potenzials bislang **nicht genutzt**.
+
+#### Relevanz für AmFaAn Energy AG:
+Die AmFaAn Energy AG kann durch gezielte Erschliessung von Dach- und Fassadenflächen entscheidend zur **Dekarbonisierung der Stromproduktion** beitragen:
+- Fokus auf **urbanen Raum und KMUs**
+- Nutzung **unerschlossener Gebäudeflächen**
+- **Datenbasierte Standortwahl** für höchste Effizienz
+
+> **„Die Zukunft liegt auf unseren Dächern – wir machen sie nutzbar.“**
 
 ### PV-Vergütungen
 
