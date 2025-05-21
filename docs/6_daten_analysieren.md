@@ -116,7 +116,7 @@ Dieses Kapitel zeigt auf, wie sich die installierte Leistung und die Verteilung 
 
 #### Photovoltaik-Leistung in der Schweiz: Zoom auf regionale Unterschiede
 
-Die folgende Visualisierung zeigt die Verteilung der Photovoltaikanlagen (PV-Anlagen) in der Schweiz ab 2015 bis 2024. Die Kreise stehen für die kumulierte Leistung in Kilowatt (kW) pro Region. Je grösser der Kreis, desto höher die installierte Gesamtleistung in diesem Gebiet.
+Die folgende Visualisierung zeigt die Verteilung der Photovoltaikanlagen (PV-Anlagen) in der Schweiz ab 2015 bis 2024. 
 
 <iframe src="assets/diagramme/elcoms_map.html"></iframe>
 
