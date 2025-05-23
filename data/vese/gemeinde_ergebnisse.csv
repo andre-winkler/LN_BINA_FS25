@@ -498,10 +498,10 @@ nrElcom;Name;idofs;PLZ;Gemeinde
 129;Elektra Emmenmatt;903;3438;Lauperswil
 264;Elektrizitätsgenossenschaft Moosegg;903;3438;Lauperswil
 284;Elektrizitätsgenossenschaft Schüpbach;903;3438;Lauperswil
-36;BKW Energie AG;904;3538;Röthenbach im Emmental
 105;Elektra Aeschlen-Linden-Heimenschwand;904;3538;Röthenbach im Emmental
-36;BKW Energie AG;905;3433;Rüderswil
+36;BKW Energie AG;904;3538;Röthenbach im Emmental
 184;Elektra Schwanden;905;3433;Rüderswil
+36;BKW Energie AG;905;3433;Rüderswil
 36;BKW Energie AG;906;6197;Schangnau
 273;Elektrizitätsgenossenschaft Schangnau;906;6197;Schangnau
 36;BKW Energie AG;907;3534;Signau
@@ -821,6 +821,7 @@ nrElcom;Name;idofs;PLZ;Gemeinde
 609;Groupe E SA;2235;1782;La Sonnaz
 609;Groupe E SA;2236;#N/A;Gibloux
 609;Groupe E SA;2237;1746;Prez
+609;Groupe E SA;2238;1724;Bois-d'Amont
 609;Groupe E SA;2250;1796;Courgevaux
 609;Groupe E SA;2254;1791;Courtepin
 609;Groupe E SA;2257;1785;Cressier (FR)
@@ -1127,6 +1128,7 @@ nrElcom;Name;idofs;PLZ;Gemeinde
 98;Elektra-Korporation EKW;3111;9413;Oberegg
 197;Elektra Walzenhausen;3111;9413;Oberegg
 495;Elektrokorporation Reute;3111;9413;Oberegg
+566;Feuerschaugemeinde Appenzell;3112;9050;Schwende-Rüte
 727;St.Gallisch-Appenzellische Kraftwerke AG SAK;3201;9308;Häggenschwil
 314;Elektrizitätsversorgung Häggenschwil;3201;9308;Häggenschwil
 727;St.Gallisch-Appenzellische Kraftwerke AG SAK;3202;9313;Muolen
@@ -1172,12 +1174,12 @@ nrElcom;Name;idofs;PLZ;Gemeinde
 494;Dorfkorporation Oberschan;3276;9476;Wartau
 498;Dorfkorporation Weite;3276;9476;Wartau
 727;St.Gallisch-Appenzellische Kraftwerke AG SAK;3291;7310;Bad Ragaz
-421;Elektrizitätswerk der Ortsgemeinde Murg;3292;8890;Flums
+932;Murg Flums Energie;3292;8890;Flums
 542;EVU Flums AG;3292;8890;Flums
 637;Martin Zeller AG Flums;3292;8890;Flums
 243;Elektrizitäts- & Wasserwerk Mels;3293;7325;Mels
 727;St.Gallisch-Appenzellische Kraftwerke AG SAK;3294;7317;Pfäfers
-421;Elektrizitätswerk der Ortsgemeinde Murg;3295;8877;Quarten
+932;Murg Flums Energie;3295;8877;Quarten
 455;Elektrizitätswerk Quarten;3295;8877;Quarten
 727;St.Gallisch-Appenzellische Kraftwerke AG SAK;3296;7320;Sargans
 480;Elektrizitätswerk Vilters-Wangs;3297;7323;Vilters-Wangs
@@ -1268,6 +1270,7 @@ nrElcom;Name;idofs;PLZ;Gemeinde
 921;Energieversorgung Schams / Avers;3712;7432;Zillis-Reischen
 921;Energieversorgung Schams / Avers;3713;7444;Ferrera
 441;Elektrizitätswerk Hinterrhein;3714;7435;Rheinwald
+921;Energieversorgung Schams / Avers;3715;7433;Muntogna da Schons
 471;Rhiienergie AG;3721;7402;Bonaduz
 471;Rhiienergie AG;3722;7013;Domat/Ems
 471;Rhiienergie AG;3723;7403;Rhäzüns
@@ -1296,11 +1299,11 @@ nrElcom;Name;idofs;PLZ;Gemeinde
 833;Società Elettrica Sopracenerina SA (Mesolcina);3805;6540;Castaneda
 809;Consorzio energia elettrica Calanca (CEEC);3808;6547;Rossa
 833;Società Elettrica Sopracenerina SA (Mesolcina);3810;6541;Santa Maria in Calanca
-27;Azienda Elettrica Lostallo;3821;6558;Lostallo
+925;Media Mesolcina Energia;3821;6558;Lostallo
 21;Azienda Elettrica Comunale Mesocco;3822;6565;Mesocco
-23;Azienda Elettrica Comunale Soazza;3823;6562;Soazza
+925;Media Mesolcina Energia;3823;6562;Soazza
 14;Azienda Elettrica Cama;3831;6557;Cama
-833;Società Elettrica Sopracenerina SA (Mesolcina);3832;6537;Grono
+925;Media Mesolcina Energia;3832;6537;Grono
 833;Società Elettrica Sopracenerina SA (Mesolcina);3834;6535;Roveredo (GR)
 833;Società Elettrica Sopracenerina SA (Mesolcina);3835;6534;San Vittore
 808;Società Semplice Comuni Concedenti Elin;3835;6534;San Vittore
@@ -1449,6 +1452,8 @@ nrElcom;Name;idofs;PLZ;Gemeinde
 839;Energie Oberes Fricktal AG ;4182;5063;Wölflinswil
 241;Elektrizitäts - Versorgung Zeihen;4183;5079;Zeihen
 160;Elektra Mettauertal und Umgebung;4184;5273;Mettauertal
+5;AEW Energie AG;4185;5075;Böztal
+5;AEW Energie AG;4186;5027;Herznach-Ueken
 5;AEW Energie AG;4191;5600;Ammerswil
 5;AEW Energie AG;4192;5706;Boniswil
 5;AEW Energie AG;4193;5505;Brunegg
@@ -1578,15 +1583,15 @@ nrElcom;Name;idofs;PLZ;Gemeinde
 142;Elektra Häuslenen;4551;8355;Aadorf
 208;Elektra-Genossenschaft Guntershausen;4551;8355;Aadorf
 308;Elektrizitätsversorgung Felben-Wellhausen;4561;8552;Felben-Wellhausen
-784;Werkbetriebe Frauenfeld;4566;8500;Frauenfeld
+784;Thurplus;4566;8500;Frauenfeld
 648;Politische Gemeinde Gachnang;4571;8546;Gachnang
 807;Werkbetriebe Kefikon;4571;8546;Gachnang
 651;Politische Gemeinde Hüttlingen;4590;8553;Hüttlingen
 783;Werkbetriebe der Dorfgemeinde Matzingen;4591;9548;Matzingen
 215;Elektra-Korporation Dingenhart;4591;9548;Matzingen
 399;Elektrizitätswerk der Gemeinde Neunforn;4601;8525;Neunforn
-410;Elektrizitätswerk der Gemeinde Stettfurt;4606;9507;Stettfurt
-766;Technische Werke der Gemeinde Thundorf;4611;8512;Thundorf
+937;LST Energie AG;4606;9507;Stettfurt
+937;LST Energie AG;4611;8512;Thundorf
 528;Energieversorgung der Gemeinde Uesslingen - Buch;4616;8524;Uesslingen-Buch
 575;Gemeinde Warth-Weiningen;4621;8532;Warth-Weiningen
 642;Politische Gemeinde Altnau;4641;8595;Altnau
@@ -1610,7 +1615,7 @@ nrElcom;Name;idofs;PLZ;Gemeinde
 131;Elektra Fischingen;4726;8374;Fischingen
 279;Elektrizitäts-Genossenschaft Vogelsang;4726;8374;Fischingen
 486;Elektrizitätswerke des Kantons Zürich EKZ;4726;8374;Fischingen
-423;Elektrizitätswerk der politischen Gemeinde Lommis;4741;9506;Lommis
+937;LST Energie AG;4741;9506;Lommis
 244;Genossenschaft EW Münchwilen (EWM);4746;9542;Münchwilen (TG)
 304;Elektrizitätsversorgung der Politischen Gemeinde Rickenbach;4751;9532;Rickenbach (TG)
 604;Genossenschaft Elektra Schönholzerswilen;4756;8577;Schönholzerswilen
@@ -1714,6 +1719,7 @@ nrElcom;Name;idofs;PLZ;Gemeinde
 31;Aziende Industriali di Lugano SA AIL;5236;6925;Collina d'Oro
 31;Aziende Industriali di Lugano SA AIL;5237;6939;Alto Malcantone
 31;Aziende Industriali di Lugano SA AIL;5238;6802;Monteceneri
+31;Aziende Industriali di Lugano SA AIL;5239;6980;Tresa
 2;Acqua Gas Elettricità SA Chiasso;5242;6828;Balerna
 31;Aziende Industriali di Lugano SA AIL;5249;6875;Castel San Pietro
 2;Acqua Gas Elettricità SA Chiasso;5250;6830;Chiasso
@@ -1739,6 +1745,7 @@ nrElcom;Name;idofs;PLZ;Gemeinde
 712;Società Elettrica Sopracenerina SA (Ticino);5396;6652;Terre di Pedemonte
 712;Società Elettrica Sopracenerina SA (Ticino);5397;6655;Centovalli
 712;Società Elettrica Sopracenerina SA (Ticino);5398;6571;Gambarogno
+712;Società Elettrica Sopracenerina SA (Ticino);5399;6631;Verzasca
 669;Romande Energie SA;5401;1860;Aigle
 568;Forces Motrices de l'Avançon SA;5402;1880;Bex
 669;Romande Energie SA;5403;1846;Chessel
@@ -2015,6 +2022,7 @@ nrElcom;Name;idofs;PLZ;Gemeinde
 669;Romande Energie SA;5889;1814;La Tour-de-Peilz
 669;Romande Energie SA;5890;1800;Vevey
 669;Romande Energie SA;5891;1820;Veytaux
+669;Romande Energie SA;5892;1806;Blonay - Saint-Légier
 669;Romande Energie SA;5902;1432;Belmont-sur-Yverdon
 669;Romande Energie SA;5903;1407;Bioley-Magnoux
 669;Romande Energie SA;5904;1436;Chamblon
@@ -2057,10 +2065,11 @@ nrElcom;Name;idofs;PLZ;Gemeinde
 853;Oiken SA;6023;1975;Conthey
 685;Service électrique intercommunal S.A.;6024;1997;Nendaz
 853;Oiken SA;6025;1963;Vétroz
-44;Dransgrid;6032;1946;Bourg-Saint-Pierre
-44;Dransgrid;6033;1945;Liddes
-44;Dransgrid;6034;1943;Orsières
+44;DransGrid SA;6032;1946;Bourg-Saint-Pierre
+44;DransGrid SA;6033;1945;Liddes
+44;DransGrid SA;6034;1943;Orsières
 687;Services électrique de la Commune de Sembrancher;6035;1933;Sembrancher
+689;Services Industriels de Bagnes;6037;1927;Val de Bagnes
 556;EnBAG Netze AG;6052;3997;Bellwald
 255;Elektrizitätsgenossenschaft Binn;6054;3996;Binn
 431;Endigo AG;6054;3996;Binn
@@ -2144,6 +2153,7 @@ nrElcom;Name;idofs;PLZ;Gemeinde
 853;Oiken SA;6248;3976;Sierre
 853;Oiken SA;6252;3961;Anniviers
 853;Oiken SA;6253;3974;Crans-Montana
+853;Oiken SA;6254;3960;Noble-Contrée
 853;Oiken SA;6261;1974;Arbaz
 853;Oiken SA;6263;1971;Grimisuat
 853;Oiken SA;6265;1965;Savièse
@@ -2172,10 +2182,10 @@ nrElcom;Name;idofs;PLZ;Gemeinde
 795;Elektrizitätswerk Riedbach;6298;3932;Visperterminen
 281;Elektrizitätsgenossenschaft Zeneggen;6299;3934;Zeneggen
 484;Elektrizitätswerk Zermatt AG;6300;3920;Zermatt
-38;Eli10;6404;2015;Boudry
-38;Eli10;6408;2016;Cortaillod
+38;Eli10 SA;6404;2015;Boudry
+38;Eli10 SA;6408;2016;Cortaillod
 609;Groupe E SA;6413;2019;Rochefort
-38;Eli10;6416;2012;Milvignes
+38;Eli10 SA;6416;2012;Milvignes
 609;Groupe E SA;6416;2012;Milvignes
 609;Groupe E SA;6417;2023;La Grande-Béroche
 773;Viteos SA;6421;2300;La Chaux-de-Fonds
@@ -2187,10 +2197,10 @@ nrElcom;Name;idofs;PLZ;Gemeinde
 609;Groupe E SA;6435;2405;La Chaux-du-Milieu
 773;Viteos SA;6436;2400;Le Locle
 609;Groupe E SA;6437;2316;Les Ponts-de-Martel
-38;Eli10;6451;2087;Cornaux
+38;Eli10 SA;6451;2087;Cornaux
 609;Groupe E SA;6451;2087;Cornaux
 609;Groupe E SA;6452;2088;Cressier (NE)
-38;Eli10;6455;2525;Le Landeron
+38;Eli10 SA;6455;2525;Le Landeron
 609;Groupe E SA;6456;2523;Lignières
 773;Viteos SA;6458;2000;Neuchâtel
 609;Groupe E SA;6487;2043;Val-de-Ruz
@@ -2292,3 +2302,4 @@ nrElcom;Name;idofs;PLZ;Gemeinde
 36;BKW Energie AG;6808;2882;Clos du Doubs
 36;BKW Energie AG;6809;2906;Haute-Ajoie
 36;BKW Energie AG;6810;2946;La Baroche
+36;BKW Energie AG;6812;2935;Basse-Vendline
