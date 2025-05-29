@@ -15,7 +15,7 @@
 
 ## Präsentation
 
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://raw.githubusercontent.com/andre-winkler/LN_BINA_FS25/main/presentation/BINA_Pr%C3%A4si_Solarenergie_FS2025.pptx' width='100%' height='600px' frameborder='0'>
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://raw.githubusercontent.com/andre-winkler/LN_BINA_FS25/main/presentation/BINA_Pr%C3%A4si_Solarenergie_FS2025.pptx' width='100%' height='600px' frameborder='0' allowfullscreen></iframe>
 
 
 {% include_relative 1_management_summary.md %}
