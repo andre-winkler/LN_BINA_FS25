@@ -9,6 +9,15 @@
 
 </div>
 
+## Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Zxy2RzAlQQ?si=TZCZkVHuBfINCz6d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Präsentation
+
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=[https://github.com/andre-winkler/LN_BINA_FS25/raw/refs/heads/main/presentation/BINA_Pr%C3%A4si_Solarenergie_FS2025.pptx]' width='100%' height='600px' frameborder='0'>
+
+
 {% include_relative 1_management_summary.md %}
 {% include_relative 2_einleitung.md %}
 {% include_relative 3_vorgehen.md %}
